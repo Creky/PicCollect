@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="css/popup.css" />
+<link rel="stylesheet" type="text/css" href="css/buttons.css" />
+
+</head>
+<body>
+	<div class="container">
+		<div class="box">
+		<button id="btnGetAllTab" class="button medium gray"><span data-msg="all_tab">所有标签</span></button>
+		<button id="btnGetCurrentTab" class="button medium orange"><span data-msg="active_tab">当前标签</span></button>
+		</div>
+		<details class="details">
+			<summary> <span data-msg="open_multiple_page">打开多个页面？</span></summary>
+			<div class="box">
+				<textarea id="textPage" cols="30" rows="10" placeholder="可以填写多行，可以用通配符[01-10]表示第01到10页，例如：            http://abc.com?page=[1-4,a-z]" data-msg="open_multiple_page_tips" data-msg-attr="placeholder"></textarea>
+				<button id="btnOpenPage" class="button green"><span data-msg="open_multiple_page_action">打开页面</span></button>
+
+			</div>
+		</details>
+
+
+		<p class="tips"><span data-msg="popup_tips">在页面按快捷键Alt + Z获取当前标签图片</span></p>
+	</div>
+	<script type="text/javascript" src="js/jQuery.js"></script> 
+	<script type="text/javascript" src="js/common.js"></script>
+	<script type="text/javascript" src="js/json2.js"></script> 
+	<script type="text/javascript" src="js/popup.js"></script>
+</body>
+</html>

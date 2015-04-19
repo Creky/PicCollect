@@ -1,0 +1,203 @@
+{
+"active_tab": {
+"message": "Tab na Ito"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "I-click ang Imahe upang alisan ng check o lagyan ng tsek"
+},
+"all_tab": {
+"message": "Lahat ng Mga Tab"
+},
+"apply": {
+"message": "gamitin"
+},
+"chrome_download_settings_url": {
+"message": "I-download ang"
+},
+"default_title": {
+"message": "Fatkun Batch I-download ang Imahe"
+},
+"default_title_desc": {
+"message": "ShortKey : Alt + Z"
+},
+"description": {
+"message": "Ang isang kapaki-pakinabang at simpleng pag-download ng larawan ay maaaring i-filter extension.You sa pamamagitan ng resolusyon o link ."
+},
+"do_not_show_again": {
+"message": "Alam ko , hindi ipakita ang dialog na ito anumang higit pa."
+},
+"donate": {
+"message": "mag-abuloy"
+},
+"export_btn": {
+"message": "magluwas"
+},
+"export_close": {
+"message": "malapit"
+},
+"export_format": {
+"message": "format"
+},
+"export_format_tips": {
+"message": "Maaari mong gamitin ang mga variable na ito : { WALANG } ay nangangahulugang numero pagkakasunud-sunod ; { LINK} ay nangangahulugang link ng larawan"
+},
+"export_link": {
+"message": "I-export ang link"
+},
+"filter_link": {
+"message": "I-filter ayon link"
+},
+"height": {
+"message": "taas"
+},
+"height_short": {
+"message": "taas"
+},
+"inverse": {
+"message": "tarugo"
+},
+"min_display": {
+"message": "Max Gilid"
+},
+"more_options": {
+"message": "Karagdagang Mga Pagpipilian"
+},
+"not_rename": {
+"message": "hindi palitan ang pangalan"
+},
+"open_multiple_page": {
+"message": "Buksan ang multi page?"
+},
+"open_multiple_page_action": {
+"message": "Buksan ang pahina"
+},
+"open_multiple_page_tips": {
+"message": "payagan multirow , wildcard [ 01-10 ] Nangangahulugan 01-10 pahina , halimbawa: http://abc.com?page=[1-4,az ]"
+},
+"popup_tips": {
+"message": "Maikling Key: Alt + Z"
+},
+"process_end": {
+"message": "mga larawan"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "pagkuha ng resolution ng imahe"
+},
+"rename_by_this_format": {
+"message": "Palitan ang pangalan batay sa"
+},
+"rename_tips": {
+"message": "Maaari mong gamitin ang mga variable na ito : { WALANG } ay nangangahulugang numero pagkakasunud-sunod ; { EXT } ay nangangahulugan ng pinalawig na pangalan"
+},
+"right_click_to_open": {
+"message": "( I-right click upang buksan at suriin ang mga setting )"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "I-save ang"
+},
+"save_image": {
+"message": "I-save ang Imahe"
+},
+"save_tips": {
+"message": "\" Magtanong kung saan masi -save ang bawat file bago ang pag-download \" na opsyon sa Chrome Downlods Setting.Otherwise , maraming maraming mga dialog ng pagkumpirma kawan ."
+},
+"save_tips_cancel": {
+"message": "kanselahin"
+},
+"save_tips_do_not_check": {
+"message": "Huwag piliin"
+},
+"save_tips_done": {
+"message": "I-save ang Imahe"
+},
+"save_tips_open_setting": {
+"message": "Buksan ang Mga Setting ng Pahina"
+},
+"settings": {
+"message": "Mga Setting"
+},
+"settings_already_save": {
+"message": "-Save ang setting."
+},
+"settings_collect_one_page": {
+"message": "Kolektahin sa sa pahina"
+},
+"settings_download": {
+"message": "Ang Setting ng Chrome Download"
+},
+"settings_min_display": {
+"message": "Default na resolution min"
+},
+"settings_rule_last_update_time": {
+"message": "Huling pag-update :"
+},
+"settings_rule_last_update_time_none": {
+"message": "wala"
+},
+"settings_save_folder": {
+"message": "i-save ang folder pangalan ( para sa Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "gamitin nakapirming pangalan"
+},
+"settings_save_use_title": {
+"message": "Pamagat ng paggamit ng website"
+},
+"settings_show_website": {
+"message": "Ipakita link"
+},
+"settings_simple": {
+"message": "normal Setting"
+},
+"settings_special_support": {
+"message": "Mga espesyal na suporta"
+},
+"settings_special_support_desc": {
+"message": "Mga Karaniwang Panuntunan"
+},
+"settings_use_shortcut_key": {
+"message": "Gamitin Maikling Key: Alt + Z"
+},
+"sort": {
+"message": "uri"
+},
+"sort_big_first": {
+"message": "Big imahe muna"
+},
+"sort_normal": {
+"message": "Pagsunud-sunurin ayon sa site"
+},
+"sort_small_first": {
+"message": "Maliit na larawang unang"
+},
+"switch_view": {
+"message": "lumipat Tingnan ang"
+},
+"update_declaration": {
+"message": "-Reference ang extension na ito ng ilang mga code ng zzllrr ng \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e小乐图客\u003c/a\u003e"
+},
+"update_description": {
+"message": "1 \u003cbr /\u003e 2 -download ng mga setting ng Chrome pagsasalin Ingles tooltip -update"
+},
+"update_title": {
+"message": "Fatkun Batch Mag-download ng bersyon 1.8.3 Larawan"
+},
+"width": {
+"message": "lapad"
+},
+"width_short": {
+"message": "lapad"
+}
+}

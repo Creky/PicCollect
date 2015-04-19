@@ -1,0 +1,203 @@
+{
+"active_tab": {
+"message": "Tab ini"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "Klik gambar untuk hapus centang atau check"
+},
+"all_tab": {
+"message": "semua Tabs"
+},
+"apply": {
+"message": "Mengajukan Permohonan"
+},
+"chrome_download_settings_url": {
+"message": "Download"
+},
+"default_title": {
+"message": "Batch Fatkun Unduh Gambar"
+},
+"default_title_desc": {
+"message": "Shortkey : Alt + Z"
+},
+"description": {
+"message": "Sebuah download gambar yang berguna dan sederhana extension.You dapat menyaring berdasarkan resolusi atau link ."
+},
+"do_not_show_again": {
+"message": "Aku tahu itu , tidak menunjukkan dialog ini lagi ."
+},
+"donate": {
+"message": "menyumbangkan"
+},
+"export_btn": {
+"message": "ekspor"
+},
+"export_close": {
+"message": "dekat"
+},
+"export_format": {
+"message": "format"
+},
+"export_format_tips": {
+"message": "Anda dapat menggunakan variabel tersebut : { } NO berarti nomor urut ; { } LINK berarti image link"
+},
+"export_link": {
+"message": "Link ekspor"
+},
+"filter_link": {
+"message": "Filter dengan Link"
+},
+"height": {
+"message": "tinggi Badan"
+},
+"height_short": {
+"message": "tinggi Badan"
+},
+"inverse": {
+"message": "beralih"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "Lebih Pilihan"
+},
+"not_rename": {
+"message": "tidak mengubah nama"
+},
+"open_multiple_page": {
+"message": "Buka halaman multi ?"
+},
+"open_multiple_page_action": {
+"message": "halaman terbuka"
+},
+"open_multiple_page_tips": {
+"message": "memungkinkan Multirow , wildcard [ 10/01 ] berarti 01-10 halaman , misalnya : http://abc.com?page=[1-4,az ]"
+},
+"popup_tips": {
+"message": "Kunci pendek : Alt + Z"
+},
+"process_end": {
+"message": "gambar gambar"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "image mendapatkan resolusi"
+},
+"rename_by_this_format": {
+"message": "Ubah nama berdasarkan"
+},
+"rename_tips": {
+"message": "Anda dapat menggunakan variabel tersebut : { } NO berarti nomor urut ; { } EXT berarti nama diperpanjang"
+},
+"right_click_to_open": {
+"message": "( Klik kanan untuk membuka dan memeriksa pengaturan )"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Simpan"
+},
+"save_image": {
+"message": "Simpan Gambar"
+},
+"save_tips": {
+"message": "\" Tanyakan lokasi penyimpanan setiap berkas sebelum mengunduh \" pilihan di Chrome Downlods Setting.Otherwise , banyak banyak dialog konfirmasi kawanan ."
+},
+"save_tips_cancel": {
+"message": "Tidak Jadi"
+},
+"save_tips_do_not_check": {
+"message": "JANGAN PILIH"
+},
+"save_tips_done": {
+"message": "Simpan Gambar"
+},
+"save_tips_open_setting": {
+"message": "Buka Pengaturan Halaman"
+},
+"settings": {
+"message": "pengaturan"
+},
+"settings_already_save": {
+"message": "Pengaturan disimpan ."
+},
+"settings_collect_one_page": {
+"message": "Kumpulkan untuk pada halaman"
+},
+"settings_download": {
+"message": "Chrome Downloads Pengaturan"
+},
+"settings_min_display": {
+"message": "Resolusi min default"
+},
+"settings_rule_last_update_time": {
+"message": "Update terakhir :"
+},
+"settings_rule_last_update_time_none": {
+"message": "Tidak Satupun"
+},
+"settings_save_folder": {
+"message": "menyimpan nama folder ( untuk Ctrl + S )"
+},
+"settings_save_use_fixed_name": {
+"message": "menggunakan nama tetap"
+},
+"settings_save_use_title": {
+"message": "Judul penggunaan situs"
+},
+"settings_show_website": {
+"message": "Tampilkan Link"
+},
+"settings_simple": {
+"message": "Pengaturan yang normal"
+},
+"settings_special_support": {
+"message": "dukungan khusus"
+},
+"settings_special_support_desc": {
+"message": "Aturan umum"
+},
+"settings_use_shortcut_key": {
+"message": "Gunakan Kunci Pendek : Alt + Z"
+},
+"sort": {
+"message": "jenis"
+},
+"sort_big_first": {
+"message": "Gambar besar pertama"
+},
+"sort_normal": {
+"message": "Urutkan berdasarkan situs"
+},
+"sort_small_first": {
+"message": "Gambar kecil dulu"
+},
+"switch_view": {
+"message": "beralih View"
+},
+"update_declaration": {
+"message": "Ekstensi ini direferensikan beberapa kode zzllrr ini \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e小乐图客\u003c/a\u003e"
+},
+"update_description": {
+"message": "1 terjemahan bahasa Inggris \u003cbr /\u003e 2 pengaturan download Chrome tooltips diperbarui"
+},
+"update_title": {
+"message": "Fatkun Batch download gambar versi 1.8.3"
+},
+"width": {
+"message": "lebar"
+},
+"width_short": {
+"message": "lebar"
+}
+}

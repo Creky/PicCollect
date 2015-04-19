@@ -1,0 +1,203 @@
+{
+"active_tab": {
+"message": "Tab ini"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "Klik imej untuk buang tanda atau mendaftar"
+},
+"all_tab": {
+"message": "semua Tab"
+},
+"apply": {
+"message": "memohon"
+},
+"chrome_download_settings_url": {
+"message": "Muat turun"
+},
+"default_title": {
+"message": "Batch Fatkun Download Image"
+},
+"default_title_desc": {
+"message": "ShortKey : Alt + Z"
+},
+"description": {
+"message": "Muat turun imej berguna dan mudah extension.You boleh menapis melalui ketetapan atau pautan ."
+},
+"do_not_show_again": {
+"message": "Saya tahu dan tidak menunjukkan dialog ini lagi."
+},
+"donate": {
+"message": "menderma"
+},
+"export_btn": {
+"message": "eksport"
+},
+"export_close": {
+"message": "Tutup"
+},
+"export_format": {
+"message": "format"
+},
+"export_format_tips": {
+"message": "Anda boleh menggunakan pembolehubah ini : { NO } bermaksud nombor turutan ; { LINK } bermakna pautan imej"
+},
+"export_link": {
+"message": "pautan eksport"
+},
+"filter_link": {
+"message": "Tapis mengikut pautan"
+},
+"height": {
+"message": "ketinggian"
+},
+"height_short": {
+"message": "ketinggian"
+},
+"inverse": {
+"message": "Togol"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "lebih Pilihan"
+},
+"not_rename": {
+"message": "tidak menamakan semula"
+},
+"open_multiple_page": {
+"message": "Buka halaman berbilang ?"
+},
+"open_multiple_page_action": {
+"message": "laman terbuka"
+},
+"open_multiple_page_tips": {
+"message": "membenarkan multirow , wildcard [ 10/01 ] bermakna 01-10 halaman , sebagai contoh : http://abc.com?page=[1-4,az ]"
+},
+"popup_tips": {
+"message": "Key Pendek : Alt + Z"
+},
+"process_end": {
+"message": "imej"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "imej mendapatkan resolusi"
+},
+"rename_by_this_format": {
+"message": "Nama semula berdasarkan"
+},
+"rename_tips": {
+"message": "Anda boleh menggunakan pembolehubah ini : { NO } bermaksud nombor turutan ; { EXT } ertinya nama diluaskan"
+},
+"right_click_to_open": {
+"message": "( Klik kanan untuk membuka dan memeriksa tetapan )"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Simpan"
+},
+"save_image": {
+"message": "Simpan imej"
+},
+"save_tips": {
+"message": "\" Tanyakan tempat untuk menyimpan setiap fail sebelum memuat turun \" dalam Chrome Downlods Setting.Otherwise , banyak dialog pengesahan ramai berduyun-duyun ."
+},
+"save_tips_cancel": {
+"message": "Batal"
+},
+"save_tips_do_not_check": {
+"message": "JANGAN PILIH"
+},
+"save_tips_done": {
+"message": "Simpan imej"
+},
+"save_tips_open_setting": {
+"message": "Buka Tetapan Page"
+},
+"settings": {
+"message": "Tetapan"
+},
+"settings_already_save": {
+"message": "Tetapan disimpan ."
+},
+"settings_collect_one_page": {
+"message": "Kumpul untuk di halaman"
+},
+"settings_download": {
+"message": "Chrome Muat turun Menetapkan"
+},
+"settings_min_display": {
+"message": "Min resolusi lalai"
+},
+"settings_rule_last_update_time": {
+"message": "Kemas kini terakhir :"
+},
+"settings_rule_last_update_time_none": {
+"message": "Tiada"
+},
+"settings_save_folder": {
+"message": "menyelamatkan nama folder ( untuk Ctrl + S )"
+},
+"settings_save_use_fixed_name": {
+"message": "menggunakan nama tetap"
+},
+"settings_save_use_title": {
+"message": "tajuk penggunaan laman web"
+},
+"settings_show_website": {
+"message": "Show link"
+},
+"settings_simple": {
+"message": "Tetapan biasa"
+},
+"settings_special_support": {
+"message": "sokongan khas"
+},
+"settings_special_support_desc": {
+"message": "Peraturan Bersama"
+},
+"settings_use_shortcut_key": {
+"message": "Gunakan Utama Pendek : Alt + Z"
+},
+"sort": {
+"message": "Isih"
+},
+"sort_big_first": {
+"message": "Imej Big pertama"
+},
+"sort_normal": {
+"message": "Susun mengikut tapak"
+},
+"sort_small_first": {
+"message": "Imej kecil pertama"
+},
+"switch_view": {
+"message": "Tukar Lihat"
+},
+"update_declaration": {
+"message": "Pelanjutan ini dirujuk beberapa kod zzllrr ini \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e小乐图客\u003c/a\u003e"
+},
+"update_description": {
+"message": "1 terjemahan bahasa Inggeris \u003cbr /\u003e 2 Chrome memuat turun tetapan petua dikemaskini"
+},
+"update_title": {
+"message": "Fatkun batch turun imej versi 1.8.3"
+},
+"width": {
+"message": "lebar"
+},
+"width_short": {
+"message": "lebar"
+}
+}

@@ -1,0 +1,203 @@
+{
+"active_tab": {
+"message": "Tab"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "Image Lorem aut Click to licens"
+},
+"all_tab": {
+"message": "omnes Tabs"
+},
+"apply": {
+"message": "Adhibe"
+},
+"chrome_download_settings_url": {
+"message": "Download"
+},
+"default_title": {
+"message": "Fatkun Batch Image"
+},
+"default_title_desc": {
+"message": "ShortKey : Alt + Z"
+},
+"description": {
+"message": "An utile et simplices , vel per resolutionem ad imaginem download extension.You potest spurcamen link."
+},
+"do_not_show_again": {
+"message": "Scio, nonne hoc indicant, alternis amplius."
+},
+"donate": {
+"message": "Donate"
+},
+"export_btn": {
+"message": "Export"
+},
+"export_close": {
+"message": "Close"
+},
+"export_format": {
+"message": "format"
+},
+"export_format_tips": {
+"message": "Vos can utor his variabilium : } { NO sequence est numerus : {LINK } significat image"
+},
+"export_link": {
+"message": "Export Link"
+},
+"filter_link": {
+"message": "By link Filter"
+},
+"height": {
+"message": "Altitudo"
+},
+"height_short": {
+"message": "Altitudo"
+},
+"inverse": {
+"message": "Toggle"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "More options"
+},
+"not_rename": {
+"message": "Non renominationum"
+},
+"open_multiple_page": {
+"message": "Patefacio page multi ?"
+},
+"open_multiple_page_action": {
+"message": "patefacio page"
+},
+"open_multiple_page_tips": {
+"message": "multirow patitur , wildcard [ 01-10 ] est X to page I , verbigratia : http://abc.com?page=[1-4,az ]"
+},
+"popup_tips": {
+"message": "Short Key : Alt + Z"
+},
+"process_end": {
+"message": "images"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "imago questus resolutio"
+},
+"rename_by_this_format": {
+"message": "Dicite fundatur"
+},
+"rename_tips": {
+"message": "Vos can utor his variabilium : } { NO sequence est numerus ; } { ROXIME est extenso nomine"
+},
+"right_click_to_open": {
+"message": "( Vox-click fundis morentur aperire )"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Save"
+},
+"save_image": {
+"message": "Save Image"
+},
+"save_tips": {
+"message": "\" Quaere quo salvare file ante downloading \" bene in Downlods Setting.Otherwise Chrome , multa pecora multa confirmatione alternis sermonibus ."
+},
+"save_tips_cancel": {
+"message": "Cancel"
+},
+"save_tips_do_not_check": {
+"message": "Non lego"
+},
+"save_tips_done": {
+"message": "Save Image"
+},
+"save_tips_open_setting": {
+"message": "Aperi Occasus Page"
+},
+"settings": {
+"message": "occasus"
+},
+"settings_already_save": {
+"message": "Profecti salvari ."
+},
+"settings_collect_one_page": {
+"message": "Collecta ad on page"
+},
+"settings_download": {
+"message": "Chrome Profecti Downloads"
+},
+"settings_min_display": {
+"message": "Default min resolutio"
+},
+"settings_rule_last_update_time": {
+"message": "Last update:"
+},
+"settings_rule_last_update_time_none": {
+"message": "none"
+},
+"settings_save_folder": {
+"message": "nisi nomen folder ( quia CtrlTab + S )"
+},
+"settings_save_use_fixed_name": {
+"message": "uti certo nomine"
+},
+"settings_save_use_title": {
+"message": "uti website title"
+},
+"settings_show_website": {
+"message": "Show Link"
+},
+"settings_simple": {
+"message": "Normal Occasus"
+},
+"settings_special_support": {
+"message": "Nota adiutorium"
+},
+"settings_special_support_desc": {
+"message": "communis regula"
+},
+"settings_use_shortcut_key": {
+"message": "Uti Short Key : Alt + Z"
+},
+"sort": {
+"message": "Sort"
+},
+"sort_big_first": {
+"message": "Big imago primus"
+},
+"sort_normal": {
+"message": "Sort by site"
+},
+"sort_small_first": {
+"message": "Small imago primus"
+},
+"switch_view": {
+"message": "Switch View"
+},
+"update_declaration": {
+"message": "Haec extensio est referenced aliqua Codicis zzllrr \u003c a href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e小乐图客\u003c/a\u003e"
+},
+"update_description": {
+"message": "I English translation II \u003cbr /\u003e Chrome downloading occasus ToolTips updated"
+},
+"update_title": {
+"message": "1.8.3 version Fatkun Batch Image"
+},
+"width": {
+"message": "width"
+},
+"width_short": {
+"message": "width"
+}
+}

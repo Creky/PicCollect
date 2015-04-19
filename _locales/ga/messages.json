@@ -1,0 +1,203 @@
+{
+"active_tab": {
+"message": "seo Tab"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "Cliceáil Íomhá chun tic nó a sheiceáil"
+},
+"all_tab": {
+"message": "gach Cluaisíní"
+},
+"apply": {
+"message": "Cuir iarratas isteach"
+},
+"chrome_download_settings_url": {
+"message": "Íosluchtaigh"
+},
+"default_title": {
+"message": "Baisc Fatkun Download Íomhá"
+},
+"default_title_desc": {
+"message": "ShortKey : Alt + Z"
+},
+"description": {
+"message": "Íomhá íoslódáil úsáideach agus simplí, is féidir extension.You scagaire le rún nó ar an nasc ."
+},
+"do_not_show_again": {
+"message": "Tá a fhios agam é , ní léiríonn an dialóg ar bith níos mó ."
+},
+"donate": {
+"message": "Síntiúis"
+},
+"export_btn": {
+"message": "Easpórtáil"
+},
+"export_close": {
+"message": "Dún"
+},
+"export_format": {
+"message": "formáid"
+},
+"export_format_tips": {
+"message": "Is féidir leat úsáid na hathróga : { NO } ciallaíonn tsraithuimhir ciallaíonn { LINK } nasc íomhá"
+},
+"export_link": {
+"message": "nasc Easpórtáil"
+},
+"filter_link": {
+"message": "Scag de réir nasc"
+},
+"height": {
+"message": "airde"
+},
+"height_short": {
+"message": "airde"
+},
+"inverse": {
+"message": "scoránaigh"
+},
+"min_display": {
+"message": "Max Taobh"
+},
+"more_options": {
+"message": "tuilleadh Roghanna"
+},
+"not_rename": {
+"message": "Gan athainmniú"
+},
+"open_multiple_page": {
+"message": "Oscail leathanach il ?"
+},
+"open_multiple_page_action": {
+"message": "leathanach oscailte"
+},
+"open_multiple_page_tips": {
+"message": "multirow , [ 01-10 ] ciallaíonn saoróg 01-10 leathanach a cheadú , mar shampla : http://abc.com?page=[1-4,az ]"
+},
+"popup_tips": {
+"message": "Gearr Eochair : Alt + Z"
+},
+"process_end": {
+"message": "íomhánna"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "íomhá ag fáil réiteach"
+},
+"rename_by_this_format": {
+"message": "Athainmnigh bunaithe ar"
+},
+"rename_tips": {
+"message": "Is féidir leat úsáid na hathróga : { NO } ciallaíonn tsraithuimhir ciallaíonn { } EXT an t-ainm leathnaithe"
+},
+"right_click_to_open": {
+"message": "( Deaschliceáil a oscailt agus suímh a sheiceáil )"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Sábháil"
+},
+"save_image": {
+"message": "Sábháil Íomhá"
+},
+"save_tips": {
+"message": "\" Iarr nuair a gach comhad a shábháil roimh a íoslódáil \" rogha i Chrome Downlods Setting.Otherwise , flock go leor dialóga deimhniú go leor ."
+},
+"save_tips_cancel": {
+"message": "Cealaigh"
+},
+"save_tips_do_not_check": {
+"message": "NÁ SELECT"
+},
+"save_tips_done": {
+"message": "Sábháil Íomhá"
+},
+"save_tips_open_setting": {
+"message": "Oscail Socruithe Leathanach"
+},
+"settings": {
+"message": "Socruithe"
+},
+"settings_already_save": {
+"message": "Spriocanna socraithe shábháil ."
+},
+"settings_collect_one_page": {
+"message": "Bailigh ar leathanach"
+},
+"settings_download": {
+"message": "Íoslódálacha chrome Socrú"
+},
+"settings_min_display": {
+"message": "Réamhshocraithe min réiteach"
+},
+"settings_rule_last_update_time": {
+"message": "Nuashonrú is déanaí:"
+},
+"settings_rule_last_update_time_none": {
+"message": "aon cheann"
+},
+"settings_save_folder": {
+"message": "an t-ainm an fhillteáin shábháil (do Ctrl + S )"
+},
+"settings_save_use_fixed_name": {
+"message": "an t-ainm seasta a úsáid"
+},
+"settings_save_use_title": {
+"message": "Teideal láithreán gréasáin a úsáid"
+},
+"settings_show_website": {
+"message": "Taispeáin nasc"
+},
+"settings_simple": {
+"message": "Socruithe gnáth"
+},
+"settings_special_support": {
+"message": "tacaíocht speisialta"
+},
+"settings_special_support_desc": {
+"message": "Riail Common"
+},
+"settings_use_shortcut_key": {
+"message": "Úsáid Eochair Gearr : Alt + Z"
+},
+"sort": {
+"message": "Sórtáil"
+},
+"sort_big_first": {
+"message": "Íomhá Big dtús"
+},
+"sort_normal": {
+"message": "Sórtáil de réir an suíomh"
+},
+"sort_small_first": {
+"message": "Íomhá Beaga dtús"
+},
+"switch_view": {
+"message": "Athraigh View"
+},
+"update_declaration": {
+"message": "An síneadh tagairt éigin gcód zzllrr ar \u003c a href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e小乐图客\u003c/a\u003e"
+},
+"update_description": {
+"message": "1 aistriúchán Béarla \u003cbr /\u003e 2 Chrome suímh íoslódáil leideanna suas chun dáta"
+},
+"update_title": {
+"message": "Fatkun Baisc Íosluchtaigh Íomhá Leagan 1.8.3"
+},
+"width": {
+"message": "leithead"
+},
+"width_short": {
+"message": "leithead"
+}
+}

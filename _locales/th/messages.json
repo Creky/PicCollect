@@ -1,0 +1,203 @@
+{
+"active_tab": {
+"message": "แท็บ นี้"
+},
+"advise": {
+"message": "บล็อก"
+},
+"aimg_tooltip": {
+"message": "คลิกที่ ภาพเพื่อ ยกเลิกการเลือก หรือตรวจสอบ"
+},
+"all_tab": {
+"message": "แท็บ ทั้งหมด"
+},
+"apply": {
+"message": "ใช้"
+},
+"chrome_download_settings_url": {
+"message": "ดาวน์โหลด"
+},
+"default_title": {
+"message": "ดาวน์โหลด Batch Fatkun ภาพ"
+},
+"default_title_desc": {
+"message": "ShortKey : Alt + Z"
+},
+"description": {
+"message": "ภาพ ที่มีประโยชน์และ ง่าย ดาวน์โหลด extension.You สามารถกรองตาม มติ หรือการเชื่อมโยง"
+},
+"do_not_show_again": {
+"message": "ฉันรู้ว่ามัน ไม่ แสดงกล่องโต้ตอบนี้ อีกต่อไป"
+},
+"donate": {
+"message": "บริจาค"
+},
+"export_btn": {
+"message": "ส่งออก"
+},
+"export_close": {
+"message": "ใกล้"
+},
+"export_format": {
+"message": "รูป"
+},
+"export_format_tips": {
+"message": "คุณสามารถใช้ ตัวแปรเหล่านี้ : { } NO หมายถึง หมายเลขลำดับ ; } { LINK หมายถึงการ เชื่อมโยงภาพ"
+},
+"export_link": {
+"message": "การส่งออกและ การเชื่อมโยง"
+},
+"filter_link": {
+"message": "กรองตาม ลิงค์"
+},
+"height": {
+"message": "ความสูง"
+},
+"height_short": {
+"message": "ความสูง"
+},
+"inverse": {
+"message": "ข้อศอก"
+},
+"min_display": {
+"message": "แม็กซ์ ด้านข้าง"
+},
+"more_options": {
+"message": "ตัวเลือกเพิ่มเติม"
+},
+"not_rename": {
+"message": "ไม่ เปลี่ยนชื่อ"
+},
+"open_multiple_page": {
+"message": "เปิด หลายหน้า ?"
+},
+"open_multiple_page_action": {
+"message": "หน้า เปิด"
+},
+"open_multiple_page_tips": {
+"message": "อนุญาตให้ multirow , ตัวแทน [ 01-10 ] หมายถึง 01-10 หน้า ตัวอย่างเช่น: http://abc.com?page=[1-4,az ]"
+},
+"popup_tips": {
+"message": "กุญแจ สั้น: Alt + Z"
+},
+"process_end": {
+"message": "ภาพ"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "ภาพ ที่ได้รับ ความละเอียด"
+},
+"rename_by_this_format": {
+"message": "ขึ้นอยู่กับการ เปลี่ยนชื่อ"
+},
+"rename_tips": {
+"message": "คุณสามารถใช้ ตัวแปรเหล่านี้ : { } NO หมายถึง หมายเลขลำดับ ; { EXT } หมายถึง ชื่อ ขยาย"
+},
+"right_click_to_open": {
+"message": "( คลิกขวาเพื่อ เปิด และการตั้งค่า ตรวจสอบ )"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "บันทึก"
+},
+"save_image": {
+"message": "บันทึกภาพ"
+},
+"save_tips": {
+"message": "\" สอบถามที่เก็บ ไฟล์ก่อนดาวน์โหลด ตัวเลือก\" ใน Chrome Downlods Setting.Otherwise หลาย ไดอะล็อก ยืนยัน หลาย ฝูง"
+},
+"save_tips_cancel": {
+"message": "ยกเลิก"
+},
+"save_tips_do_not_check": {
+"message": "ไม่ได้เลือก"
+},
+"save_tips_done": {
+"message": "บันทึกภาพ"
+},
+"save_tips_open_setting": {
+"message": "เปิด การตั้งค่า หน้า"
+},
+"settings": {
+"message": "การตั้งค่า"
+},
+"settings_already_save": {
+"message": "การตั้งค่า ที่บันทึกไว้"
+},
+"settings_collect_one_page": {
+"message": "เก็บ ไป บนหน้าเว็บ"
+},
+"settings_download": {
+"message": "Chrome ตั้งค่า ดาวน์โหลด"
+},
+"settings_min_display": {
+"message": "เริ่มต้น ที่มีความละเอียด ต่ำสุด"
+},
+"settings_rule_last_update_time": {
+"message": "ปรับปรุงล่าสุด:"
+},
+"settings_rule_last_update_time_none": {
+"message": "ไม่"
+},
+"settings_save_folder": {
+"message": "บันทึกชื่อ โฟลเดอร์ ( สำหรับ Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "ใช้ชื่อ คงที่"
+},
+"settings_save_use_title": {
+"message": "ชื่อเรื่อง การใช้งาน เว็บไซต์"
+},
+"settings_show_website": {
+"message": "แสดง การเชื่อมโยง"
+},
+"settings_simple": {
+"message": "การตั้งค่า ปกติ"
+},
+"settings_special_support": {
+"message": "การสนับสนุน พิเศษ"
+},
+"settings_special_support_desc": {
+"message": "กฎข้อ ที่พบบ่อย"
+},
+"settings_use_shortcut_key": {
+"message": "ใช้คีย์ สั้น: Alt + Z"
+},
+"sort": {
+"message": "ประเภท"
+},
+"sort_big_first": {
+"message": "ภาพ ใหญ่ครั้งแรก"
+},
+"sort_normal": {
+"message": "เรียงตาม เว็บไซต์"
+},
+"sort_small_first": {
+"message": "ภาพ ขนาดเล็ก ครั้งแรก"
+},
+"switch_view": {
+"message": "สวิทช์ ดู"
+},
+"update_declaration": {
+"message": "นามสกุลนี้ อ้างอิง รหัส ของ zzllrr บาง \u003c href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e小乐图客\u003c/a\u003e"
+},
+"update_description": {
+"message": "1 ภาษาอังกฤษ \u003cbr /\u003e 2 Chrome ดาวน์โหลด การตั้งค่า คำแนะนำ ปรับปรุง"
+},
+"update_title": {
+"message": "ดาวน์โหลด Batch Fatkun ภาพ เวอร์ชัน 1.8.3"
+},
+"width": {
+"message": "ความกว้าง"
+},
+"width_short": {
+"message": "ความกว้าง"
+}
+}

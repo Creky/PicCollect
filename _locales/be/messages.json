@@ -1,0 +1,203 @@
+{
+"active_tab": {
+"message": "гэтая ўкладка"
+},
+"advise": {
+"message": "блог"
+},
+"aimg_tooltip": {
+"message": "Націсніце на малюнак , каб зняць або праверыць"
+},
+"all_tab": {
+"message": "усе закладкі"
+},
+"apply": {
+"message": "ўжываць"
+},
+"chrome_download_settings_url": {
+"message": "Спампаваць"
+},
+"default_title": {
+"message": "Fatkun пакетнай загрузкі малюнка"
+},
+"default_title_desc": {
+"message": "ShortKey : Alt + Z"
+},
+"description": {
+"message": "Карысна і проста спампаваць вобраз extension.You можаце фільтраваць па рэзалюцыі або спасылку ."
+},
+"do_not_show_again": {
+"message": "Я ведаю , што , не паказваць гэты дыялог больш."
+},
+"donate": {
+"message": "ахвяраваць"
+},
+"export_btn": {
+"message": "экспарт"
+},
+"export_close": {
+"message": "блізка"
+},
+"export_format": {
+"message": "фармат"
+},
+"export_format_tips": {
+"message": "Вы можаце выкарыстоўваць гэтыя зменныя: { NO } азначае парадкавы нумар ; { LINK } азначае спасылку на малюнак"
+},
+"export_link": {
+"message": "экспарт спасылку"
+},
+"filter_link": {
+"message": "Фільтр па спасылцы"
+},
+"height": {
+"message": "Вышыня"
+},
+"height_short": {
+"message": "Вышыня"
+},
+"inverse": {
+"message": "перамыкач"
+},
+"min_display": {
+"message": "макс Side"
+},
+"more_options": {
+"message": "дадатковыя параметры"
+},
+"not_rename": {
+"message": "ня перайменаваць"
+},
+"open_multiple_page": {
+"message": "Адкрыйце шматфункцыянальны старонкі ?"
+},
+"open_multiple_page_action": {
+"message": "Адкрыйце старонку"
+},
+"open_multiple_page_tips": {
+"message": "дазваляюць мноства радкоў , падстаноўкі [ 01/10 ] азначае ад 01 да 10 старонкі , напрыклад : http://abc.com?page=[1-4,az ]"
+},
+"popup_tips": {
+"message": "Кароткае Ключ: Alt + Z"
+},
+"process_end": {
+"message": "малюнкаў"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "малюнак становіцца дазвол"
+},
+"rename_by_this_format": {
+"message": "Перайменаваць на аснове"
+},
+"rename_tips": {
+"message": "Вы можаце выкарыстоўваць гэтыя зменныя: { NO } азначае парадкавы нумар ; { EXT } азначае пашыранае назву"
+},
+"right_click_to_open": {
+"message": "( Пстрыкніце правай кнопкай мышы , каб адкрыць і праверыць параметры )"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "захаваць"
+},
+"save_image": {
+"message": "захаваць малюнак"
+},
+"save_tips": {
+"message": "\" Запытваць месца для захавання кожнага файла перад загрузкай \" варыянт у Chrome Downlods Setting.Otherwise , шмат - шмат дыялогаў пацверджання паствы."
+},
+"save_tips_cancel": {
+"message": "адмяніць"
+},
+"save_tips_do_not_check": {
+"message": "Не выбірайце"
+},
+"save_tips_done": {
+"message": "захаваць малюнак"
+},
+"save_tips_open_setting": {
+"message": "Адкрыць налады Page"
+},
+"settings": {
+"message": "налады"
+},
+"settings_already_save": {
+"message": "Налада захоўваецца."
+},
+"settings_collect_one_page": {
+"message": "Сабраць , каб на старонцы"
+},
+"settings_download": {
+"message": "Chrome загрузак Усталёўка"
+},
+"settings_min_display": {
+"message": "Па змаўчанні дазвол мін"
+},
+"settings_rule_last_update_time": {
+"message": "Апошняе абнаўленне:"
+},
+"settings_rule_last_update_time_none": {
+"message": "ні адзін"
+},
+"settings_save_folder": {
+"message": "тэчкі для захавання імя ( Ctrl + S )"
+},
+"settings_save_use_fixed_name": {
+"message": "выкарыстоўваць фіксаванае імя"
+},
+"settings_save_use_title": {
+"message": "Выкарыстанне вэб -сайт назву"
+},
+"settings_show_website": {
+"message": "паказаць спасылку"
+},
+"settings_simple": {
+"message": "нармальныя паводле"
+},
+"settings_special_support": {
+"message": "спецыяльная падтрымка"
+},
+"settings_special_support_desc": {
+"message": "агульныя правілы"
+},
+"settings_use_shortcut_key": {
+"message": "Выкарыстоўвайце кароткі націск : Alt + Z"
+},
+"sort": {
+"message": "сартаваць"
+},
+"sort_big_first": {
+"message": "Вялікі Малюнак Першая"
+},
+"sort_normal": {
+"message": "Сартаваць па сайце"
+},
+"sort_small_first": {
+"message": "Малюнак першая"
+},
+"switch_view": {
+"message": "пераключэнне прадстаўлення"
+},
+"update_declaration": {
+"message": "Гэта пашырэнне спасылаецца некаторы код з zzllrr х \u003c href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e小乐图客\u003c/a\u003e"
+},
+"update_description": {
+"message": "1 англійская пераклад \u003cbr /\u003e 2 Chrome загрузіць налады падказках абнаўляюцца"
+},
+"update_title": {
+"message": "Fatkun пакетнай загрузкі малюнка Версія 1.8.3"
+},
+"width": {
+"message": "шырыня"
+},
+"width_short": {
+"message": "шырыня"
+}
+}

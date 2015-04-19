@@ -1,0 +1,203 @@
+{
+"active_tab": {
+"message": "આ ટેબ"
+},
+"advise": {
+"message": "બ્લોગ"
+},
+"aimg_tooltip": {
+"message": "અનચેક અથવા ચકાસવા માટે છબી પર ક્લિક કરો"
+},
+"all_tab": {
+"message": "તમામ ટૅબ્સ"
+},
+"apply": {
+"message": "લાગુ કરો"
+},
+"chrome_download_settings_url": {
+"message": "ડાઉનલોડ"
+},
+"default_title": {
+"message": "Fatkun બેચ ડાઉનલોડ કરો છબી"
+},
+"default_title_desc": {
+"message": "ShortKey : Alt + Z"
+},
+"description": {
+"message": "એક ઉપયોગી અને સરળ છબી ડાઉનલોડ extension.You રીઝોલ્યુશન અથવા લિંક દ્વારા ફિલ્ટર કરી શકો છો ."
+},
+"do_not_show_again": {
+"message": "હું તેને , વધુ કોઇ આ સંવાદ બતાવવા નથી ખબર."
+},
+"donate": {
+"message": "દાન"
+},
+"export_btn": {
+"message": "નિકાસ"
+},
+"export_close": {
+"message": "બંધ કરો"
+},
+"export_format": {
+"message": "બંધારણમાં"
+},
+"export_format_tips": {
+"message": "તમને આ ચલો વાપરી શકો છો : { } NO ક્રમ નંબર અર્થ થાય છે; { LINK } છબી લિંક અર્થ એ"
+},
+"export_link": {
+"message": "નિકાસ લિંક"
+},
+"filter_link": {
+"message": "લિંક દ્વારા ફિલ્ટર"
+},
+"height": {
+"message": "ઊંચાઈ"
+},
+"height_short": {
+"message": "ઊંચાઈ"
+},
+"inverse": {
+"message": "ટૉગલ"
+},
+"min_display": {
+"message": "મેક્સ સાઇડ"
+},
+"more_options": {
+"message": "વધુ વિકલ્પો"
+},
+"not_rename": {
+"message": "નામ બદલી નથી"
+},
+"open_multiple_page": {
+"message": "ઓપન મલ્ટી પાનું ?"
+},
+"open_multiple_page_action": {
+"message": "ઓપન પાનું"
+},
+"open_multiple_page_tips": {
+"message": "ઉદાહરણ તરીકે, Multirow , વાઇલ્ડકાર્ડ [ 01-10 ] 01 થી 10 પાનું મતલબ એ પરવાનગી : http://abc.com?page=[1-4,az ]"
+},
+"popup_tips": {
+"message": "લઘુ કી: Alt + Z"
+},
+"process_end": {
+"message": "છબીઓ"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "છબી મળી રહ્યો રિઝોલ્યૂશન"
+},
+"rename_by_this_format": {
+"message": "નામ બદલી પર આધારિત"
+},
+"rename_tips": {
+"message": "તમને આ ચલો વાપરી શકો છો : { } NO ક્રમ નંબર અર્થ થાય છે; { EXT } વિસ્તૃત નામનો અર્થ"
+},
+"right_click_to_open": {
+"message": "( ખોલો અને સેટિંગ્સ તપાસો જમણી ક્લિક કરો )"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "સેવ કરો"
+},
+"save_image": {
+"message": "સેવ કરો છબી"
+},
+"save_tips": {
+"message": "ક્રોમ Downlods Setting.Otherwise માં વિકલ્પ \" ડાઉનલોડ કરતાં પહેલાં પ્રત્યેક ફાઇલને ક્યાં સાચવવી છે \", ઘણા ઘણા પુષ્ટિકરણ સંવાદો રહે."
+},
+"save_tips_cancel": {
+"message": "રદ કરો"
+},
+"save_tips_do_not_check": {
+"message": "SELECT નથી"
+},
+"save_tips_done": {
+"message": "સેવ કરો છબી"
+},
+"save_tips_open_setting": {
+"message": "ઓપન સેટિંગ્સ પૃષ્ઠ"
+},
+"settings": {
+"message": "સેટિંગ્સ"
+},
+"settings_already_save": {
+"message": "સાચવી સેટિંગ્સ ."
+},
+"settings_collect_one_page": {
+"message": "પૃષ્ઠ પર જવા માટે એકત્રિત"
+},
+"settings_download": {
+"message": "ક્રોમ ડાઉનલોડ સેટિંગ"
+},
+"settings_min_display": {
+"message": "મૂળભૂત મિનિટ રિઝોલ્યૂશન"
+},
+"settings_rule_last_update_time": {
+"message": "છેલ્લા સુધારા :"
+},
+"settings_rule_last_update_time_none": {
+"message": "કોઈ નહીં"
+},
+"settings_save_folder": {
+"message": "ફોલ્ડર નામ સાચવી ( Ctrl + S માટે)"
+},
+"settings_save_use_fixed_name": {
+"message": "નિશ્ચિત નામ વાપરો"
+},
+"settings_save_use_title": {
+"message": "ઉપયોગ વેબસાઇટ શીર્ષક"
+},
+"settings_show_website": {
+"message": "બતાવો લિંક"
+},
+"settings_simple": {
+"message": "સામાન્ય સેટિંગ્સ"
+},
+"settings_special_support": {
+"message": "ખાસ આધાર"
+},
+"settings_special_support_desc": {
+"message": "સામાન્ય નિયમ"
+},
+"settings_use_shortcut_key": {
+"message": "લઘુ કી વાપરો: Alt + Z"
+},
+"sort": {
+"message": "ક્રમમાં ગોઠવો"
+},
+"sort_big_first": {
+"message": "મોટી છબી પ્રથમ"
+},
+"sort_normal": {
+"message": "સાઇટ દ્વારા ક્રમમાં ગોઠવો"
+},
+"sort_small_first": {
+"message": "નાના છબી પ્રથમ"
+},
+"switch_view": {
+"message": "જુઓ સ્વિચ"
+},
+"update_declaration": {
+"message": "આ એક્સટેન્શન zzllrr માતાનો અમુક કોડ સંદર્ભ \u003c એક href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e小乐图客\u003c/a\u003e"
+},
+"update_description": {
+"message": "1 ઇંગલિશ અનુવાદ \u003cbr /\u003e 2 ક્રોમ ડાઉનલોડ સુયોજનો સુધારી ટૂલટિપ્સમાં"
+},
+"update_title": {
+"message": "Fatkun બેચ ડાઉનલોડ કરો છબી આવૃત્તિ 1.8.3"
+},
+"width": {
+"message": "પહોળાઈ"
+},
+"width_short": {
+"message": "પહોળાઈ"
+}
+}

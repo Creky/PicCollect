@@ -1,0 +1,203 @@
+{
+"active_tab": {
+"message": "このタブ"
+},
+"advise": {
+"message": "ブログ"
+},
+"aimg_tooltip": {
+"message": "チェックを外しまたはチェック画像をクリックして"
+},
+"all_tab": {
+"message": "すべてのタブ"
+},
+"apply": {
+"message": "適用する"
+},
+"chrome_download_settings_url": {
+"message": "ダウンロード前に各ファイルの保存場所を確認する"
+},
+"default_title": {
+"message": "Fatkunバッチダウンロードイメージ"
+},
+"default_title_desc": {
+"message": "ShortKey ： Altキー+ Z"
+},
+"description": {
+"message": "便利で簡単な画像のダウンロードはextension.Youは解像度やリンクによってフィルタリングすることができます。"
+},
+"do_not_show_again": {
+"message": "私はそれが、これ以上このダイアログを表示しません知っている。"
+},
+"donate": {
+"message": "寄付する"
+},
+"export_btn": {
+"message": "輸出"
+},
+"export_close": {
+"message": "クローズ"
+},
+"export_format": {
+"message": "フォーマット"
+},
+"export_format_tips": {
+"message": "あなたがこれらの変数を使用できます。 {NO }シーケンス番号を意味し、 { LINK }は画像リンクを意味し、"
+},
+"export_link": {
+"message": "エクスポートリンク"
+},
+"filter_link": {
+"message": "リンクによるフィルタ"
+},
+"height": {
+"message": "高さ"
+},
+"height_short": {
+"message": "高さ"
+},
+"inverse": {
+"message": "トグル"
+},
+"min_display": {
+"message": "マックスサイド"
+},
+"more_options": {
+"message": "その他のオプション"
+},
+"not_rename": {
+"message": "名前を変更しない"
+},
+"open_multiple_page": {
+"message": "オープンマルチページ？"
+},
+"open_multiple_page_action": {
+"message": "オープンページ"
+},
+"open_multiple_page_tips": {
+"message": "例えば、複数行は、ワイルドカードが[ 01-10 ]は01から10ページを意味許可： http://abc.com?page=[1-4,az ]"
+},
+"popup_tips": {
+"message": "ショートキー： Altキー+ Z"
+},
+"process_end": {
+"message": "画像"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "画像取得解像度"
+},
+"rename_by_this_format": {
+"message": "名前の変更に基づいて、"
+},
+"rename_tips": {
+"message": "あなたがこれらの変数を使用できます。 {NO }シーケンス番号を意味し、 { EXT }は拡張名を意味し、"
+},
+"right_click_to_open": {
+"message": "（開き、設定を確認して右クリック）"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "保存"
+},
+"save_image": {
+"message": "イメージの保存"
+},
+"save_tips": {
+"message": "\"ダウンロード前に各ファイルの保存場所を確認する\".Otherwiseでオプション」をダウンロードする前に、各ファイルを保存する場所を掲載し」 、多くの多くの確認のダイアログが集まります。"
+},
+"save_tips_cancel": {
+"message": "キャンセル"
+},
+"save_tips_do_not_check": {
+"message": "選択しないでください"
+},
+"save_tips_done": {
+"message": "イメージの保存"
+},
+"save_tips_open_setting": {
+"message": "オープン設定ページ"
+},
+"settings": {
+"message": "[設定]"
+},
+"settings_already_save": {
+"message": "保存されている設定。"
+},
+"settings_collect_one_page": {
+"message": "ページ上に収集"
+},
+"settings_download": {
+"message": "クロームのダウンロードの設定"
+},
+"settings_min_display": {
+"message": "デフォルトの分解像度"
+},
+"settings_rule_last_update_time": {
+"message": "最終更新日："
+},
+"settings_rule_last_update_time_none": {
+"message": "なし"
+},
+"settings_save_folder": {
+"message": "フォルダ名を保存（Ctrl + S用）"
+},
+"settings_save_use_fixed_name": {
+"message": "固定された名前を使用する"
+},
+"settings_save_use_title": {
+"message": "使用のウェブサイトのタイトル"
+},
+"settings_show_website": {
+"message": "ショーリンク"
+},
+"settings_simple": {
+"message": "通常の設定"
+},
+"settings_special_support": {
+"message": "特別なサポート"
+},
+"settings_special_support_desc": {
+"message": "共通のルール"
+},
+"settings_use_shortcut_key": {
+"message": "ショートキーを使用します。 Altキー+ Zを"
+},
+"sort": {
+"message": "ソート"
+},
+"sort_big_first": {
+"message": "ビッグ画像最初"
+},
+"sort_normal": {
+"message": "サイトで並べ替え"
+},
+"sort_small_first": {
+"message": "小さな画像最初"
+},
+"switch_view": {
+"message": "ビューの切り替え"
+},
+"update_declaration": {
+"message": "この拡張モジュールはzzllrrのいくつかのコードを参照する\u003cA href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e小乐图客\u003c/a\u003e"
+},
+"update_description": {
+"message": "1英語の翻訳\u003cbr /\u003e 2のChromeのダウンロード設定が更新ツールチップ"
+},
+"update_title": {
+"message": "Fatkunバッチダウンロードイメージのバージョン1.8.3"
+},
+"width": {
+"message": "幅"
+},
+"width_short": {
+"message": "幅"
+}
+}

@@ -1,0 +1,203 @@
+{
+"active_tab": {
+"message": "to Tab"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "Kliknutím na obrázok zrušte začiarknutie políčka alebo šekom"
+},
+"all_tab": {
+"message": "všetky Tabs"
+},
+"apply": {
+"message": "platiť"
+},
+"chrome_download_settings_url": {
+"message": "na stiahnutie"
+},
+"default_title": {
+"message": "Fatkun Batch Stiahnuť obrázok"
+},
+"default_title_desc": {
+"message": "ShortKey : Alt + Z"
+},
+"description": {
+"message": "Užitočný a jednoduchý obraz download extension.You môžete filtrovať podľa uznesenia alebo odkazom ."
+},
+"do_not_show_again": {
+"message": "Ja viem , že to , nezobrazovať tento dialóg nič viac ."
+},
+"donate": {
+"message": "darovať"
+},
+"export_btn": {
+"message": "export"
+},
+"export_close": {
+"message": "Zavrieť"
+},
+"export_format": {
+"message": "formát"
+},
+"export_format_tips": {
+"message": "Môžete použiť tieto premenné : { } NIE znamená poradové číslo ; { LINK } znamená Odkaz na obrázok"
+},
+"export_link": {
+"message": "export odkaz"
+},
+"filter_link": {
+"message": "Filtrovať odkazom"
+},
+"height": {
+"message": "výška"
+},
+"height_short": {
+"message": "výška"
+},
+"inverse": {
+"message": "Prepnúť"
+},
+"min_display": {
+"message": "max Side"
+},
+"more_options": {
+"message": "Ďalšie možnosti"
+},
+"not_rename": {
+"message": "nie premenovať"
+},
+"open_multiple_page": {
+"message": "Otvorená multi strana ?"
+},
+"open_multiple_page_action": {
+"message": "otvorená strana"
+},
+"open_multiple_page_tips": {
+"message": "umožňujú Multirow , zástupný [ 01-10 ] znamená 01-10 stránky , napríklad : http://abc.com?page=[1-4,az ]"
+},
+"popup_tips": {
+"message": "Short Key : Alt + Z"
+},
+"process_end": {
+"message": "obrázky"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "image dostať rozlíšenie"
+},
+"rename_by_this_format": {
+"message": "Premenovať na báze"
+},
+"rename_tips": {
+"message": "Môžete použiť tieto premenné : { } NIE znamená poradové číslo ; { EXT } znamená rozšírený názov"
+},
+"right_click_to_open": {
+"message": "( Kliknite pravým tlačidlom myši na otvoriť a skontrolovať nastavenie )"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Save"
+},
+"save_image": {
+"message": "Save Image"
+},
+"save_tips": {
+"message": "\"Opýtajte sa na miesto uloženia každého súboru pred stiahnutím \" možnosť v Chrome Downlods Setting.Otherwise , mnoho mnoho dopytovací dialógy stádo ."
+},
+"save_tips_cancel": {
+"message": "zrušiť"
+},
+"save_tips_do_not_check": {
+"message": "Nevyberajte"
+},
+"save_tips_done": {
+"message": "Save Image"
+},
+"save_tips_open_setting": {
+"message": "Otvorený Nastavenia Page"
+},
+"settings": {
+"message": "nastavenie"
+},
+"settings_already_save": {
+"message": "Nastavenie uložená ."
+},
+"settings_collect_one_page": {
+"message": "Zbierať sa na stránku"
+},
+"settings_download": {
+"message": "Chrome na stiahnutie Nastavenie"
+},
+"settings_min_display": {
+"message": "Predvolené rozlíšenie min"
+},
+"settings_rule_last_update_time": {
+"message": "Posledná aktualizácia :"
+},
+"settings_rule_last_update_time_none": {
+"message": "nikto"
+},
+"settings_save_folder": {
+"message": "uložiť zložky názov ( Ctrl + S )"
+},
+"settings_save_use_fixed_name": {
+"message": "použiť pevný názov"
+},
+"settings_save_use_title": {
+"message": "title použitia webových stránok"
+},
+"settings_show_website": {
+"message": "ukázať odkaz"
+},
+"settings_simple": {
+"message": "Normálny Nastavenie"
+},
+"settings_special_support": {
+"message": "osobitná podpora"
+},
+"settings_special_support_desc": {
+"message": "všeobecne platí ,"
+},
+"settings_use_shortcut_key": {
+"message": "Použitie Krátke kľúč : Alt + Z"
+},
+"sort": {
+"message": "druh"
+},
+"sort_big_first": {
+"message": "Big image prvý"
+},
+"sort_normal": {
+"message": "Zoradiť podľa webu"
+},
+"sort_small_first": {
+"message": "Malé image prvý"
+},
+"switch_view": {
+"message": "Prepnúť zobrazenie"
+},
+"update_declaration": {
+"message": "Toto rozšírenie odvolával sa na nejaký kód zzllrr je \u003c href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e小乐图客\u003c/a\u003e"
+},
+"update_description": {
+"message": "1 anglický preklad \u003cbr /\u003e 2 Chrome sťahovanie nastavenia Tooltips aktualizované"
+},
+"update_title": {
+"message": "Fatkun Batch Stiahnuť obrázok verzia 1.8.3"
+},
+"width": {
+"message": "šírka"
+},
+"width_short": {
+"message": "šírka"
+}
+}

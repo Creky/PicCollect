@@ -1,0 +1,203 @@
+{
+"active_tab": {
+"message": "Mae hyn Tab"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "Cliciwch ar y llun i uncheck neu siec"
+},
+"all_tab": {
+"message": "Mae pob Tabs"
+},
+"apply": {
+"message": "Gwneud cais"
+},
+"chrome_download_settings_url": {
+"message": "Lawrlwytho"
+},
+"default_title": {
+"message": "Swp Fatkun Lawrlwytho Delwedd"
+},
+"default_title_desc": {
+"message": "ShortKey : Alt + Z"
+},
+"description": {
+"message": "Delwedd defnyddiol a syml llwytho i lawr y gall extension.You hidlo drwy benderfyniad neu gyswllt ."
+},
+"do_not_show_again": {
+"message": "Dwi'n gwybod ei fod , nid yn dangos yr ymgom yma mwyach."
+},
+"donate": {
+"message": "Cyfrannwch"
+},
+"export_btn": {
+"message": "allforio"
+},
+"export_close": {
+"message": "Cau"
+},
+"export_format": {
+"message": "fformat"
+},
+"export_format_tips": {
+"message": "Gallwch ddefnyddio'r newidynnau hyn : { NO } yn golygu rhif dilyniant ; { LINK } yn golygu cyswllt ddelwedd"
+},
+"export_link": {
+"message": "allforio cyswllt"
+},
+"filter_link": {
+"message": "Hidlo drwy gyswllt"
+},
+"height": {
+"message": "uchder"
+},
+"height_short": {
+"message": "uchder"
+},
+"inverse": {
+"message": "Toggle"
+},
+"min_display": {
+"message": "Max Ochr"
+},
+"more_options": {
+"message": "Mwy o Opsiynau"
+},
+"not_rename": {
+"message": "Nid yw ail-enwi"
+},
+"open_multiple_page": {
+"message": "Tudalen aml Agored ?"
+},
+"open_multiple_page_action": {
+"message": "tudalen agored"
+},
+"open_multiple_page_tips": {
+"message": "caniatáu multirow , nod-chwiliwr [ 01-10 ] yn golygu 01-10 dudalen , er enghraifft: http://abc.com?page=[1-4,az ]"
+},
+"popup_tips": {
+"message": "Allwedd byr: Alt + Z"
+},
+"process_end": {
+"message": "delweddau"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "image cael penderfyniad"
+},
+"rename_by_this_format": {
+"message": "Ail-enwi yn seiliedig ar"
+},
+"rename_tips": {
+"message": "Gallwch ddefnyddio'r newidynnau hyn : { NO } yn golygu rhif dilyniant ; { } EXT golygu enw estynedig"
+},
+"right_click_to_open": {
+"message": "( De-glicio i agor a gwirio gosodiadau )"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Cadw"
+},
+"save_image": {
+"message": "Cadw Delwedd"
+},
+"save_tips": {
+"message": "\" Gofynnwch ble i arbed pob ffeil cyn lawrlwytho \" opsiwn yn Chrome Downlods Setting.Otherwise , llawer llawer deialogau cadarnhad heidio ."
+},
+"save_tips_cancel": {
+"message": "Diddymu"
+},
+"save_tips_do_not_check": {
+"message": "PEIDIWCH SELECT"
+},
+"save_tips_done": {
+"message": "Cadw Delwedd"
+},
+"save_tips_open_setting": {
+"message": "Gosodiadau Agored Tudalen"
+},
+"settings": {
+"message": "gosodiadau"
+},
+"settings_already_save": {
+"message": "Gosod hachub ."
+},
+"settings_collect_one_page": {
+"message": "Casglu i ar dudalen"
+},
+"settings_download": {
+"message": "Gosod Lawrlwythiadau Chrome"
+},
+"settings_min_display": {
+"message": "Datrys min ddiofyn"
+},
+"settings_rule_last_update_time": {
+"message": "Diweddariad diwethaf:"
+},
+"settings_rule_last_update_time_none": {
+"message": "Dim"
+},
+"settings_save_folder": {
+"message": "arbed enw'r ffolder (ar gyfer Ctrl + S )"
+},
+"settings_save_use_fixed_name": {
+"message": "ddefnyddio enw sefydlog"
+},
+"settings_save_use_title": {
+"message": "Teitl defnydd y wefan"
+},
+"settings_show_website": {
+"message": "Dangos cyswllt"
+},
+"settings_simple": {
+"message": "Gosodiadau normal"
+},
+"settings_special_support": {
+"message": "cymorth arbennig"
+},
+"settings_special_support_desc": {
+"message": "Rheol cyffredin"
+},
+"settings_use_shortcut_key": {
+"message": "Defnyddiwch Allwedd byr: Alt + Z"
+},
+"sort": {
+"message": "Trefnu"
+},
+"sort_big_first": {
+"message": "Delwedd Mawr yn gyntaf"
+},
+"sort_normal": {
+"message": "Trefnu yn ôl safle"
+},
+"sort_small_first": {
+"message": "Delwedd fach yn gyntaf"
+},
+"switch_view": {
+"message": "Switch View"
+},
+"update_declaration": {
+"message": "Mae hyn yn estyniad Cyfeirir at rai cod zzllrr yn \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e小乐图客\u003c/a\u003e"
+},
+"update_description": {
+"message": "1 cyfieithiad Saesneg \u003cbr /\u003e 2 leoliadau lawrlwytho Chrome cynghorion offer diweddaru"
+},
+"update_title": {
+"message": "Swp Fatkun Lawrlwytho Fersiwn 1.8.3 Delwedd"
+},
+"width": {
+"message": "lled"
+},
+"width_short": {
+"message": "lled"
+}
+}

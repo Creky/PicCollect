@@ -1,0 +1,203 @@
+{
+"active_tab": {
+"message": "Tab hii"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "Bonyeza Image uncheck au kuangalia"
+},
+"all_tab": {
+"message": "All Tabs"
+},
+"apply": {
+"message": "kuomba"
+},
+"chrome_download_settings_url": {
+"message": "Download"
+},
+"default_title": {
+"message": "Fatkun Kundi Download Image"
+},
+"default_title_desc": {
+"message": "ShortKey : Alt + Z"
+},
+"description": {
+"message": "Muhimu na rahisi picha download extension.You unaweza kuchuja na azimio au kiungo."
+},
+"do_not_show_again": {
+"message": "Mimi najua ni , si kuonyesha dialog hii yoyote zaidi."
+},
+"donate": {
+"message": "kuchangia"
+},
+"export_btn": {
+"message": "Export"
+},
+"export_close": {
+"message": "karibu"
+},
+"export_format": {
+"message": "format"
+},
+"export_format_tips": {
+"message": "Unaweza kutumia vigezo hivi : { NO } ina maana idadi mlolongo , { LINK } maana yake ni mfano kiungo"
+},
+"export_link": {
+"message": "Export kiungo"
+},
+"filter_link": {
+"message": "Chuja kwa kiungo"
+},
+"height": {
+"message": "urefu"
+},
+"height_short": {
+"message": "urefu"
+},
+"inverse": {
+"message": "Toggle"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "zaidi Options"
+},
+"not_rename": {
+"message": "si rename"
+},
+"open_multiple_page": {
+"message": "Open mbalimbali ukurasa ?"
+},
+"open_multiple_page_action": {
+"message": "Open ukurasa"
+},
+"open_multiple_page_tips": {
+"message": "kuruhusu multirow , wildcard [ 01-10 ] ina maana 01-10 ukurasa , kwa mfano: http://abc.com?page=[1-4,az ]"
+},
+"popup_tips": {
+"message": "Short muhimu: Alt + Z"
+},
+"process_end": {
+"message": "images"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "picha kupata azimio"
+},
+"rename_by_this_format": {
+"message": "Rename kulingana na"
+},
+"rename_tips": {
+"message": "Unaweza kutumia vigezo hivi : { NO } ina maana idadi mlolongo , { EXT } maana jina kupanuliwa"
+},
+"right_click_to_open": {
+"message": "( Haki-click kufungua na kuangalia mazingira)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Save"
+},
+"save_image": {
+"message": "Save Image"
+},
+"save_tips": {
+"message": "\" Uliza mahali pa kuhifadhi kila faili kabla ya kupakua \" chaguo katika Chrome Downlods Setting.Otherwise , wengi dialogs uthibitisho wengi kundi ."
+},
+"save_tips_cancel": {
+"message": "kufuta"
+},
+"save_tips_do_not_check": {
+"message": "DO NOT CHAGUA"
+},
+"save_tips_done": {
+"message": "Save Image"
+},
+"save_tips_open_setting": {
+"message": "Open Settings Page"
+},
+"settings": {
+"message": "mipangilio"
+},
+"settings_already_save": {
+"message": "Mipangilio imehifadhiwa."
+},
+"settings_collect_one_page": {
+"message": "Kukusanya kwa juu ya ukurasa"
+},
+"settings_download": {
+"message": "Chrome Mkono Kuweka"
+},
+"settings_min_display": {
+"message": "Default min azimio"
+},
+"settings_rule_last_update_time": {
+"message": "Mwisho update:"
+},
+"settings_rule_last_update_time_none": {
+"message": "hakuna"
+},
+"settings_save_folder": {
+"message": "kuokoa jina folder (kwa Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "kutumia fasta jina"
+},
+"settings_save_use_title": {
+"message": "cheo matumizi tovuti"
+},
+"settings_show_website": {
+"message": "show kiungo"
+},
+"settings_simple": {
+"message": "Mipangilio ya kawaida"
+},
+"settings_special_support": {
+"message": "msaada maalum"
+},
+"settings_special_support_desc": {
+"message": "Utawala kawaida"
+},
+"settings_use_shortcut_key": {
+"message": "Matumizi Short muhimu: Alt + Z"
+},
+"sort": {
+"message": "aina"
+},
+"sort_big_first": {
+"message": "Big taswira ya kwanza"
+},
+"sort_normal": {
+"message": "Panga kwa tovuti"
+},
+"sort_small_first": {
+"message": "Ndogo taswira ya kwanza"
+},
+"switch_view": {
+"message": "kubadili View"
+},
+"update_declaration": {
+"message": "Ugani hii inatazamwa baadhi ya kanuni ya zzllrr ya \u003c a href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e小乐图客\u003c/a\u003e"
+},
+"update_description": {
+"message": "1 Kiingereza \u003cbr /\u003e 2 Chrome mazingira kushusha tooltips updated"
+},
+"update_title": {
+"message": "Fatkun Kundi Download Image toleo 1.8.3"
+},
+"width": {
+"message": "upana"
+},
+"width_short": {
+"message": "upana"
+}
+}

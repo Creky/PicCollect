@@ -1,0 +1,203 @@
+{
+"active_tab": {
+"message": "See Tab"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "Kliki pildil, et lülita või vaadata"
+},
+"all_tab": {
+"message": "kõik vahelehed"
+},
+"apply": {
+"message": "kehtima"
+},
+"chrome_download_settings_url": {
+"message": "Lae"
+},
+"default_title": {
+"message": "Fatkun Partii Lae Image"
+},
+"default_title_desc": {
+"message": "ShortKey : Alt + Z"
+},
+"description": {
+"message": "Kasulik ja lihtne pildi allalaadimise extension.You saab filtreerida resolutsiooni või link."
+},
+"do_not_show_again": {
+"message": "Ma tean, et see ei näita seda enam dialoogi ."
+},
+"donate": {
+"message": "annetama"
+},
+"export_btn": {
+"message": "eksport"
+},
+"export_close": {
+"message": "lähedal"
+},
+"export_format": {
+"message": "formaat"
+},
+"export_format_tips": {
+"message": "Võite kasutada neid muutujaid : { NO } tähendab järjekorranumber ; { LINK } tähendab pilti link"
+},
+"export_link": {
+"message": "Ekspordi link"
+},
+"filter_link": {
+"message": "Filtreeri link"
+},
+"height": {
+"message": "kõrgus"
+},
+"height_short": {
+"message": "kõrgus"
+},
+"inverse": {
+"message": "Toggle"
+},
+"min_display": {
+"message": "Max külg"
+},
+"more_options": {
+"message": "More Options"
+},
+"not_rename": {
+"message": "Mitte ümbernimetamine"
+},
+"open_multiple_page": {
+"message": "Open mitme lehekülje ?"
+},
+"open_multiple_page_action": {
+"message": "Open lehekülg"
+},
+"open_multiple_page_tips": {
+"message": "võimaldab multirow , märk [ 01-10 ] tähendab 01-10 lehekülge , näiteks: http://abc.com?page=[1-4,az ]"
+},
+"popup_tips": {
+"message": "Lühike Key : Alt + Z"
+},
+"process_end": {
+"message": "pildid"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "image saada resolutsiooni"
+},
+"rename_by_this_format": {
+"message": "Nimeta põhineb"
+},
+"rename_tips": {
+"message": "Võite kasutada neid muutujaid : { NO } tähendab järjekorranumber ; { EXT } tähendab laiendatud nimi"
+},
+"right_click_to_open": {
+"message": "( Paremklõps avada ja vaadata seaded )"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Salvesta"
+},
+"save_image": {
+"message": "Save Image"
+},
+"save_tips": {
+"message": "\" Küsi , kuhu see salvestada enne iga faili allalaadimist \" valik Chrome Downlods Setting.Otherwise , palju palju kinnitust dialoogid kari ."
+},
+"save_tips_cancel": {
+"message": "tühistama"
+},
+"save_tips_do_not_check": {
+"message": "Ärge valige"
+},
+"save_tips_done": {
+"message": "Save Image"
+},
+"save_tips_open_setting": {
+"message": "Open Settings Page"
+},
+"settings": {
+"message": "Seaded"
+},
+"settings_already_save": {
+"message": "Seadistus salvestatakse."
+},
+"settings_collect_one_page": {
+"message": "Collect lehel"
+},
+"settings_download": {
+"message": "Chrome Downloads Setting"
+},
+"settings_min_display": {
+"message": "Vaikimisi min resolutsioon"
+},
+"settings_rule_last_update_time": {
+"message": "Viimati muudetud:"
+},
+"settings_rule_last_update_time_none": {
+"message": "mitte ükski"
+},
+"settings_save_folder": {
+"message": "salvestada kausta nime ( Ctrl + S )"
+},
+"settings_save_use_fixed_name": {
+"message": "kasutada fikseeritud nimi"
+},
+"settings_save_use_title": {
+"message": "kasutamiseks veebileht pealkiri"
+},
+"settings_show_website": {
+"message": "Show link"
+},
+"settings_simple": {
+"message": "Tavaline Seaded"
+},
+"settings_special_support": {
+"message": "Erilist toetust"
+},
+"settings_special_support_desc": {
+"message": "Üldised eeskirjad"
+},
+"settings_use_shortcut_key": {
+"message": "Kasutage Short Key : Alt + Z"
+},
+"sort": {
+"message": "sort"
+},
+"sort_big_first": {
+"message": "Big pilti esimese"
+},
+"sort_normal": {
+"message": "Sorteeri site"
+},
+"sort_small_first": {
+"message": "Väike pilt esimese"
+},
+"switch_view": {
+"message": "Lülita View"
+},
+"update_declaration": {
+"message": "See laiend viidatud mõned kood zzllrr on \u003c href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e小乐图客\u003c/a\u003e"
+},
+"update_description": {
+"message": "1 ingliskeelne tõlge \u003cbr /\u003e 2 Chrome allalaadimise seaded Kohtspikritel uuendatud"
+},
+"update_title": {
+"message": "Fatkun Partii Lae Pilt versioon 1.8.3"
+},
+"width": {
+"message": "laius"
+},
+"width_short": {
+"message": "laius"
+}
+}

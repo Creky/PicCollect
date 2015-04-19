@@ -1,0 +1,203 @@
+{
+"active_tab": {
+"message": "Ez Tab"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "Kattintson a képre a jelölje be vagy"
+},
+"all_tab": {
+"message": "Az összes lap"
+},
+"apply": {
+"message": "alkalmaz"
+},
+"chrome_download_settings_url": {
+"message": "Letöltés"
+},
+"default_title": {
+"message": "Fatkun Batch Download Kép"
+},
+"default_title_desc": {
+"message": "ShortKey : Alt + Z"
+},
+"description": {
+"message": "Egy hasznos és egyszerű kép letöltési extension.You szűrheti felbontást vagy a link."
+},
+"do_not_show_again": {
+"message": "Tudom, hogy nem mutatják, ez a párbeszédablak többé."
+},
+"donate": {
+"message": "adományoz"
+},
+"export_btn": {
+"message": "export"
+},
+"export_close": {
+"message": "közel"
+},
+"export_format": {
+"message": "formátum"
+},
+"export_format_tips": {
+"message": "Használhatja ezeket a változókat : { no} azt jelenti, sorszám ; { LINK } azt jelenti kép link"
+},
+"export_link": {
+"message": "export Link"
+},
+"filter_link": {
+"message": "Szűrés linket"
+},
+"height": {
+"message": "magasság"
+},
+"height_short": {
+"message": "magasság"
+},
+"inverse": {
+"message": "váltás"
+},
+"min_display": {
+"message": "max Side"
+},
+"more_options": {
+"message": "További lehetőségek"
+},
+"not_rename": {
+"message": "nem átnevezése"
+},
+"open_multiple_page": {
+"message": "Nyílt multi oldalon ?"
+},
+"open_multiple_page_action": {
+"message": "megnyitott oldal"
+},
+"open_multiple_page_tips": {
+"message": "hogy multirow , wildcard [ 01-10 ] azt jelenti, 01-10 oldal , például : http://abc.com?page=[1-4,az ]"
+},
+"popup_tips": {
+"message": "Rövid Key : Alt + Z"
+},
+"process_end": {
+"message": "képek"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "A kép egyre felbontású"
+},
+"rename_by_this_format": {
+"message": "Átnevezése alapján"
+},
+"rename_tips": {
+"message": "Használhatja ezeket a változókat : { no} azt jelenti, sorszám ; { EXT } azt jelenti, bővített neve"
+},
+"right_click_to_open": {
+"message": "( Kattintson a jobb gombbal nyitható és ellenőrizze a beállításokat )"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Save"
+},
+"save_image": {
+"message": "kép mentése más"
+},
+"save_tips": {
+"message": "\" Megkérdezi, hová mentse az adott fájlokat letöltés előtt \" opciót a Chrome Downlods Setting.Otherwise , sok-sok megerősítő párbeszédablak állományban ."
+},
+"save_tips_cancel": {
+"message": "Mégsem"
+},
+"save_tips_do_not_check": {
+"message": "Ne válassza"
+},
+"save_tips_done": {
+"message": "kép mentése más"
+},
+"save_tips_open_setting": {
+"message": "Beállítások megnyitására"
+},
+"settings": {
+"message": "beállítások"
+},
+"settings_already_save": {
+"message": "Beállítás mentve ."
+},
+"settings_collect_one_page": {
+"message": "Gyűjtse össze az oldalon"
+},
+"settings_download": {
+"message": "Chrome Letöltések Setting"
+},
+"settings_min_display": {
+"message": "Alapértelmezett min felbontású"
+},
+"settings_rule_last_update_time": {
+"message": "Utolsó frissítés :"
+},
+"settings_rule_last_update_time_none": {
+"message": "egyik sem"
+},
+"settings_save_folder": {
+"message": "mentési mappa neve ( Ctrl + S )"
+},
+"settings_save_use_fixed_name": {
+"message": "használja fix név"
+},
+"settings_save_use_title": {
+"message": "használ honlap címe"
+},
+"settings_show_website": {
+"message": "Mutasd linket"
+},
+"settings_simple": {
+"message": "normál beállítások"
+},
+"settings_special_support": {
+"message": "A különleges támogatás"
+},
+"settings_special_support_desc": {
+"message": "közös szabály"
+},
+"settings_use_shortcut_key": {
+"message": "Használja Rövid Key : Alt + Z"
+},
+"sort": {
+"message": "fajta"
+},
+"sort_big_first": {
+"message": "Big kép első"
+},
+"sort_normal": {
+"message": "Rendezés helyszínen"
+},
+"sort_small_first": {
+"message": "Kis kép első"
+},
+"switch_view": {
+"message": "Kapcsolja megtekintése"
+},
+"update_declaration": {
+"message": "Ez a kiterjesztés hivatkozott néhány kódját zzllrr \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e小乐图客\u003c/a\u003e"
+},
+"update_description": {
+"message": "1 angol fordítás \u003cbr /\u003e 2 Chrome beállítások letöltése Eszközsúgó frissítve"
+},
+"update_title": {
+"message": "Fatkun Batch Letöltés Image version 1.8.3"
+},
+"width": {
+"message": "szélesség"
+},
+"width_short": {
+"message": "szélesség"
+}
+}

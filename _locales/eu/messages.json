@@ -1,0 +1,203 @@
+{
+"active_tab": {
+"message": "Tab hau"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "Egin klik irudia desmarkatu edo egiaztatu"
+},
+"all_tab": {
+"message": "Tabs guztiak"
+},
+"apply": {
+"message": "Aplikatu"
+},
+"chrome_download_settings_url": {
+"message": "Deskargatu"
+},
+"default_title": {
+"message": "Fatkun Batch irudiaren deskarga"
+},
+"default_title_desc": {
+"message": "ShortKey : Alt + Z"
+},
+"description": {
+"message": "Erabilgarria eta erraza irudi deskarga An extension.You ahal bereizmen edo esteka bereizteko ."
+},
+"do_not_show_again": {
+"message": "Badakit, leihoan ez edozein gehiago erakutsi."
+},
+"donate": {
+"message": "Dohaintzan"
+},
+"export_btn": {
+"message": "Export"
+},
+"export_close": {
+"message": "Itxi"
+},
+"export_format": {
+"message": "formatuan"
+},
+"export_format_tips": {
+"message": "Aldagai hauek erabili ahal izango duzu : { NO } sekuentzia zenbakia esan nahi du; {LINK} irudi lotura bitartekoak"
+},
+"export_link": {
+"message": "Export lotura"
+},
+"filter_link": {
+"message": "Link Iragazi"
+},
+"height": {
+"message": "Altuera"
+},
+"height_short": {
+"message": "Altuera"
+},
+"inverse": {
+"message": "Toggle"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "Aukera gehiago"
+},
+"not_rename": {
+"message": "Ez da izena aldatu"
+},
+"open_multiple_page": {
+"message": "Open multi orria ?"
+},
+"open_multiple_page_action": {
+"message": "Open orria"
+},
+"open_multiple_page_tips": {
+"message": "baimendu multirow , komodina [ 01-10 ] esan nahi du 01 eta 10 orrialde , adibidez: http://abc.com?page=[1-4,az ]"
+},
+"popup_tips": {
+"message": "Gakoa laburrak: Alt + Z"
+},
+"process_end": {
+"message": "irudiak"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "irudia lortzean bereizmen"
+},
+"rename_by_this_format": {
+"message": "Izena aldatu oinarrituta"
+},
+"rename_tips": {
+"message": "Aldagai hauek erabili ahal izango duzu : { NO } sekuentzia zenbakia esan ; { EXT } izen hedatua esan"
+},
+"right_click_to_open": {
+"message": "( Eskuineko botoia eta irekitzeko egiaztatu ezarpenak)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Save"
+},
+"save_image": {
+"message": "Gorde irudia"
+},
+"save_tips": {
+"message": "\"Galdetu non jaitsi aurretik fitxategi bakoitzaren gorde \" aukera Chrome Downlods Setting.Otherwise ere , berrespena elkarrizketetako asko asko artaldea."
+},
+"save_tips_cancel": {
+"message": "Utzi"
+},
+"save_tips_do_not_check": {
+"message": "Ez hautatu"
+},
+"save_tips_done": {
+"message": "Gorde irudia"
+},
+"save_tips_open_setting": {
+"message": "Open ezarpenak Page"
+},
+"settings": {
+"message": "Ezarpenak"
+},
+"settings_already_save": {
+"message": "Ezarpenak gorde."
+},
+"settings_collect_one_page": {
+"message": "Orrialdean Bildu"
+},
+"settings_download": {
+"message": "Chrome Downloads Entorno"
+},
+"settings_min_display": {
+"message": "Min bereizmen defektuz"
+},
+"settings_rule_last_update_time": {
+"message": "Azken eguneratzea:"
+},
+"settings_rule_last_update_time_none": {
+"message": "Bat ere ez"
+},
+"settings_save_folder": {
+"message": "gorde name karpeta (Ktrl + S )"
+},
+"settings_save_use_fixed_name": {
+"message": "Izen finkoa erabili"
+},
+"settings_save_use_title": {
+"message": "erabilera web izenburua"
+},
+"settings_show_website": {
+"message": "Erakutsi esteka"
+},
+"settings_simple": {
+"message": "Ezarpenak Normal"
+},
+"settings_special_support": {
+"message": "laguntza bereziak"
+},
+"settings_special_support_desc": {
+"message": "Araua Ohiko"
+},
+"settings_use_shortcut_key": {
+"message": "Erabili Key laburrak: Alt + Z"
+},
+"sort": {
+"message": "Sort"
+},
+"sort_big_first": {
+"message": "Big irudiaren lehen"
+},
+"sort_normal": {
+"message": "Sort gune arabera"
+},
+"sort_small_first": {
+"message": "Irudia Small lehen"
+},
+"switch_view": {
+"message": "Aldatu ikuspegia"
+},
+"update_declaration": {
+"message": "Luzapena hautatutako zzllrr en kodea batzuk erreferentziatutako \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e小乐图客\u003c/a\u003e"
+},
+"update_description": {
+"message": "1 ingelesezko itzulpena \u003cbr /\u003e 2 Chrome deskargatzea ezarpenak eguneratu argibiderik"
+},
+"update_title": {
+"message": "Fatkun Batch Deskarga irudia 1.8.3 bertsioan"
+},
+"width": {
+"message": "Zabalera"
+},
+"width_short": {
+"message": "Zabalera"
+}
+}

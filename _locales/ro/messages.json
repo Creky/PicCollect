@@ -1,0 +1,203 @@
+{
+"active_tab": {
+"message": "Acest Tab"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "Click pe imagine pentru a debifa sau verificați"
+},
+"all_tab": {
+"message": "Toate filele"
+},
+"apply": {
+"message": "aplica"
+},
+"chrome_download_settings_url": {
+"message": "Descărcați"
+},
+"default_title": {
+"message": "Batch Fatkun Download Image"
+},
+"default_title_desc": {
+"message": "Shortkey : Alt + Z"
+},
+"description": {
+"message": "O descărcare util și simplu imagine extension.You poate filtra prin rezoluția sau link-ul ."
+},
+"do_not_show_again": {
+"message": "Știu că nu arată acest dialog mai ."
+},
+"donate": {
+"message": "dona"
+},
+"export_btn": {
+"message": "export"
+},
+"export_close": {
+"message": "închidere"
+},
+"export_format": {
+"message": "format"
+},
+"export_format_tips": {
+"message": "Puteți folosi aceste variabile : { NU } înseamnă numărul de ordine ; { LINK } înseamnă legătură imagine"
+},
+"export_link": {
+"message": "link Export"
+},
+"filter_link": {
+"message": "Filtrul de la link-ul"
+},
+"height": {
+"message": "înălțime"
+},
+"height_short": {
+"message": "înălțime"
+},
+"inverse": {
+"message": "Toggle"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "Mai multe opțiuni"
+},
+"not_rename": {
+"message": "Nu a redenumi"
+},
+"open_multiple_page": {
+"message": "Deschideți mai multe pagină?"
+},
+"open_multiple_page_action": {
+"message": "Deschideți pagina"
+},
+"open_multiple_page_tips": {
+"message": "permite Multirow , wildcard [ 01-10 ] înseamnă 01-10 pagină , de exemplu : http://abc.com?page=[1-4,az ]"
+},
+"popup_tips": {
+"message": "Tasta Scurta: Alt + Z"
+},
+"process_end": {
+"message": "imagini"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "imagine de asistent rezoluție"
+},
+"rename_by_this_format": {
+"message": "Redenumirea bazat pe"
+},
+"rename_tips": {
+"message": "Puteți folosi aceste variabile : { NU } înseamnă numărul de ordine ; { } EXT inseamna numele extinsă"
+},
+"right_click_to_open": {
+"message": "( Faceți clic dreapta pentru a deschide și verifica setările )"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Salvați"
+},
+"save_image": {
+"message": "Save Image"
+},
+"save_tips": {
+"message": "\" Cereți în cazul în care să salvați fiecare fișier înainte de a descărca \" opțiune în Chrome Downlods Setting.Otherwise , multe, multe dialoguri de confirmare efectiv ."
+},
+"save_tips_cancel": {
+"message": "anula"
+},
+"save_tips_do_not_check": {
+"message": "NU SELECT"
+},
+"save_tips_done": {
+"message": "Save Image"
+},
+"save_tips_open_setting": {
+"message": "Deschideți Setări Page"
+},
+"settings": {
+"message": "Setări"
+},
+"settings_already_save": {
+"message": "Setarea salvat ."
+},
+"settings_collect_one_page": {
+"message": "Colecta de la pagina"
+},
+"settings_download": {
+"message": "Chrome Download Setare"
+},
+"settings_min_display": {
+"message": "Rezoluția Implicit min"
+},
+"settings_rule_last_update_time": {
+"message": "Ultima modificare:"
+},
+"settings_rule_last_update_time_none": {
+"message": "nici unul"
+},
+"settings_save_folder": {
+"message": "memora numele directorului ( pentru Ctrl + S )"
+},
+"settings_save_use_fixed_name": {
+"message": "utiliza numele fix"
+},
+"settings_save_use_title": {
+"message": "site-ul de utilizare titlu"
+},
+"settings_show_website": {
+"message": "Afișare link"
+},
+"settings_simple": {
+"message": "Setări normale"
+},
+"settings_special_support": {
+"message": "sprijin speciale"
+},
+"settings_special_support_desc": {
+"message": "articolul comună"
+},
+"settings_use_shortcut_key": {
+"message": "Utilizare cheie Scurta: Alt + Z"
+},
+"sort": {
+"message": "sort"
+},
+"sort_big_first": {
+"message": "Big imagine întâi"
+},
+"sort_normal": {
+"message": "Sortare dupa site-ul"
+},
+"sort_small_first": {
+"message": "Imagine mică primul"
+},
+"switch_view": {
+"message": "Comutator Vezi"
+},
+"update_declaration": {
+"message": "Această extensie menționată un cod de zzllrr lui \u003c o href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e小乐图客\u003c/a\u003e"
+},
+"update_description": {
+"message": "1 engleză \u003cbr /\u003e 2 setări descărcarea Chrome tooltips actualizat"
+},
+"update_title": {
+"message": "Fatkun Batch Download Image versiunea 1.8.3"
+},
+"width": {
+"message": "lățime"
+},
+"width_short": {
+"message": "lățime"
+}
+}

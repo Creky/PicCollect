@@ -1,0 +1,203 @@
+{
+"active_tab": {
+"message": "ова ливче"
+},
+"advise": {
+"message": "блог"
+},
+"aimg_tooltip": {
+"message": "Кликнете на сликата за да Отстранете или проверете"
+},
+"all_tab": {
+"message": "сите Батерии"
+},
+"apply": {
+"message": "применуваат"
+},
+"chrome_download_settings_url": {
+"message": "Преземи"
+},
+"default_title": {
+"message": "Fatkun Серија Преземете слика"
+},
+"default_title_desc": {
+"message": "ShortKey : Alt + Z"
+},
+"description": {
+"message": "Еден корисен и едноставен преземете слика extension.You може да се филтрираат преку резолуција или линк."
+},
+"do_not_show_again": {
+"message": "Знам дека тоа не се покаже овој дијалог повеќе."
+},
+"donate": {
+"message": "Донирајте"
+},
+"export_btn": {
+"message": "Извоз"
+},
+"export_close": {
+"message": "Затвори"
+},
+"export_format": {
+"message": "формат"
+},
+"export_format_tips": {
+"message": "Можете да ги користите овие променливи : { } НЕ значи реден број ; } { ЛИНК значи сликата линк"
+},
+"export_link": {
+"message": "Извоз линк"
+},
+"filter_link": {
+"message": "Филтер по врската"
+},
+"height": {
+"message": "висина"
+},
+"height_short": {
+"message": "висина"
+},
+"inverse": {
+"message": "Префрли"
+},
+"min_display": {
+"message": "Макс страна"
+},
+"more_options": {
+"message": "повеќе опции"
+},
+"not_rename": {
+"message": "не се преименува"
+},
+"open_multiple_page": {
+"message": "Отвори multi -страница?"
+},
+"open_multiple_page_action": {
+"message": "Отворена страница"
+},
+"open_multiple_page_tips": {
+"message": "овозможи multirow , маска [ 01-10 ] значи 01-10 страница, на пример : http://abc.com?page=[1-4,az ]"
+},
+"popup_tips": {
+"message": "Краток Клучни : Alt + Z"
+},
+"process_end": {
+"message": "слики"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "слика добивање резолуција"
+},
+"rename_by_this_format": {
+"message": "Преименувај врз основа на"
+},
+"rename_tips": {
+"message": "Можете да ги користите овие променливи : { } НЕ значи реден број ; } { EXT значи подолг име"
+},
+"right_click_to_open": {
+"message": "( Десен-клик за да се отвори и да се провери поставувања)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Зачувај"
+},
+"save_image": {
+"message": "Зачувај слика"
+},
+"save_tips": {
+"message": "\"Прашај каде да го зачувате секоја датотека пред да ја преземете \" опција во Хром Downlods Setting.Otherwise , многу, многу дијалози потврда стадото ."
+},
+"save_tips_cancel": {
+"message": "Откажи"
+},
+"save_tips_do_not_check": {
+"message": "Не избирајте"
+},
+"save_tips_done": {
+"message": "Зачувај слика"
+},
+"save_tips_open_setting": {
+"message": "Отвори Подесувања страница"
+},
+"settings": {
+"message": "подесувања"
+},
+"settings_already_save": {
+"message": "Подесување спаси."
+},
+"settings_collect_one_page": {
+"message": "Собери на на страница"
+},
+"settings_download": {
+"message": "Хром даунлоади Прилагодувањето"
+},
+"settings_min_display": {
+"message": "Стандардно мин резолуција"
+},
+"settings_rule_last_update_time": {
+"message": "Најнови update:"
+},
+"settings_rule_last_update_time_none": {
+"message": "Никој"
+},
+"settings_save_folder": {
+"message": "спаси име на папка (на Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "користи фиксни име"
+},
+"settings_save_use_title": {
+"message": "го користите веб наслов"
+},
+"settings_show_website": {
+"message": "Прикажи линк"
+},
+"settings_simple": {
+"message": "нормално Подесувања"
+},
+"settings_special_support": {
+"message": "Посебна поддршка"
+},
+"settings_special_support_desc": {
+"message": "општо правило"
+},
+"settings_use_shortcut_key": {
+"message": "Користете кратки клучни : Alt + Z"
+},
+"sort": {
+"message": "Сортирај"
+},
+"sort_big_first": {
+"message": "Голема слика првата"
+},
+"sort_normal": {
+"message": "Сортирај по страница"
+},
+"sort_small_first": {
+"message": "Мали слика првата"
+},
+"switch_view": {
+"message": "Исклучете Прикажи"
+},
+"update_declaration": {
+"message": "Оваа екстензија референцирани некои кодот на zzllrr е \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e小乐图客\u003c/a\u003e"
+},
+"update_description": {
+"message": "1 превод на англиски \u003cbr /\u003e 2 Хром симнување поставувања советите ажурирани"
+},
+"update_title": {
+"message": "Fatkun Серија преземање на слики верзија 1.8.3"
+},
+"width": {
+"message": "ширина"
+},
+"width_short": {
+"message": "ширина"
+}
+}

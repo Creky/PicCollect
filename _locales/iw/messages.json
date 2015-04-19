@@ -1,0 +1,203 @@
+{
+"active_tab": {
+"message": "כרטיסייה זו"
+},
+"advise": {
+"message": "בלוג"
+},
+"aimg_tooltip": {
+"message": "לחץ על תמונה כדי לבטל את הסימון או לבדוק"
+},
+"all_tab": {
+"message": "לכל הלשוניות"
+},
+"apply": {
+"message": "החל"
+},
+"chrome_download_settings_url": {
+"message": "הורדה"
+},
+"default_title": {
+"message": "תמונת הורדה אצווה Fatkun"
+},
+"default_title_desc": {
+"message": "ShortKey : Alt + Z"
+},
+"description": {
+"message": "להורדת תמונה שימושיתופשוטה extension.You לסנן בהחלטה או קישור ."
+},
+"do_not_show_again": {
+"message": "אני יודע את זה, לא להראות את זה שיח יותר ."
+},
+"donate": {
+"message": "תרום"
+},
+"export_btn": {
+"message": "יצוא"
+},
+"export_close": {
+"message": "לסגור"
+},
+"export_format": {
+"message": "פורמט"
+},
+"export_format_tips": {
+"message": "אתה יכול להשתמש במשתנים הבאים: { } אין פירושו מספר רצף ; { LINK } פירוש קישור תמונה"
+},
+"export_link": {
+"message": "קישור יצוא"
+},
+"filter_link": {
+"message": "סנן לפי קישור"
+},
+"height": {
+"message": "גובה"
+},
+"height_short": {
+"message": "גובה"
+},
+"inverse": {
+"message": "לְמַתֵג"
+},
+"min_display": {
+"message": "מקס Side"
+},
+"more_options": {
+"message": "אפשרויות נוספות"
+},
+"not_rename": {
+"message": "לא לשנות את השם"
+},
+"open_multiple_page": {
+"message": "דף רב פתוח ?"
+},
+"open_multiple_page_action": {
+"message": "דף פתוח"
+},
+"open_multiple_page_tips": {
+"message": "לאפשר multirow , כללי [ 01-10 ] פירוש 01-10 דף , למשל : http://abc.com?page=[1-4,az ]"
+},
+"popup_tips": {
+"message": "מפתח קצר: Alt + Z"
+},
+"process_end": {
+"message": "תמונות"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "רזולוציה מקבלת תמונה"
+},
+"rename_by_this_format": {
+"message": "שינוי שם המבוסס על"
+},
+"rename_tips": {
+"message": "אתה יכול להשתמש במשתנים הבאים: { } אין פירושו מספר רצף ; { EXT } פירוש שם מורחב"
+},
+"right_click_to_open": {
+"message": "( לחץ לחיצה ימנית כדי לפתוחולבדוק את הגדרות )"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "שמור"
+},
+"save_image": {
+"message": "שמור תמונה"
+},
+"save_tips": {
+"message": "\" שאלו היכן לשמור כל קובץ לפני הורדתו \" אפשרותבChrome Downlods Setting.Otherwise , רבים דיאלוגים אישור רבים נוהרים ."
+},
+"save_tips_cancel": {
+"message": "לבטל"
+},
+"save_tips_do_not_check": {
+"message": "אל תבחרו"
+},
+"save_tips_done": {
+"message": "שמור תמונה"
+},
+"save_tips_open_setting": {
+"message": "להרחיב הגדרות עמוד"
+},
+"settings": {
+"message": "הגדרות"
+},
+"settings_already_save": {
+"message": "הגדרה שנשמר ."
+},
+"settings_collect_one_page": {
+"message": "אסוףבעמוד"
+},
+"settings_download": {
+"message": "הגדרת הורדות Chrome"
+},
+"settings_min_display": {
+"message": "רזולוציה דקות ברירת מחדל"
+},
+"settings_rule_last_update_time": {
+"message": "העדכון אחרון:"
+},
+"settings_rule_last_update_time_none": {
+"message": "אף אחד"
+},
+"settings_save_folder": {
+"message": "להציל את שם תיקייה (לCtrl + S )"
+},
+"settings_save_use_fixed_name": {
+"message": "להשתמש בשם קבוע"
+},
+"settings_save_use_title": {
+"message": "כותרת אתר שימוש"
+},
+"settings_show_website": {
+"message": "קישור הצג"
+},
+"settings_simple": {
+"message": "הגדרות רגילה"
+},
+"settings_special_support": {
+"message": "תמיכה מיוחדת"
+},
+"settings_special_support_desc": {
+"message": "Common כלל"
+},
+"settings_use_shortcut_key": {
+"message": "השתמש במפתח קצר: Alt + Z"
+},
+"sort": {
+"message": "מיין"
+},
+"sort_big_first": {
+"message": "תמונה גדולה הראשון"
+},
+"sort_normal": {
+"message": "מיין לפי אתר"
+},
+"sort_small_first": {
+"message": "תמונה קטנה ראשון"
+},
+"switch_view": {
+"message": "לעבור צפה"
+},
+"update_declaration": {
+"message": "הרחבה זו הפניה קצת קוד של zzllrr של \u003c href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e小乐图客\u003c/a\u003e"
+},
+"update_description": {
+"message": "1 \u003cbr /\u003e 2 הגדרות Chrome התרגום לאנגלית הורדת תיאורי כלים מעודכנות"
+},
+"update_title": {
+"message": "גרסת תמונת הורדה אצווה Fatkun 1.8.3"
+},
+"width": {
+"message": "רוחב"
+},
+"width_short": {
+"message": "רוחב"
+}
+}

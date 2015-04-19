@@ -1,0 +1,203 @@
+{
+"active_tab": {
+"message": "bu Tab"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "Işaretini sil və ya yoxlamaq üçün Image basın"
+},
+"all_tab": {
+"message": "bütün Tabs"
+},
+"apply": {
+"message": "tətbiq etmək"
+},
+"chrome_download_settings_url": {
+"message": "download"
+},
+"default_title": {
+"message": "Fatkun Batch Image"
+},
+"default_title_desc": {
+"message": "Shortkey : Alt + Z"
+},
+"description": {
+"message": "Bir faydalı və sadə image download extension.You qətnamə və ya link ilə filter edə bilərsiniz ."
+},
+"do_not_show_again": {
+"message": "Hesab edirəm ki, bir daha bu informasiya göstərmək deyil bilirik."
+},
+"donate": {
+"message": "Ianə vermək"
+},
+"export_btn": {
+"message": "ixrac"
+},
+"export_close": {
+"message": "yaxın"
+},
+"export_format": {
+"message": "format"
+},
+"export_format_tips": {
+"message": "Bu dəyişənlər istifadə edə bilərsiniz: { NO } sequence number deməkdir; { LINK } image link deməkdir"
+},
+"export_link": {
+"message": "Export link"
+},
+"filter_link": {
+"message": "Link ilə Süzgəc"
+},
+"height": {
+"message": "hündürlük"
+},
+"height_short": {
+"message": "hündürlük"
+},
+"inverse": {
+"message": "Toggle"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "daha çox seçimlər"
+},
+"not_rename": {
+"message": "adını dəyişmək deyil"
+},
+"open_multiple_page": {
+"message": "Açıq multi səhifə ?"
+},
+"open_multiple_page_action": {
+"message": "Open səhifə"
+},
+"open_multiple_page_tips": {
+"message": "Məsələn , multirow , wildcard [ 01-10 ] 01 10 səhifə deməkdir imkan verir: http://abc.com?page=[1-4,az ]"
+},
+"popup_tips": {
+"message": "Qisa Key : Alt + Z"
+},
+"process_end": {
+"message": "şəkillər"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "image əldə qətnamə"
+},
+"rename_by_this_format": {
+"message": "Rename əsasında"
+},
+"rename_tips": {
+"message": "Bu dəyişənlər istifadə edə bilərsiniz: { NO } sequence number deməkdir; { EXT } uzun adı deməkdir"
+},
+"right_click_to_open": {
+"message": "( Açıq və parametrlərini yoxlamaq üçün sağ basın )"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Save"
+},
+"save_image": {
+"message": "Save Image"
+},
+"save_tips": {
+"message": "Chrome Downlods Setting.Otherwise seçimi \" yükləməzdən əvvəl hər bir fayl saxlamaq üçün harada soruş\" , bir çox təsdiq informasiya qutusu axın ."
+},
+"save_tips_cancel": {
+"message": "ləğv etmək"
+},
+"save_tips_do_not_check": {
+"message": "SELECT etməyin"
+},
+"save_tips_done": {
+"message": "Save Image"
+},
+"save_tips_open_setting": {
+"message": "Open Settings Page"
+},
+"settings": {
+"message": "Parametrlər"
+},
+"settings_already_save": {
+"message": "Xilas qəbulu ."
+},
+"settings_collect_one_page": {
+"message": "Səhifə toplamaq"
+},
+"settings_download": {
+"message": "Chrome downloads Setting"
+},
+"settings_min_display": {
+"message": "Default min qətnamə"
+},
+"settings_rule_last_update_time": {
+"message": "Son yeniləmə:"
+},
+"settings_rule_last_update_time_none": {
+"message": "heç kim"
+},
+"settings_save_folder": {
+"message": "qovluq adı saxlamaq (Ctrl + S )"
+},
+"settings_save_use_fixed_name": {
+"message": "sabit adını istifadə"
+},
+"settings_save_use_title": {
+"message": "istifadə website adı"
+},
+"settings_show_website": {
+"message": "Show link"
+},
+"settings_simple": {
+"message": "normal Settings"
+},
+"settings_special_support": {
+"message": "xüsusi dəstək"
+},
+"settings_special_support_desc": {
+"message": "Ümumi qaydası"
+},
+"settings_use_shortcut_key": {
+"message": "Qisa düyməsindən istifadə edin : Alt + Z"
+},
+"sort": {
+"message": "cür"
+},
+"sort_big_first": {
+"message": "Böyük image ilk"
+},
+"sort_normal": {
+"message": "Site Sort"
+},
+"sort_small_first": {
+"message": "Kiçik image ilk"
+},
+"switch_view": {
+"message": "Bax Switch"
+},
+"update_declaration": {
+"message": "Bu məsləhət zzllrr nin bəzi kodu istinad \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e小乐图客\u003c/a\u003e"
+},
+"update_description": {
+"message": "1 İngilis dili translation \u003cbr /\u003e 2 Chrome yüklənərkən parametrləri yenilənir Toolbar"
+},
+"update_title": {
+"message": "Fatkun Batch Image version 1.8.3"
+},
+"width": {
+"message": "en"
+},
+"width_short": {
+"message": "en"
+}
+}

@@ -1,0 +1,203 @@
+{
+"active_tab": {
+"message": "ĉi Tab"
+},
+"advise": {
+"message": "blogo"
+},
+"aimg_tooltip": {
+"message": "Click Image to malmarku aŭ kontroli"
+},
+"all_tab": {
+"message": "Ĉiuj Pestañas"
+},
+"apply": {
+"message": "apliki"
+},
+"chrome_download_settings_url": {
+"message": "Elŝuti"
+},
+"default_title": {
+"message": "Fatkun Batch Elŝuti Bildo"
+},
+"default_title_desc": {
+"message": "ShortKey : Alt + Z"
+},
+"description": {
+"message": "An utila kaj simpla bildo download extension.You povas filtri por rezolucio aŭ ligilon."
+},
+"do_not_show_again": {
+"message": "Mi konas ŝin , ne montras ĉi dialogo plu ."
+},
+"donate": {
+"message": "Donate"
+},
+"export_btn": {
+"message": "eksporto"
+},
+"export_close": {
+"message": "Fermi"
+},
+"export_format": {
+"message": "formato"
+},
+"export_format_tips": {
+"message": "Vi povas uzi ĉi tiujn variablojn : { NO } signifas sekvencon nombro; { LINK } signifas bildon ligilo"
+},
+"export_link": {
+"message": "Eksporti ligilo"
+},
+"filter_link": {
+"message": "Filtrilo de ligilo"
+},
+"height": {
+"message": "alteco"
+},
+"height_short": {
+"message": "alteco"
+},
+"inverse": {
+"message": "Baskuli"
+},
+"min_display": {
+"message": "Max Flanko"
+},
+"more_options": {
+"message": "pli Opcioj"
+},
+"not_rename": {
+"message": "alinomi"
+},
+"open_multiple_page": {
+"message": "Malferma multi paĝo ?"
+},
+"open_multiple_page_action": {
+"message": "malferma paĝo"
+},
+"open_multiple_page_tips": {
+"message": "permesi multirow , wildcard [ 01-10 ] signifas 01 al 10 paĝo , ekzemple : http://abc.com?page=[1-4,az ]"
+},
+"popup_tips": {
+"message": "Mallonga Ŝlosilo : Alt + Z"
+},
+"process_end": {
+"message": "bildoj"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "bildo ricevas distingivo"
+},
+"rename_by_this_format": {
+"message": "Alinomu surbaze"
+},
+"rename_tips": {
+"message": "Vi povas uzi ĉi tiujn variablojn : { NO } signifas sekvencon nombro; { EXT } signifas etendita nomo"
+},
+"right_click_to_open": {
+"message": "( Dekstra - klaku malfermi kaj kontroli agordoj)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Konservi"
+},
+"save_image": {
+"message": "Konservi Bildo"
+},
+"save_tips": {
+"message": "\" Demandu kie savi ĉiu dosiero antaŭ elŝutanta \" opcion en Chrome Downlods Setting.Otherwise , multaj multaj konfirmo dialogoj grego."
+},
+"save_tips_cancel": {
+"message": "Rezignu"
+},
+"save_tips_do_not_check": {
+"message": "NE SELECT"
+},
+"save_tips_done": {
+"message": "Konservi Bildo"
+},
+"save_tips_open_setting": {
+"message": "Malferma Settings Paĝo"
+},
+"settings": {
+"message": "agordoj"
+},
+"settings_already_save": {
+"message": "Fikso savitaj ."
+},
+"settings_collect_one_page": {
+"message": "Kolektas al sur paĝo"
+},
+"settings_download": {
+"message": "Chrome Elŝutoj Agordo"
+},
+"settings_min_display": {
+"message": "Defaŭlta min distingivo"
+},
+"settings_rule_last_update_time": {
+"message": "Lasta ŝanĝo :"
+},
+"settings_rule_last_update_time_none": {
+"message": "neniu"
+},
+"settings_save_folder": {
+"message": "savi dosierujo nomo ( por Strkl + S )"
+},
+"settings_save_use_fixed_name": {
+"message": "uzi fiksan nomon"
+},
+"settings_save_use_title": {
+"message": "uzo retejo titolon"
+},
+"settings_show_website": {
+"message": "Montri ligilo"
+},
+"settings_simple": {
+"message": "Normala agordoj"
+},
+"settings_special_support": {
+"message": "speciala subteno"
+},
+"settings_special_support_desc": {
+"message": "komuna Regulo"
+},
+"settings_use_shortcut_key": {
+"message": "Uzu Mallonga Ŝlosilo : Alt + Z"
+},
+"sort": {
+"message": "Ordigi"
+},
+"sort_big_first": {
+"message": "Big bildo unue"
+},
+"sort_normal": {
+"message": "Ordigi laŭ ejo"
+},
+"sort_small_first": {
+"message": "Malgrandaj bildon unua"
+},
+"switch_view": {
+"message": "Ŝaltilo View"
+},
+"update_declaration": {
+"message": "Ĉi tiu finaĵo referencita iu kodo de zzllrr la \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e小乐图客\u003c/a\u003e"
+},
+"update_description": {
+"message": "1 angla traduko \u003cbr /\u003e 2 Chrome elŝutante agordojn konsiletojn ĝisdatigita"
+},
+"update_title": {
+"message": "Fatkun Batch Elŝuti Bildo versio 1.8.3"
+},
+"width": {
+"message": "larĝeco"
+},
+"width_short": {
+"message": "larĝeco"
+}
+}

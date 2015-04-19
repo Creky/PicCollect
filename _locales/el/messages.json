@@ -1,0 +1,203 @@
+{
+"active_tab": {
+"message": "Αυτή η καρτέλα"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "Πατήστε στην εικόνα για να καταργήσετε την επιλογή ή να ελέγξετε"
+},
+"all_tab": {
+"message": "Όλες οι καρτέλες"
+},
+"apply": {
+"message": "Εφαρμογή"
+},
+"chrome_download_settings_url": {
+"message": "Λήψη"
+},
+"default_title": {
+"message": "Fatkun παρτίδας Λήψη εικόνας"
+},
+"default_title_desc": {
+"message": "ShortKey : Alt + Z"
+},
+"description": {
+"message": "Ένα χρήσιμο και απλό download εικόνα extension.You να φιλτράρετε με ανάλυση ή τη σύνδεση."
+},
+"do_not_show_again": {
+"message": "Ξέρω ότι δεν δείξει αυτό το παράθυρο πια ."
+},
+"donate": {
+"message": "Δωρεά"
+},
+"export_btn": {
+"message": "εξαγωγή"
+},
+"export_close": {
+"message": "κοντά"
+},
+"export_format": {
+"message": "μορφή"
+},
+"export_format_tips": {
+"message": "Μπορείτε να χρησιμοποιήσετε αυτές τις μεταβλητές : { } ΟΧΙ σημαίνει αύξοντα αριθμό ? { LINK } σημαίνει σύνδεσμος εικόνας"
+},
+"export_link": {
+"message": "δεσμό Εξαγωγή"
+},
+"filter_link": {
+"message": "Φίλτρο με σύνδεσμο"
+},
+"height": {
+"message": "ύψος"
+},
+"height_short": {
+"message": "ύψος"
+},
+"inverse": {
+"message": "μπαρέτα"
+},
+"min_display": {
+"message": "max Side"
+},
+"more_options": {
+"message": "Περισσότερες επιλογές"
+},
+"not_rename": {
+"message": "δεν μετονομασία"
+},
+"open_multiple_page": {
+"message": "Ανοίξτε πολυσέλιδο ;"
+},
+"open_multiple_page_action": {
+"message": "Ανοίξτε τη σελίδα"
+},
+"open_multiple_page_tips": {
+"message": "επιτρέπουν multirow , μπαλαντέρ [ 01-10 ] σημαίνει 01-10 σελίδα , για παράδειγμα : http://abc.com?page=[1-4,az ]"
+},
+"popup_tips": {
+"message": "Σύντομη Κλειδί: Alt + Z"
+},
+"process_end": {
+"message": "εικόνες"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "εικόνας πάρει ψήφισμα"
+},
+"rename_by_this_format": {
+"message": "Μετονομασία με βάση"
+},
+"rename_tips": {
+"message": "Μπορείτε να χρησιμοποιήσετε αυτές τις μεταβλητές : { } ΟΧΙ σημαίνει αύξοντα αριθμό ? { EXT } σημαίνει μεγάλη όνομα"
+},
+"right_click_to_open": {
+"message": "( Κάντε δεξί κλικ για να ανοίξετε και να ελέγξετε τις ρυθμίσεις )"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Αποθήκευση"
+},
+"save_image": {
+"message": "Αποθήκευση εικόνας"
+},
+"save_tips": {
+"message": "\"Ρωτήστε τη θέση αποθήκευσης κάθε αρχείου πριν από τη λήψη \" στο Chrome Downlods Setting.Otherwise , πολλές πολλές διαλόγους επιβεβαίωσης κοπάδι ."
+},
+"save_tips_cancel": {
+"message": "Ακύρωση"
+},
+"save_tips_do_not_check": {
+"message": "Δεν επιλέγουν"
+},
+"save_tips_done": {
+"message": "Αποθήκευση εικόνας"
+},
+"save_tips_open_setting": {
+"message": "Ανοίξτε τις Ρυθμίσεις Σελίδα"
+},
+"settings": {
+"message": "Ρυθμίσεις"
+},
+"settings_already_save": {
+"message": "Ρύθμιση που είναι αποθηκευμένη ."
+},
+"settings_collect_one_page": {
+"message": "Συλλέξτε με στη σελίδα"
+},
+"settings_download": {
+"message": "Chrome Λήψεις Περιβάλλον"
+},
+"settings_min_display": {
+"message": "Προεπιλογή ψήφισμα λεπτά"
+},
+"settings_rule_last_update_time": {
+"message": "Τελευταία ενημέρωση :"
+},
+"settings_rule_last_update_time_none": {
+"message": "κανένας"
+},
+"settings_save_folder": {
+"message": "αποθηκεύσετε το όνομα φακέλου ( για Ctrl + S )"
+},
+"settings_save_use_fixed_name": {
+"message": "χρησιμοποιούν σταθερούς όνομα"
+},
+"settings_save_use_title": {
+"message": "ιστοσελίδα χρήση του τίτλου"
+},
+"settings_show_website": {
+"message": "προβολή συνδέσμου"
+},
+"settings_simple": {
+"message": "Κανονική Ρυθμίσεις"
+},
+"settings_special_support": {
+"message": "Ειδική στήριξη"
+},
+"settings_special_support_desc": {
+"message": "κοινή Κανόνας"
+},
+"settings_use_shortcut_key": {
+"message": "Χρησιμοποιήστε το σύντομο πάτημα : Alt + Z"
+},
+"sort": {
+"message": "είδος"
+},
+"sort_big_first": {
+"message": "Μεγάλη εικόνα πρώτα"
+},
+"sort_normal": {
+"message": "Ταξινόμηση κατά τοποθεσία"
+},
+"sort_small_first": {
+"message": "Μικρή εικόνα πρώτα"
+},
+"switch_view": {
+"message": "Switch View"
+},
+"update_declaration": {
+"message": "Η επέκταση αυτή αναφέρεται κάποιο κώδικα της zzllrr του \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e小乐图客\u003c/a\u003e"
+},
+"update_description": {
+"message": "1 Ελληνική μετάφραση \u003cbr /\u003e 2 Chrome λήψη των ρυθμίσεων ToolTips ενημερωθεί"
+},
+"update_title": {
+"message": "Fatkun παρτίδας Κατεβάστε την έκδοση 1.8.3 Εικόνα"
+},
+"width": {
+"message": "πλάτος"
+},
+"width_short": {
+"message": "πλάτος"
+}
+}

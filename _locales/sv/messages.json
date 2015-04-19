@@ -1,0 +1,203 @@
+{
+"active_tab": {
+"message": "denna flik"
+},
+"advise": {
+"message": "blogg"
+},
+"aimg_tooltip": {
+"message": "Klicka på bilden för att avmarkera eller kontrollera"
+},
+"all_tab": {
+"message": "alla flikar"
+},
+"apply": {
+"message": "Tillämpa"
+},
+"chrome_download_settings_url": {
+"message": "Hämta"
+},
+"default_title": {
+"message": "Fatkun Batch Hämta Bild"
+},
+"default_title_desc": {
+"message": "Shortkey : Alt + Z"
+},
+"description": {
+"message": "En nyttig och enkel nedladdning extension.You kan filtrera efter upplösning eller länk ."
+},
+"do_not_show_again": {
+"message": "Jag vet det, inte visa den här dialogrutan längre."
+},
+"donate": {
+"message": "Donera"
+},
+"export_btn": {
+"message": "export"
+},
+"export_close": {
+"message": "Stäng"
+},
+"export_format": {
+"message": "format"
+},
+"export_format_tips": {
+"message": "Du kan använda dessa variabler : { NO } betyder sekvensnummer ; { LINK } betyder bildlänk"
+},
+"export_link": {
+"message": "export länk"
+},
+"filter_link": {
+"message": "Filtrera efter länk"
+},
+"height": {
+"message": "Höjd"
+},
+"height_short": {
+"message": "Höjd"
+},
+"inverse": {
+"message": "Växla"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "fler alternativ"
+},
+"not_rename": {
+"message": "inte byta namn"
+},
+"open_multiple_page": {
+"message": "Öppna multi sida ?"
+},
+"open_multiple_page_action": {
+"message": "Öppna sidan"
+},
+"open_multiple_page_tips": {
+"message": "tillåta Multirow , jokertecken [ 01-10 ] betyder 01-10 sida , till exempel : http://abc.com?page=[1-4,az ]"
+},
+"popup_tips": {
+"message": "Kort Key : Alt + Z"
+},
+"process_end": {
+"message": "bilder"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "bild få upplösning"
+},
+"rename_by_this_format": {
+"message": "Ändra namn baserat på"
+},
+"rename_tips": {
+"message": "Du kan använda dessa variabler : { NO } betyder sekvensnummer ; { EXT } betyder utökad namn"
+},
+"right_click_to_open": {
+"message": "( Högerklicka för att öppna och kontrollera inställningarna )"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Spara"
+},
+"save_image": {
+"message": "Spara bild"
+},
+"save_tips": {
+"message": "\" Be var du vill spara varje fil innan du laddar ner \" i Chrome Downlods Setting.Otherwise , många många bekräftelsedialogrutor flock ."
+},
+"save_tips_cancel": {
+"message": "avboka"
+},
+"save_tips_do_not_check": {
+"message": "INTE VÄLJ"
+},
+"save_tips_done": {
+"message": "Spara bild"
+},
+"save_tips_open_setting": {
+"message": "Öppna Inställningar Page"
+},
+"settings": {
+"message": "Inställningar"
+},
+"settings_already_save": {
+"message": "Inställning sparad ."
+},
+"settings_collect_one_page": {
+"message": "Samla till på sidan"
+},
+"settings_download": {
+"message": "Chrome överför Inställning"
+},
+"settings_min_display": {
+"message": "Standard min upplösning"
+},
+"settings_rule_last_update_time": {
+"message": "Senast uppdaterad :"
+},
+"settings_rule_last_update_time_none": {
+"message": "Inget"
+},
+"settings_save_folder": {
+"message": "spara mappnamn (till Ctrl + S )"
+},
+"settings_save_use_fixed_name": {
+"message": "Använd fast namn"
+},
+"settings_save_use_title": {
+"message": "användning webbplats titel"
+},
+"settings_show_website": {
+"message": "Visa länk"
+},
+"settings_simple": {
+"message": "Normala Inställningar"
+},
+"settings_special_support": {
+"message": "Särskilt stöd"
+},
+"settings_special_support_desc": {
+"message": "Vanliga Rule"
+},
+"settings_use_shortcut_key": {
+"message": "Använd Short Key : Alt + Z"
+},
+"sort": {
+"message": "Sortera"
+},
+"sort_big_first": {
+"message": "Stor bild först"
+},
+"sort_normal": {
+"message": "Sortera på plats"
+},
+"sort_small_first": {
+"message": "Små bild först"
+},
+"switch_view": {
+"message": "Switch View"
+},
+"update_declaration": {
+"message": "Denna förlängning refererade lite kod för zzllrr s \u003c a href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e小乐图客\u003c/a\u003e"
+},
+"update_description": {
+"message": "En engelsk översättning \u003cbr /\u003e 2 Chrome hämtar inställningar tooltips uppdaterad"
+},
+"update_title": {
+"message": "Fatkun Batch Download Image version 1.8.3"
+},
+"width": {
+"message": "Bredd"
+},
+"width_short": {
+"message": "Bredd"
+}
+}

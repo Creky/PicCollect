@@ -1,0 +1,203 @@
+{
+"active_tab": {
+"message": "deze Tab"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "Klik op de afbeelding om het vinkje of kijk"
+},
+"all_tab": {
+"message": "alle tabs"
+},
+"apply": {
+"message": "van toepassing zijn"
+},
+"chrome_download_settings_url": {
+"message": "Download"
+},
+"default_title": {
+"message": "Fatkun Batch Download Afbeelding"
+},
+"default_title_desc": {
+"message": "Shortkey : Alt + Z"
+},
+"description": {
+"message": "Een handig en eenvoudig beeld downloaden extension.You kunt filteren op resolutie of link."
+},
+"do_not_show_again": {
+"message": "Ik weet het, niet dit dialoogvenster niet meer tonen ."
+},
+"donate": {
+"message": "schenken"
+},
+"export_btn": {
+"message": "export"
+},
+"export_close": {
+"message": "dicht"
+},
+"export_format": {
+"message": "formaat"
+},
+"export_format_tips": {
+"message": "U kunt deze variabelen gebruiken : { NO } betekent volgnummer ; { LINK } betekent afbeelding link"
+},
+"export_link": {
+"message": "export koppeling"
+},
+"filter_link": {
+"message": "Filter op band"
+},
+"height": {
+"message": "hoogte"
+},
+"height_short": {
+"message": "hoogte"
+},
+"inverse": {
+"message": "toggle"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "meer opties"
+},
+"not_rename": {
+"message": "niet hernoemen"
+},
+"open_multiple_page": {
+"message": "Open meerdere pagina's ?"
+},
+"open_multiple_page_action": {
+"message": "Open pagina"
+},
+"open_multiple_page_tips": {
+"message": "toestaan ​​Multirow , wildcard [ 01-10 ] betekent 01-10 pagina, bijvoorbeeld : http://abc.com?page=[1-4,az ]"
+},
+"popup_tips": {
+"message": "Korte Sleutel: Alt + Z"
+},
+"process_end": {
+"message": "beelden"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "image krijgen resolutie"
+},
+"rename_by_this_format": {
+"message": "Hernoemen gebaseerd op"
+},
+"rename_tips": {
+"message": "U kunt deze variabelen gebruiken : { NO } betekent volgnummer ; { EXT } betekent een verlengde naam"
+},
+"right_click_to_open": {
+"message": "( Klik met de rechtermuisknop te openen en te controleren instellingen )"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Opslaan"
+},
+"save_image": {
+"message": "Afbeelding Opslaan"
+},
+"save_tips": {
+"message": "\" Vragen waar een bestand op te slaan voordat het downloaden \" optie in Chrome Downlods Setting.Otherwise , vele vele bevestigingsdialogen kudde ."
+},
+"save_tips_cancel": {
+"message": "annuleren"
+},
+"save_tips_do_not_check": {
+"message": "NIET SELECT"
+},
+"save_tips_done": {
+"message": "Afbeelding Opslaan"
+},
+"save_tips_open_setting": {
+"message": "Open Instellingen Page"
+},
+"settings": {
+"message": "instellingen"
+},
+"settings_already_save": {
+"message": "Instelling opgeslagen."
+},
+"settings_collect_one_page": {
+"message": "Verzamelen om op pagina"
+},
+"settings_download": {
+"message": "Chroom Downloads Instelling"
+},
+"settings_min_display": {
+"message": "Default min resolutie"
+},
+"settings_rule_last_update_time": {
+"message": "Laatste update:"
+},
+"settings_rule_last_update_time_none": {
+"message": "geen"
+},
+"settings_save_folder": {
+"message": "opslaan mapnaam ( voor Ctrl + S )"
+},
+"settings_save_use_fixed_name": {
+"message": "Gebruik vaste naam"
+},
+"settings_save_use_title": {
+"message": "gebruik website titel"
+},
+"settings_show_website": {
+"message": "Toon koppeling"
+},
+"settings_simple": {
+"message": "normale Instellingen"
+},
+"settings_special_support": {
+"message": "speciale ondersteuning"
+},
+"settings_special_support_desc": {
+"message": "gemeenschappelijke Regel"
+},
+"settings_use_shortcut_key": {
+"message": "Gebruik Korte Sleutel: Alt + Z"
+},
+"sort": {
+"message": "sorteren"
+},
+"sort_big_first": {
+"message": "Grote afbeelding eerst"
+},
+"sort_normal": {
+"message": "Sorteren op website"
+},
+"sort_small_first": {
+"message": "Kleine afbeelding eerst"
+},
+"switch_view": {
+"message": "Switch View"
+},
+"update_declaration": {
+"message": "Deze uitbreiding wordt verwezen wat code van zzllrr 's \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e小乐图客\u003c/a\u003e"
+},
+"update_description": {
+"message": "1 vertaling Engels \u003cbr /\u003e 2 Chrome downloaden instellingen tooltips bijgewerkt"
+},
+"update_title": {
+"message": "Fatkun Batch Download Image versie 1.8.3"
+},
+"width": {
+"message": "breedte"
+},
+"width_short": {
+"message": "breedte"
+}
+}

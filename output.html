@@ -1,0 +1,79 @@
+﻿<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="css/main.css" />
+<link rel="stylesheet" type="text/css" href="css/smoothness/jquery-ui-1.10.3.custom.min.css" />
+</head>
+<body>
+<div class="tools">
+  <div id="filterPanel">
+    <div class="fl">
+        <span data-msg="width_short">宽</span>:<div id="minWidthSlider" class="wh_slider"></div><span data-msg="height_short">高</span>:<div id="minHeightSlider" class="wh_slider"></div>
+        <button id="btnInverse" type="button"><span  data-msg="inverse">反选</span></button>
+      <button id="btnMoreOption"><span  data-msg="more_options">选项</span></button>
+      <button id="btnSave" accesskey="S" title="ALT+S"><span  data-msg="save_image">保存图片</span></button>
+      <span id="imgnum"></span>
+    </div>
+    <div id="loadding" class="fl"><progress id="main_progress" class="main_progress"></progress></div>
+    <div class="fr author_link">
+
+    </div>
+  </div>
+  <div class="clear"></div>
+    <div id="proPanel">
+      <div class="fl">
+        <span data-msg="filter_link">链接包含</span>:<input id="linktxt" type="text" value=""/>
+      </div>
+      <div id="sortPanel" class="fl tool_sep">
+      <span data-msg="sort">排序</span>:
+      <select id="sortSelect">
+        <option value="data-index;asc" data-msg="sort_normal">网页顺序</option>
+        <option value="data-whsum;desc" data-msg="sort_big_first">大图在前</option>
+        <option value="data-whsum;asc" data-msg="sort_small_first">小图在前</option>
+      </select>
+    </div>
+      <div id="renamePanel" class="fl tool_sep">
+         <label><input type="radio" name="radioRename" value="1" checked="checked"/><span data-msg="not_rename">不重命名</span></label>
+        <label title="可以使用一些变量：{NO}表示数字；{EXT}表示扩展名" data-msg-title="rename_tips">
+            <input type="radio" name="radioRename" value="2"/><span data-msg="rename_by_this_format">按此重命名</span>
+            <input id="renameRule" style="width:200px;" type="text" value="pic_{NO}.{EXT}"/>
+        </label>
+      </div>
+      <div class="fl tool_sep"><input id="btnOutputTextShow" type="button" value="导出链接" data-msg="export_link"/></div>
+      <button id="btnView" accesskey="V" title="ALT+V"><span  data-msg="switch_view">切换视图</span></button>
+    </div>
+  </div>
+<ul id="list">
+</ul>
+<ul id="view"></ul>
+<div id="saveHelp" class="pop">
+    <p><strong><span data-msg="save_tips_do_not_check"></span></strong>
+        <span data-msg="save_tips_download_save_settings"></span>
+        <span data-msg="save_tips">保存提示</span>
+    </p>
+    <p>
+        <a id="chrome_download_settings_link" style="width: 400px; height: 326px;">
+            <span data-msg="settings_download"></span></a>
+    </p>
+      <p>
+        <label><input id="cbSaveHelp" type="checkbox" /><span data-msg="do_not_show_again">不再提示此消息</span></label>
+      </p>
+  <button id="btnSaveHelpOk"><span data-msg="save_tips_done">保存图片</span></button>
+  <button style="margin-left: 10px;" id="btnSaveHelpCancel"><span data-msg="save_tips_cancel">取消</span></button>
+</div>
+
+<div id="outputTextPanel" class="pop">
+  <span data-msg="export_format">格式</span>: <input id="outputTextFormat" type="text" value="{LINK}" title="可以使用一些变量：{NO}表示序号；{LINK}表示图片链接"  data-msg-title="export_format_tips"/><input id="btnOutputTextClose" type="button" value="关闭" data-msg="export_close"/>
+  <br/>
+  <textarea id="outputTextArea"></textarea>
+</div>
+<script type="text/javascript" src="js/jQuery.js"></script> 
+<script type="text/javascript" src="js/common.js"></script>
+<script type="text/javascript" src="js/jquery.tinysort.min.js"></script>
+<script type="text/javascript" src="js/jquery-ui.custom.min.js"></script>
+<script type="text/javascript" src="js/json2.js"></script> 
+<script type="text/javascript" src="js/output.js"></script>
+
+</body>
+</html>

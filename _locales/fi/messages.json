@@ -1,0 +1,203 @@
+{
+"active_tab": {
+"message": "Tämä välilehti"
+},
+"advise": {
+"message": "blogi"
+},
+"aimg_tooltip": {
+"message": "Napsauta kuvaa poista tai tarkistaa"
+},
+"all_tab": {
+"message": "kaikki välilehdet"
+},
+"apply": {
+"message": "käyttää"
+},
+"chrome_download_settings_url": {
+"message": "Lataa"
+},
+"default_title": {
+"message": "Fatkun Erä Lataa kuva"
+},
+"default_title_desc": {
+"message": "Shortkey : Alt + Z"
+},
+"description": {
+"message": "Hyödyllinen ja yksinkertainen kuva ladata extension.You voi suodattaa resoluutiolla tai linkkiä."
+},
+"do_not_show_again": {
+"message": "Tiedän, että se ei näytä tätä valintaikkunaa enää ."
+},
+"donate": {
+"message": "lahjoittaa"
+},
+"export_btn": {
+"message": "vienti"
+},
+"export_close": {
+"message": "lähellä"
+},
+"export_format": {
+"message": "muoto"
+},
+"export_format_tips": {
+"message": "Voit käyttää näitä muuttujia : { NO } tarkoittaa järjestysnumero ; { LINK } tarkoittaa kuvan linkki"
+},
+"export_link": {
+"message": "Vie linkki"
+},
+"filter_link": {
+"message": "Lajittele linkki"
+},
+"height": {
+"message": "korkeus"
+},
+"height_short": {
+"message": "korkeus"
+},
+"inverse": {
+"message": "nappula"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "Lisää vaihtoehtoja"
+},
+"not_rename": {
+"message": "ei nimetä"
+},
+"open_multiple_page": {
+"message": "Avoin monisivuinen ?"
+},
+"open_multiple_page_action": {
+"message": "Avaa sivu"
+},
+"open_multiple_page_tips": {
+"message": "sallia multirow , jokerina [ 01-10 ] tarkoittaa 01-10 sivua , esimerkiksi : http://abc.com?page=[1-4,az ]"
+},
+"popup_tips": {
+"message": "Lyhyt Key : Alt + Z"
+},
+"process_end": {
+"message": "kuvia"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "kuvan saaminen päätöslauselma"
+},
+"rename_by_this_format": {
+"message": "Nimeä perustuu"
+},
+"rename_tips": {
+"message": "Voit käyttää näitä muuttujia : { NO } tarkoittaa järjestysnumero ; { EXT } tarkoittaa laajennettua nimi"
+},
+"right_click_to_open": {
+"message": "( Hiiren kakkospainikkeella Avaa ja tarkista asetukset )"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Tallenna"
+},
+"save_image": {
+"message": "Tallenna kuva"
+},
+"save_tips": {
+"message": "\" Kysy, minne kukin tiedosto tallennetaan ennen lataamista \" vaihtoehto Chrome Downlods Setting.Otherwise , monia monia vahvistus dialogit parven ."
+},
+"save_tips_cancel": {
+"message": "peruuttaa"
+},
+"save_tips_do_not_check": {
+"message": "Älä valitse"
+},
+"save_tips_done": {
+"message": "Tallenna kuva"
+},
+"save_tips_open_setting": {
+"message": "Avaa Asetukset Page"
+},
+"settings": {
+"message": "Asetukset"
+},
+"settings_already_save": {
+"message": "Asetus tallennetaan ."
+},
+"settings_collect_one_page": {
+"message": "Kerää ja sivulla"
+},
+"settings_download": {
+"message": "Chrome Lataukset Setting"
+},
+"settings_min_display": {
+"message": "Oletus min päätöslauselma"
+},
+"settings_rule_last_update_time": {
+"message": "Viimeisin päivitys:"
+},
+"settings_rule_last_update_time_none": {
+"message": "ei mitään"
+},
+"settings_save_folder": {
+"message": "tallentaa kansion nimi ( Ctrl + S )"
+},
+"settings_save_use_fixed_name": {
+"message": "käyttää kiinteää nimi"
+},
+"settings_save_use_title": {
+"message": "käyttö verkkosivuilla otsikko"
+},
+"settings_show_website": {
+"message": "Näytä linkki"
+},
+"settings_simple": {
+"message": "Normaali Asetukset"
+},
+"settings_special_support": {
+"message": "Erityistä tukea"
+},
+"settings_special_support_desc": {
+"message": "Yleinen sääntö"
+},
+"settings_use_shortcut_key": {
+"message": "Käytä lyhyitä Key : Alt + Z"
+},
+"sort": {
+"message": "lajitella"
+},
+"sort_big_first": {
+"message": "Big kuvan ensin"
+},
+"sort_normal": {
+"message": "Lajittele sivuston"
+},
+"sort_small_first": {
+"message": "Pieni kuva ensin"
+},
+"switch_view": {
+"message": "Switch View"
+},
+"update_declaration": {
+"message": "Tämä laajennus viitattu joitakin koodin zzllrr n \u003c href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e小乐图客\u003c/a\u003e"
+},
+"update_description": {
+"message": "1 Englanti käännös \u003cbr /\u003e 2 Chrome asetusten lataaminen vihjetekstien päivitetty"
+},
+"update_title": {
+"message": "Fatkun Erä Download Image versio 1.8.3"
+},
+"width": {
+"message": "leveys"
+},
+"width_short": {
+"message": "leveys"
+}
+}

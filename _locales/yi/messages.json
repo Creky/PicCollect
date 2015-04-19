@@ -1,0 +1,203 @@
+{
+"active_tab": {
+"message": "דאס קוויטל"
+},
+"advise": {
+"message": "בלאָג"
+},
+"aimg_tooltip": {
+"message": "דריקט בילד צו ונטשעקק אָדער טשעק"
+},
+"all_tab": {
+"message": "כל טאַבס"
+},
+"apply": {
+"message": "צולייגן"
+},
+"chrome_download_settings_url": {
+"message": "אראפקאפיע"
+},
+"default_title": {
+"message": "פאַטקון באַטש אראפקאפיע בילד"
+},
+"default_title_desc": {
+"message": "שאָרטקיי : אַלט + ז"
+},
+"description": {
+"message": "א נוציק און פּשוט בילד אראפקאפיע עקסטענסיאָנ.יאָו קענען פילטער דורך האַכלאָטע אָדער לינק ."
+},
+"do_not_show_again": {
+"message": "איך וויסן עס , ניט ווייַזן דעם דיאַלאָג קיין מער ."
+},
+"donate": {
+"message": "שענקען"
+},
+"export_btn": {
+"message": "אַרויספירן"
+},
+"export_close": {
+"message": "נאָענט"
+},
+"export_format": {
+"message": "פֿאָרמאַט"
+},
+"export_format_tips": {
+"message": "איר קענען נוצן די וועריאַבאַלז : { קיין } מיטל סיקוואַנס נומער , { לינק } מיטל בילד לינק"
+},
+"export_link": {
+"message": "עקספּאָרט לינק"
+},
+"filter_link": {
+"message": "פֿילטריר דורך לינק"
+},
+"height": {
+"message": "הייך"
+},
+"height_short": {
+"message": "הייך"
+},
+"inverse": {
+"message": "טאַגאַל"
+},
+"min_display": {
+"message": "מאַקס סייד"
+},
+"more_options": {
+"message": "מער אָפּציעס"
+},
+"not_rename": {
+"message": "ניט רענאַמע"
+},
+"open_multiple_page": {
+"message": "עפענען מאַלטי בלאַט ?"
+},
+"open_multiple_page_action": {
+"message": "עפֿן בלאַט"
+},
+"open_multiple_page_tips": {
+"message": "לאָזן מולטיראָוו , וויילדקאַרד [ 01-10 ] מיטל 01-10 בלאַט , פֿאַר בייַשפּיל : http://abc.com?page=[1-4,az ]"
+},
+"popup_tips": {
+"message": "קורץ קיי : אַלט + ז"
+},
+"process_end": {
+"message": "בילדער"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "בילד געטינג האַכלאָטע"
+},
+"rename_by_this_format": {
+"message": "רענאַמע באזירט אויף"
+},
+"rename_tips": {
+"message": "איר קענען נוצן די וועריאַבאַלז : { קיין } מיטל סיקוואַנס נומער , { עקסט } מיטל עקסטענדעד נאָמען"
+},
+"right_click_to_open": {
+"message": "( רעכט - גיט צו עפענען און טשעק סעטטינגס )"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "ראַטעווען"
+},
+"save_image": {
+"message": "היט בילד"
+},
+"save_tips": {
+"message": "\" בעט ווו צו ראַטעווען יעדער טעקע איידער דאַונלאָודינג \" אָפּציע אין קראָום דאָוונלאָדס סעטטינג.אָטהערוויסע , פילע פילע באַשטעטיקונג דיאַלאָגס סטייַע ."
+},
+"save_tips_cancel": {
+"message": "באָטל מאַכן"
+},
+"save_tips_do_not_check": {
+"message": "ניט סעלעקטירן"
+},
+"save_tips_done": {
+"message": "היט בילד"
+},
+"save_tips_open_setting": {
+"message": "עפענען סעטטינגס Page"
+},
+"settings": {
+"message": "סעטטינגס"
+},
+"settings_already_save": {
+"message": "באַשטעטיקן געראטעוועט ."
+},
+"settings_collect_one_page": {
+"message": "קלייַבן צו אויף בלאַט"
+},
+"settings_download": {
+"message": "קראָום דאָוונלאָאַדס באַשטעטיקן"
+},
+"settings_min_display": {
+"message": "פעליקייַט מין האַכלאָטע"
+},
+"settings_rule_last_update_time": {
+"message": "לעצטע דערהייַנטיקן :"
+},
+"settings_rule_last_update_time_none": {
+"message": "גאָרניט"
+},
+"settings_save_folder": {
+"message": "היט טעקע נאָמען ( פֿאַר קטרל + ד )"
+},
+"settings_save_use_fixed_name": {
+"message": "נוצן פאַרפעסטיקט נאָמען"
+},
+"settings_save_use_title": {
+"message": "נוצן וועבזייַטל טיטל"
+},
+"settings_show_website": {
+"message": "ווייַזן לינק"
+},
+"settings_simple": {
+"message": "נאָרמאַל סעטטינגס"
+},
+"settings_special_support": {
+"message": "ספּעציעלע שטיצן"
+},
+"settings_special_support_desc": {
+"message": "פּראָסט רול"
+},
+"settings_use_shortcut_key": {
+"message": "ניצן קורץ קיי : אַלט + ז"
+},
+"sort": {
+"message": "סאָרט"
+},
+"sort_big_first": {
+"message": "גרויס בילד ערשטער"
+},
+"sort_normal": {
+"message": "סאָרט דורך פּלאַץ"
+},
+"sort_small_first": {
+"message": "קליין בילד ערשטער"
+},
+"switch_view": {
+"message": "סוויטש View"
+},
+"update_declaration": {
+"message": "דאס געשפּרייט רעפעראַנסט עטלעכע קאָד פון זזללרר ס \u003c אַ href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e小乐图客\u003c/a\u003e"
+},
+"update_description": {
+"message": "1 ענגליש איבערזעצונג \u003cbr /\u003e 2 קראָום דאַונלאָודינג סעטטינגס טאָאָלטיפּס דערהייַנטיקט"
+},
+"update_title": {
+"message": "פאַטקון באַטש אראפקאפיע בילד ווערסיע 1.8.3"
+},
+"width": {
+"message": "ברייט"
+},
+"width_short": {
+"message": "ברייט"
+}
+}

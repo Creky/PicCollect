@@ -1,0 +1,203 @@
+{
+"active_tab": {
+"message": "Bu Sekme"
+},
+"advise": {
+"message": "Blog"
+},
+"aimg_tooltip": {
+"message": "Işaretini kaldırın veya kontrol etmek için resime tıklayınız"
+},
+"all_tab": {
+"message": "Tüm Sekmeler"
+},
+"apply": {
+"message": "uygulamak"
+},
+"chrome_download_settings_url": {
+"message": "indir"
+},
+"default_title": {
+"message": "Fatkun Toplu Download Görüntü"
+},
+"default_title_desc": {
+"message": "Shortkey : Alt + Z"
+},
+"description": {
+"message": "Bir kullanışlı ve basit bir görüntü indir extension.You çözünürlük veya bağlantı göre filtreleme yapabilirsiniz ."
+},
+"do_not_show_again": {
+"message": "Ben , bir daha bu iletişim göstermek değil biliyorum ."
+},
+"donate": {
+"message": "bağışlamak"
+},
+"export_btn": {
+"message": "ihracat"
+},
+"export_close": {
+"message": "yakın"
+},
+"export_format": {
+"message": "biçim"
+},
+"export_format_tips": {
+"message": "Bu değişkenleri kullanabilirsiniz : { } NO sıra numarası anlamına gelir; { LINK } görüntü bağlantısını demektir"
+},
+"export_link": {
+"message": "ihracat bağlantısı"
+},
+"filter_link": {
+"message": "Bağlantısı ile Filtre"
+},
+"height": {
+"message": "yükseklik"
+},
+"height_short": {
+"message": "yükseklik"
+},
+"inverse": {
+"message": "geçiş"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "Daha Fazla Seçenek"
+},
+"not_rename": {
+"message": "adlandırmak değil"
+},
+"open_multiple_page": {
+"message": "Açık çok sayfalı ?"
+},
+"open_multiple_page_action": {
+"message": "sayfa Aç"
+},
+"open_multiple_page_tips": {
+"message": "Örneğin , multirow , joker [ 01-10 ] 01-10 sayfa anlamına izin : http://abc.com?page=[1-4,az ]"
+},
+"popup_tips": {
+"message": "Kısa Anahtar : Alt + Z"
+},
+"process_end": {
+"message": "görüntüler"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "Görüntü alma çözünürlüğü"
+},
+"rename_by_this_format": {
+"message": "Yeniden adlandır göre"
+},
+"rename_tips": {
+"message": "Bu değişkenleri kullanabilirsiniz : { } NO sıra numarası anlamına gelir; { EXT } genişletilmiş isim anlamına gelir"
+},
+"right_click_to_open": {
+"message": "( Açmak ve ayarları kontrol etmek için sağ tıklayın )"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "kaydet"
+},
+"save_image": {
+"message": "Görüntüyü Kaydet"
+},
+"save_tips": {
+"message": "Krom Downlods Setting.Otherwise seçeneği \" İndirmeden önce her dosyanın nereye kaydedileceğini sor \" , çok çok onay diyaloglar akın ."
+},
+"save_tips_cancel": {
+"message": "iptal"
+},
+"save_tips_do_not_check": {
+"message": "SEÇ ETMEYİN"
+},
+"save_tips_done": {
+"message": "Görüntüyü Kaydet"
+},
+"save_tips_open_setting": {
+"message": "Açık Ayarlar Sayfası"
+},
+"settings": {
+"message": "Ayarlar"
+},
+"settings_already_save": {
+"message": "Ayar kaydedildi ."
+},
+"settings_collect_one_page": {
+"message": "Sayfada toplamak"
+},
+"settings_download": {
+"message": "Krom İndirme Ayarı"
+},
+"settings_min_display": {
+"message": "Standart dk çözünürlüğü"
+},
+"settings_rule_last_update_time": {
+"message": "Son güncelleme :"
+},
+"settings_rule_last_update_time_none": {
+"message": "hiçbiri"
+},
+"settings_save_folder": {
+"message": "Klasör adını kaydetmek ( Ctrl + S )"
+},
+"settings_save_use_fixed_name": {
+"message": "Sabit adı kullanmak"
+},
+"settings_save_use_title": {
+"message": "website başlığı"
+},
+"settings_show_website": {
+"message": "göster linki"
+},
+"settings_simple": {
+"message": "Normal Ayarlar"
+},
+"settings_special_support": {
+"message": "Özel destek"
+},
+"settings_special_support_desc": {
+"message": "ortak Kural"
+},
+"settings_use_shortcut_key": {
+"message": "Kısa Anahtarını kullanın : Alt + Z"
+},
+"sort": {
+"message": "tür"
+},
+"sort_big_first": {
+"message": "Büyük görüntü ilk"
+},
+"sort_normal": {
+"message": "Site tarafından sırala"
+},
+"sort_small_first": {
+"message": "Küçük görüntü ilk"
+},
+"switch_view": {
+"message": "Görünüm Anahtarı"
+},
+"update_declaration": {
+"message": "Bu uzantı zzllrr en bazı kod başvurulan \u003c a href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e小乐图客\u003c/a\u003e"
+},
+"update_description": {
+"message": "1 İngilizce çeviri \u003cbr /\u003e 2 Krom indirirken ayarları güncellenmiş Araç Açıklaması"
+},
+"update_title": {
+"message": "Fatkun Toplu Download Görüntü sürüm 1.8.3"
+},
+"width": {
+"message": "genişlik"
+},
+"width_short": {
+"message": "genişlik"
+}
+}

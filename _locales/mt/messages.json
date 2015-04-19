@@ -1,0 +1,203 @@
+{
+"active_tab": {
+"message": "Dan Tab"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "Ikklikkja Image biex uncheck jew check"
+},
+"all_tab": {
+"message": "Tabs kollha"
+},
+"apply": {
+"message": "Applika"
+},
+"chrome_download_settings_url": {
+"message": "download"
+},
+"default_title": {
+"message": "Lott Fatkun Download Image"
+},
+"default_title_desc": {
+"message": "ShortKey : Alt + Z"
+},
+"description": {
+"message": "An utli u sempliċi download image extension.You tista 'filtru permezz ta' riżoluzzjoni jew link ."
+},
+"do_not_show_again": {
+"message": "Naf li , ma jurux dan dialog kwalunkwe aktar ."
+},
+"donate": {
+"message": "Donate"
+},
+"export_btn": {
+"message": "Esportazzjoni"
+},
+"export_close": {
+"message": "Agħlaq"
+},
+"export_format": {
+"message": "format"
+},
+"export_format_tips": {
+"message": "Tista 'tuża dawn il-varjabbli : { NO } ifisser numru ta' sekwenza ; { LINK } ifisser link immaġni"
+},
+"export_link": {
+"message": "link Esportazzjoni"
+},
+"filter_link": {
+"message": "Iffiltra permezz ta 'rabta"
+},
+"height": {
+"message": "għoli"
+},
+"height_short": {
+"message": "għoli"
+},
+"inverse": {
+"message": "toggle"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "iktar Għażliet"
+},
+"not_rename": {
+"message": "mhux semmi mill-ġdid"
+},
+"open_multiple_page": {
+"message": "Paġna multi Open ?"
+},
+"open_multiple_page_action": {
+"message": "paġna open"
+},
+"open_multiple_page_tips": {
+"message": "jippermettu multirow , wildcard [ 01-10 ] ifisser 01-10 paġna , per eżempju : http://abc.com?page=[1-4,az ]"
+},
+"popup_tips": {
+"message": "Key Short : Alt + Z"
+},
+"process_end": {
+"message": "immaġini"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "immaġni jkollna riżoluzzjoni"
+},
+"rename_by_this_format": {
+"message": "Semmi ibbażati fuq"
+},
+"rename_tips": {
+"message": "Tista 'tuża dawn il-varjabbli : { NO } ifisser numru ta' sekwenza ; { EXT } ifisser l-isem estiż"
+},
+"right_click_to_open": {
+"message": "( Right- click li tiftaħ u jiċċekkjaw settings )"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Save"
+},
+"save_image": {
+"message": "Save Image"
+},
+"save_tips": {
+"message": "\" Staqsi fejn biex jiffrankaw kull fajl qabel tniżżil \" għażla fil Chrome Downlods Setting.Otherwise , ħafna ħafna dialogs konferma qatgħa ."
+},
+"save_tips_cancel": {
+"message": "Ikkanċella"
+},
+"save_tips_do_not_check": {
+"message": "DO NOT TAGĦŻEL"
+},
+"save_tips_done": {
+"message": "Save Image"
+},
+"save_tips_open_setting": {
+"message": "Open Settings Page"
+},
+"settings": {
+"message": "settings"
+},
+"settings_already_save": {
+"message": "Iffissar ffrankati ."
+},
+"settings_collect_one_page": {
+"message": "Iġbor l -paġna"
+},
+"settings_download": {
+"message": "Chrome Downloads Twaqqif"
+},
+"settings_min_display": {
+"message": "Riżoluzzjoni min Default"
+},
+"settings_rule_last_update_time": {
+"message": "L-aħħar aġġornament :"
+},
+"settings_rule_last_update_time_none": {
+"message": "Xejn"
+},
+"settings_save_folder": {
+"message": "tiffranka l-isem folder (għal Ctrl + S )"
+},
+"settings_save_use_fixed_name": {
+"message": "jużaw l-isem fiss"
+},
+"settings_save_use_title": {
+"message": "titolu użu website"
+},
+"settings_show_website": {
+"message": "link Show"
+},
+"settings_simple": {
+"message": "Settings normali"
+},
+"settings_special_support": {
+"message": "appoġġ speċjali"
+},
+"settings_special_support_desc": {
+"message": "Regola komuni"
+},
+"settings_use_shortcut_key": {
+"message": "Użu Key Short : Alt + Z"
+},
+"sort": {
+"message": "sort"
+},
+"sort_big_first": {
+"message": "Immaġni Big ewwel"
+},
+"sort_normal": {
+"message": "Sort by sit"
+},
+"sort_small_first": {
+"message": "Immaġni Żgħar ewwel"
+},
+"switch_view": {
+"message": "switch View"
+},
+"update_declaration": {
+"message": "Din l-estensjoni referenzjata xi kodiċi ta ' l zzllrr \u003c a href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e小乐图客\u003c/a\u003e"
+},
+"update_description": {
+"message": "1 ta 'traduzzjoni English \u003cbr /\u003e 2 Chrome settings tniżżil tooltips aġġornata"
+},
+"update_title": {
+"message": "Fatkun Download Lott Image verżjoni 1.8.3"
+},
+"width": {
+"message": "wisa"
+},
+"width_short": {
+"message": "wisa"
+}
+}

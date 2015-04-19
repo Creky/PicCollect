@@ -1,0 +1,203 @@
+{
+"active_tab": {
+"message": "این برگه"
+},
+"advise": {
+"message": "وبلاگ"
+},
+"aimg_tooltip": {
+"message": "کلیک کنید تصویر به گزینه یا چک"
+},
+"all_tab": {
+"message": "همه برگه ها"
+},
+"apply": {
+"message": "درخواست"
+},
+"chrome_download_settings_url": {
+"message": "دانلود"
+},
+"default_title": {
+"message": "Fatkun دسته دانلود تصویر"
+},
+"default_title_desc": {
+"message": "ShortKey : دگرساز + Z"
+},
+"description": {
+"message": "دانلود تصویر مفید و ساده extension.You می تواند توسط قطعنامه و یا لینک فیلتر کنید."
+},
+"do_not_show_again": {
+"message": "من می دانم آن ، این گفت و گو را نشان نمی دهد هر بیشتر ."
+},
+"donate": {
+"message": "بخشیدن"
+},
+"export_btn": {
+"message": "صادرات"
+},
+"export_close": {
+"message": "نزدیک"
+},
+"export_format": {
+"message": "قالب"
+},
+"export_format_tips": {
+"message": "شما می توانید این متغیر استفاده کنید: { NO } به معنی شماره ترتیب ؛ { LINK } به معنی لینک تصویر"
+},
+"export_link": {
+"message": "لینک صادرات"
+},
+"filter_link": {
+"message": "فیلتر توسط لینک"
+},
+"height": {
+"message": "ارتفاع"
+},
+"height_short": {
+"message": "ارتفاع"
+},
+"inverse": {
+"message": "میخ یا پیچ اتصالی حلقه زنجیر"
+},
+"min_display": {
+"message": "حداکثر جانبی"
+},
+"more_options": {
+"message": "تنظیمات بیشتر"
+},
+"not_rename": {
+"message": "تغییر نام نه"
+},
+"open_multiple_page": {
+"message": "چند صفحه باز ؟"
+},
+"open_multiple_page_action": {
+"message": "صفحه گسترش"
+},
+"open_multiple_page_tips": {
+"message": "اجازه می دهد multirow ، کلمات [ 01-10 ] به معنی 01-10 صفحه ، به عنوان مثال : http://abc.com؟page=[1-4،az ]"
+},
+"popup_tips": {
+"message": "کلید میانبر : کلید Alt + Z"
+},
+"process_end": {
+"message": "تصاویر"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "تصویر گرفتن قطعنامه"
+},
+"rename_by_this_format": {
+"message": "تغییر نام بر اساس"
+},
+"rename_tips": {
+"message": "شما می توانید این متغیر استفاده کنید: { NO } به معنی شماره ترتیب ؛ { EXT } به معنی نام طولانی"
+},
+"right_click_to_open": {
+"message": "( کلیک راست کنید برای باز کردن و تنظیمات را بررسی کنید )"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "ذخیره"
+},
+"save_image": {
+"message": "ذخیره تصویر"
+},
+"save_tips": {
+"message": "\" بپرسید که در آن به هر فایل قبل از دانلود نجات \" گزینه در کروم دانلود ها Setting.Otherwise ، بسیاری از بسیاری از تبادل تأیید گله ."
+},
+"save_tips_cancel": {
+"message": "لغو کردن"
+},
+"save_tips_do_not_check": {
+"message": "نه را انتخاب کنید"
+},
+"save_tips_done": {
+"message": "ذخیره تصویر"
+},
+"save_tips_open_setting": {
+"message": "گسترش تنظیمات صفحه"
+},
+"settings": {
+"message": "تنظیمات"
+},
+"settings_already_save": {
+"message": "تنظیمات ذخیره شد."
+},
+"settings_collect_one_page": {
+"message": "جمع آوری به صفحه"
+},
+"settings_download": {
+"message": "تنظیم کروم دانلود"
+},
+"settings_min_display": {
+"message": "قطعنامه به طور پیش فرض دقیقه"
+},
+"settings_rule_last_update_time": {
+"message": "آخرین به روز رسانی :"
+},
+"settings_rule_last_update_time_none": {
+"message": "هیچ کدام"
+},
+"settings_save_folder": {
+"message": "صرفه جویی در نام پوشه ( برای کنترل + S )"
+},
+"settings_save_use_fixed_name": {
+"message": "استفاده از نام ثابت"
+},
+"settings_save_use_title": {
+"message": "عنوان وب سایت استفاده"
+},
+"settings_show_website": {
+"message": "نمایش لینک"
+},
+"settings_simple": {
+"message": "تنظیمات عادی"
+},
+"settings_special_support": {
+"message": "حمایت ویژه"
+},
+"settings_special_support_desc": {
+"message": "قانون مشترک"
+},
+"settings_use_shortcut_key": {
+"message": "استفاده از کلید میانبر : کلید Alt + Z"
+},
+"sort": {
+"message": "نوع"
+},
+"sort_big_first": {
+"message": "تصویر بزرگ اول"
+},
+"sort_normal": {
+"message": "مرتب سازی بر اساس سایت"
+},
+"sort_small_first": {
+"message": "تصویر کوچک برای اولین بار"
+},
+"switch_view": {
+"message": "تغییر مشخصات"
+},
+"update_declaration": {
+"message": "این فرمت ارجاع برخی از کد zzllrr را \u003c href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e小乐图客\u003c/a\u003e"
+},
+"update_description": {
+"message": "1 ترجمه انگلیسی \u003cbr /\u003e 2 کروم تنظیمات دانلود راهنمای ابزار به روز شده"
+},
+"update_title": {
+"message": "Fatkun دسته دانلود نسخه تصویر 1.8.3"
+},
+"width": {
+"message": "عرض"
+},
+"width_short": {
+"message": "عرض"
+}
+}

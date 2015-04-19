@@ -1,0 +1,203 @@
+{
+"active_tab": {
+"message": "এই ট্যাব"
+},
+"advise": {
+"message": "ব্লগ"
+},
+"aimg_tooltip": {
+"message": "টিক চিহ্ন তুলে দেয়া বা চেক চিত্র দেখার জন্য ক্লিক করুন"
+},
+"all_tab": {
+"message": "সব ট্যাব"
+},
+"apply": {
+"message": "প্রয়োগ করা"
+},
+"chrome_download_settings_url": {
+"message": "ডাউনলোড করুন"
+},
+"default_title": {
+"message": "Fatkun ব্যাচ ডাউনলোড করুন চিত্র"
+},
+"default_title_desc": {
+"message": "ShortKey : Alt + Z"
+},
+"description": {
+"message": "একটি দরকারী এবং সহজ ইমেজ ডাউনলোড extension.You রেজল্যুশন বা লিঙ্ক দ্বারা ফিল্টার করতে পারেন."
+},
+"do_not_show_again": {
+"message": "আমি এটা , কোনো এই ডায়লগ প্রদর্শন না জানি."
+},
+"donate": {
+"message": "দান করা"
+},
+"export_btn": {
+"message": "রপ্তানি"
+},
+"export_close": {
+"message": "নিকট"
+},
+"export_format": {
+"message": "বিন্যাস"
+},
+"export_format_tips": {
+"message": "আপনি এই ভেরিয়েবল ব্যবহার করতে পারেন : { } কোন ক্রম সংখ্যা মানে; { LINK এ } ইমেজ লিঙ্ক মানে"
+},
+"export_link": {
+"message": "রপ্তানি লিংক"
+},
+"filter_link": {
+"message": "লিঙ্ক দ্বারা ফিল্টার"
+},
+"height": {
+"message": "উচ্চতা"
+},
+"height_short": {
+"message": "উচ্চতা"
+},
+"inverse": {
+"message": "টগল করুন"
+},
+"min_display": {
+"message": "সর্বোচ্চ সাইড"
+},
+"more_options": {
+"message": "আরো বিকল্প"
+},
+"not_rename": {
+"message": "নামান্তর না"
+},
+"open_multiple_page": {
+"message": "ওপেন মাল্টি পৃষ্ঠা ?"
+},
+"open_multiple_page_action": {
+"message": "খোলা পাতা"
+},
+"open_multiple_page_tips": {
+"message": "উদাহরণস্বরূপ, Multirow , ওয়াইল্ডকার্ড [ 01-10 ] 01 10 পাতা মানে অনুমতি দেয়: http://abc.com?page=[1-4,az ]"
+},
+"popup_tips": {
+"message": "ছোট কী: Alt + Z"
+},
+"process_end": {
+"message": "চিত্র"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "ইমেজ পেয়ে রেজল্যুশন"
+},
+"rename_by_this_format": {
+"message": "পুনঃনামকরণ উপর ভিত্তি করে"
+},
+"rename_tips": {
+"message": "আপনি এই ভেরিয়েবল ব্যবহার করতে পারেন : { } কোন ক্রম সংখ্যা মানে; { } EXT বর্ধিত নামের অর্থ"
+},
+"right_click_to_open": {
+"message": "( খুলুন এবং সেটিংস চেক ডান-ক্লিক করুন )"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "সংরক্ষণ করুন"
+},
+"save_image": {
+"message": "চিত্র সংরক্ষণ করুন"
+},
+"save_tips": {
+"message": "ক্রোম Downlods Setting.Otherwise মধ্যে বিকল্প \" ডাউনলোড করার আগে প্রতিটি ফাইল সংরক্ষণ করতে যেখানে জিজ্ঞাসা করুন\", অনেক অনেক নিশ্চিতকরণ ডায়ালগ ঝাঁক."
+},
+"save_tips_cancel": {
+"message": "বাতিল"
+},
+"save_tips_do_not_check": {
+"message": "নির্বাচন করবেন না"
+},
+"save_tips_done": {
+"message": "চিত্র সংরক্ষণ করুন"
+},
+"save_tips_open_setting": {
+"message": "ওপেন সেটিংস পাতা"
+},
+"settings": {
+"message": "সেটিংস"
+},
+"settings_already_save": {
+"message": "সেটিং সংরক্ষিত হয়েছে."
+},
+"settings_collect_one_page": {
+"message": "পাতা সংগ্রহ"
+},
+"settings_download": {
+"message": "ক্রোম ডাউনলোড করুন"
+},
+"settings_min_display": {
+"message": "ডিফল্ট কমপক্ষে রেজল্যুশন"
+},
+"settings_rule_last_update_time": {
+"message": "সর্বশেষ আপডেট :"
+},
+"settings_rule_last_update_time_none": {
+"message": "না"
+},
+"settings_save_folder": {
+"message": "ফোল্ডারের নাম সংরক্ষণ করুন (Ctrl + S জন্য )"
+},
+"settings_save_use_fixed_name": {
+"message": "নির্দিষ্ট নাম ব্যবহার"
+},
+"settings_save_use_title": {
+"message": "ব্যবহার ওয়েবসাইট শিরোনাম"
+},
+"settings_show_website": {
+"message": "দেখান লিংক"
+},
+"settings_simple": {
+"message": "সাধারন সেটিংস"
+},
+"settings_special_support": {
+"message": "বিশেষ সমর্থন"
+},
+"settings_special_support_desc": {
+"message": "সাধারণ নিয়ম"
+},
+"settings_use_shortcut_key": {
+"message": "ছোট কী ব্যবহার করুন : Alt + Z"
+},
+"sort": {
+"message": "বাছাই করা"
+},
+"sort_big_first": {
+"message": "বড় ইমেজ প্রথম"
+},
+"sort_normal": {
+"message": "সাইট দ্বারা বাছাই"
+},
+"sort_small_first": {
+"message": "ছোট ইমেজ প্রথম"
+},
+"switch_view": {
+"message": "দেখুন করুন"
+},
+"update_declaration": {
+"message": "এই এক্সটেনশনটি zzllrr এর কিছু কোড উল্লেখ \u003c একটি href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e小乐图客\u003c/a\u003e"
+},
+"update_description": {
+"message": "1 ইংরেজি অনুবাদ \u003cbr /\u003e 2 ক্রোম ডাউনলোড সেটিংস আপডেট tooltips"
+},
+"update_title": {
+"message": "Fatkun ব্যাচ ডাউনলোড করুন চিত্র সংস্করণ 1.8.3"
+},
+"width": {
+"message": "প্রস্থ"
+},
+"width_short": {
+"message": "প্রস্থ"
+}
+}

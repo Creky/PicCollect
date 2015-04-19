@@ -1,0 +1,203 @@
+{
+"active_tab": {
+"message": "Ta Tab"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "Klikni na sliko , da potrdite ali počistite polje"
+},
+"all_tab": {
+"message": "Vse Tabs"
+},
+"apply": {
+"message": "Uporabi"
+},
+"chrome_download_settings_url": {
+"message": "Download"
+},
+"default_title": {
+"message": "Fatkun Serija Prenos slike"
+},
+"default_title_desc": {
+"message": "ShortKey : Alt + Z"
+},
+"description": {
+"message": "Uporaben in enostaven prenos slik extension.You lahko filtrirate s sklepom ali povezavo ."
+},
+"do_not_show_again": {
+"message": "Vem, da ne kažejo to okno več."
+},
+"donate": {
+"message": "Donate"
+},
+"export_btn": {
+"message": "izvoz"
+},
+"export_close": {
+"message": "Zapri"
+},
+"export_format": {
+"message": "format"
+},
+"export_format_tips": {
+"message": "Lahko uporabite te spremenljivke : { NE } pomeni zaporedno številko ; { LINK } pomeni sliko s povezavo"
+},
+"export_link": {
+"message": "izvoz povezava"
+},
+"filter_link": {
+"message": "Filter s povezavo"
+},
+"height": {
+"message": "Višina"
+},
+"height_short": {
+"message": "Višina"
+},
+"inverse": {
+"message": "Toggle"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "več možnosti"
+},
+"not_rename": {
+"message": "ne preimenujete"
+},
+"open_multiple_page": {
+"message": "Odpri več strani ?"
+},
+"open_multiple_page_action": {
+"message": "Odpri stran"
+},
+"open_multiple_page_tips": {
+"message": "omogočajo multirow , nadomestni [ 01-10 ] pomeni 01-10 strani , na primer: http://abc.com?page=[1-4,az ]"
+},
+"popup_tips": {
+"message": "Kratek Key: Alt + Z"
+},
+"process_end": {
+"message": "slike"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "slika dobili ločljivost"
+},
+"rename_by_this_format": {
+"message": "Preimenovanje , ki temelji na"
+},
+"rename_tips": {
+"message": "Lahko uporabite te spremenljivke : { NE } pomeni zaporedno številko ; { EXT } pomeni razširjeno ime"
+},
+"right_click_to_open": {
+"message": "( Desni klik za odpiranje in preverite nastavitve )"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Shrani"
+},
+"save_image": {
+"message": "Shrani sliko"
+},
+"save_tips": {
+"message": "\"Vprašajte kam želim shraniti vsako datoteko pred prenosom \" možnost v Chrome Downlods Setting.Otherwise , veliko veliko pogovornih potrditev jate ."
+},
+"save_tips_cancel": {
+"message": "Prekliči"
+},
+"save_tips_do_not_check": {
+"message": "Ne izberite"
+},
+"save_tips_done": {
+"message": "Shrani sliko"
+},
+"save_tips_open_setting": {
+"message": "Odpri stran nastavitev"
+},
+"settings": {
+"message": "Nastavitve"
+},
+"settings_already_save": {
+"message": "Nastavitev shrani."
+},
+"settings_collect_one_page": {
+"message": "Zberite , da na strani"
+},
+"settings_download": {
+"message": "Krom Prenosi Setting"
+},
+"settings_min_display": {
+"message": "Privzeta ločljivost min"
+},
+"settings_rule_last_update_time": {
+"message": "Zadnja sprememba:"
+},
+"settings_rule_last_update_time_none": {
+"message": "Noben"
+},
+"settings_save_folder": {
+"message": "shranite mape ime (na Ctrl + S )"
+},
+"settings_save_use_fixed_name": {
+"message": "uporabite fiksno ime"
+},
+"settings_save_use_title": {
+"message": "Spletna stran raba naslov"
+},
+"settings_show_website": {
+"message": "Prikaži povezava"
+},
+"settings_simple": {
+"message": "Normalno Nastavitve"
+},
+"settings_special_support": {
+"message": "Posebna podpora"
+},
+"settings_special_support_desc": {
+"message": "Skupno pravilo"
+},
+"settings_use_shortcut_key": {
+"message": "Uporabite Kratek Key : Alt + Z"
+},
+"sort": {
+"message": "Razvrsti"
+},
+"sort_big_first": {
+"message": "Veliko sliko najprej"
+},
+"sort_normal": {
+"message": "Razvrsti po mestu"
+},
+"sort_small_first": {
+"message": "Mala slika prva"
+},
+"switch_view": {
+"message": "preklopi pogled"
+},
+"update_declaration": {
+"message": "Ta razširitev navaja neko kodo zzllrr je \u003c href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e小乐图客\u003c/a\u003e"
+},
+"update_description": {
+"message": "1 Angleški prevajalski \u003cbr /\u003e 2 Nastavitve nalaganja Chrome namigi posodobljeni"
+},
+"update_title": {
+"message": "Fatkun Serija Download različica slike 1.8.3"
+},
+"width": {
+"message": "širina"
+},
+"width_short": {
+"message": "širina"
+}
+}

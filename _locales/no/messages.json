@@ -1,0 +1,203 @@
+{
+"active_tab": {
+"message": "dette Tab"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "Trykk på bildet for å fjerne merket eller sjekk"
+},
+"all_tab": {
+"message": "alle Tabs"
+},
+"apply": {
+"message": "Påfør"
+},
+"chrome_download_settings_url": {
+"message": "Last ned"
+},
+"default_title": {
+"message": "Fatkun Batch Last ned bilde"
+},
+"default_title_desc": {
+"message": "Shortkey : Alt + Z"
+},
+"description": {
+"message": "En nyttig og enkel bilde nedlasting extension.You kan filtrere etter oppløsning eller lenke ."
+},
+"do_not_show_again": {
+"message": "Jeg vet det , ikke vis denne dialogen lenger."
+},
+"donate": {
+"message": "donere"
+},
+"export_btn": {
+"message": "eksport"
+},
+"export_close": {
+"message": "Lukk"
+},
+"export_format": {
+"message": "format"
+},
+"export_format_tips": {
+"message": "Du kan bruke disse variablene : { NO } betyr sekvens nummer, { LINK } betyr image link"
+},
+"export_link": {
+"message": "eksport lenke"
+},
+"filter_link": {
+"message": "Filtrer etter lenke"
+},
+"height": {
+"message": "Høyde"
+},
+"height_short": {
+"message": "Høyde"
+},
+"inverse": {
+"message": "Toggle"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "Flere alternativer"
+},
+"not_rename": {
+"message": "ikke endre navn"
+},
+"open_multiple_page": {
+"message": "Åpen multi side ?"
+},
+"open_multiple_page_action": {
+"message": "åpen side"
+},
+"open_multiple_page_tips": {
+"message": "tillate multirow , wildcard [ 01-10 ] betyr 01-10 side , for eksempel : http://abc.com?page=[1-4,az ]"
+},
+"popup_tips": {
+"message": "Kort Key : Alt + Z"
+},
+"process_end": {
+"message": "bilder"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "Bildet får oppløsning"
+},
+"rename_by_this_format": {
+"message": "Gi nytt navn basert på"
+},
+"rename_tips": {
+"message": "Du kan bruke disse variablene : { NO } betyr sekvens nummer, { EXT } betyr utvidet navn"
+},
+"right_click_to_open": {
+"message": "( Høyreklikk for å åpne og sjekke innstillinger )"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Lagre"
+},
+"save_image": {
+"message": "Lagre bilde"
+},
+"save_tips": {
+"message": "\" Spør hvor hver fil skal lagres før du laster ned \" i Chrome Downlods Setting.Otherwise , flokk mange mange bekreftelsesdialogbokser ."
+},
+"save_tips_cancel": {
+"message": "Avbryt"
+},
+"save_tips_do_not_check": {
+"message": "Ikke velg"
+},
+"save_tips_done": {
+"message": "Lagre bilde"
+},
+"save_tips_open_setting": {
+"message": "Åpne innstillingsside"
+},
+"settings": {
+"message": "innstillinger"
+},
+"settings_already_save": {
+"message": "Innstillingen lagret ."
+},
+"settings_collect_one_page": {
+"message": "Samle til på side"
+},
+"settings_download": {
+"message": "Chrome nedlastinger Setting"
+},
+"settings_min_display": {
+"message": "Standard min oppløsning"
+},
+"settings_rule_last_update_time": {
+"message": "Siste oppdatering:"
+},
+"settings_rule_last_update_time_none": {
+"message": "none"
+},
+"settings_save_folder": {
+"message": "spare mappenavn (for Ctrl + S )"
+},
+"settings_save_use_fixed_name": {
+"message": "bruke fast navn"
+},
+"settings_save_use_title": {
+"message": "bruk nettsted tittelen"
+},
+"settings_show_website": {
+"message": "Vis kobling"
+},
+"settings_simple": {
+"message": "normale innstillinger"
+},
+"settings_special_support": {
+"message": "spesiell støtte"
+},
+"settings_special_support_desc": {
+"message": "felles Rule"
+},
+"settings_use_shortcut_key": {
+"message": "Bruk Kort Key : Alt + Z"
+},
+"sort": {
+"message": "Sorter"
+},
+"sort_big_first": {
+"message": "Big bilde først"
+},
+"sort_normal": {
+"message": "Sorter etter område"
+},
+"sort_small_first": {
+"message": "Lite bilde først"
+},
+"switch_view": {
+"message": "Bytt Vis"
+},
+"update_declaration": {
+"message": "Denne utvidelsen refererte noen kode zzllrr \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e小乐图客\u003c/a\u003e"
+},
+"update_description": {
+"message": "En engelsk oversettelse \u003cbr /\u003e 2 Chrome laster ned innstillinger Tooltips oppdatert"
+},
+"update_title": {
+"message": "Fatkun Batch Last ned fil versjon 1.8.3"
+},
+"width": {
+"message": "bredde"
+},
+"width_short": {
+"message": "bredde"
+}
+}

@@ -1,0 +1,203 @@
+{
+"active_tab": {
+"message": "Эта вкладка"
+},
+"advise": {
+"message": "Блог"
+},
+"aimg_tooltip": {
+"message": "Нажмите на изображение , чтобы снять или проверить"
+},
+"all_tab": {
+"message": "Все закладки"
+},
+"apply": {
+"message": "применять"
+},
+"chrome_download_settings_url": {
+"message": "Всегда указывать место для скачивания"
+},
+"default_title": {
+"message": "Fatkun пакетной загрузки изображения"
+},
+"default_title_desc": {
+"message": "ShortKey : Alt + Z"
+},
+"description": {
+"message": "Полезно и просто скачать образ extension.You можете фильтровать по резолюции или ссылку ."
+},
+"do_not_show_again": {
+"message": "Я знаю, что , не показывать этот диалог больше."
+},
+"donate": {
+"message": "жертвовать"
+},
+"export_btn": {
+"message": "экспорт"
+},
+"export_close": {
+"message": "близко"
+},
+"export_format": {
+"message": "формат"
+},
+"export_format_tips": {
+"message": "Вы можете использовать эти переменные: {NO } означает порядковый номер ; { LINK } означает ссылку на изображение"
+},
+"export_link": {
+"message": "Экспорт ссылку"
+},
+"filter_link": {
+"message": "Фильтр по ссылке"
+},
+"height": {
+"message": "высота"
+},
+"height_short": {
+"message": "высота"
+},
+"inverse": {
+"message": "переключатель"
+},
+"min_display": {
+"message": "Макс Side"
+},
+"more_options": {
+"message": "Дополнительные параметры"
+},
+"not_rename": {
+"message": "Не переименовать"
+},
+"open_multiple_page": {
+"message": "Откройте многофункциональный страницы ?"
+},
+"open_multiple_page_action": {
+"message": "Откройте страницу"
+},
+"open_multiple_page_tips": {
+"message": "позволяют множество строк , подстановки [ 01-10 ] означает от 01 до 10 страницы, например : http://abc.com?page=[1-4,az ]"
+},
+"popup_tips": {
+"message": "Краткое Ключ: Alt + Z"
+},
+"process_end": {
+"message": "изображений"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "изображение становится разрешение"
+},
+"rename_by_this_format": {
+"message": "Переименовать на основе"
+},
+"rename_tips": {
+"message": "Вы можете использовать эти переменные: {NO } означает порядковый номер ; { EXT } означает расширенное название"
+},
+"right_click_to_open": {
+"message": "( Щелкните правой кнопкой мыши , чтобы открыть и проверить параметры )"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Сохранить"
+},
+"save_image": {
+"message": "Сохранить изображение"
+},
+"save_tips": {
+"message": "\"Всегда указывать место для скачивания\" вариант в Chrome Downlods Setting.Otherwise , много-много диалогов подтверждения паствы."
+},
+"save_tips_cancel": {
+"message": "отменить"
+},
+"save_tips_do_not_check": {
+"message": "Не выбирайте"
+},
+"save_tips_done": {
+"message": "Сохранить изображение"
+},
+"save_tips_open_setting": {
+"message": "Открыть настройки Page"
+},
+"settings": {
+"message": "настройки"
+},
+"settings_already_save": {
+"message": "Настройка сохраняется ."
+},
+"settings_collect_one_page": {
+"message": "Собрать, чтобы на странице"
+},
+"settings_download": {
+"message": "Chrome загрузок Установка"
+},
+"settings_min_display": {
+"message": "По умолчанию разрешение мин"
+},
+"settings_rule_last_update_time": {
+"message": "Последнее обновление :"
+},
+"settings_rule_last_update_time_none": {
+"message": "Ни один"
+},
+"settings_save_folder": {
+"message": "папки для сохранения имени ( Ctrl + S )"
+},
+"settings_save_use_fixed_name": {
+"message": "использовать фиксированное имя"
+},
+"settings_save_use_title": {
+"message": "Использование веб-сайт название"
+},
+"settings_show_website": {
+"message": "Показать ссылку"
+},
+"settings_simple": {
+"message": "Нормальные Настройки"
+},
+"settings_special_support": {
+"message": "Специальная поддержка"
+},
+"settings_special_support_desc": {
+"message": "Общие правила"
+},
+"settings_use_shortcut_key": {
+"message": "Используйте короткое нажатие : Alt + Z"
+},
+"sort": {
+"message": "сортировать"
+},
+"sort_big_first": {
+"message": "Большой Изображение Первая"
+},
+"sort_normal": {
+"message": "Сортировать по сайту"
+},
+"sort_small_first": {
+"message": "Изображение первая"
+},
+"switch_view": {
+"message": "Переключение представления"
+},
+"update_declaration": {
+"message": "Это расширение ссылается некоторый код из zzllrr х \u003c href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e小乐图客\u003c/a\u003e"
+},
+"update_description": {
+"message": "1 английский перевод \u003cbr /\u003e 2 Chrome загрузить настройки подсказках обновляются"
+},
+"update_title": {
+"message": "Fatkun пакетной загрузки изображения Версия 1.8.3"
+},
+"width": {
+"message": "ширина"
+},
+"width_short": {
+"message": "ширина"
+}
+}

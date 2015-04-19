@@ -1,0 +1,203 @@
+{
+"active_tab": {
+"message": "Dette faneblad"
+},
+"advise": {
+"message": "blog"
+},
+"aimg_tooltip": {
+"message": "Klik på billedet for at fjerne markeringen eller check"
+},
+"all_tab": {
+"message": "Alle faner"
+},
+"apply": {
+"message": "Anvend"
+},
+"chrome_download_settings_url": {
+"message": "Hent"
+},
+"default_title": {
+"message": "Fatkun Batch Hent billede"
+},
+"default_title_desc": {
+"message": "ShortKey : Alt + Z"
+},
+"description": {
+"message": "En nyttig og enkel billede download extension.You kan filtrere efter opløsning eller link ."
+},
+"do_not_show_again": {
+"message": "Jeg ved det , Vis ikke denne dialog mere."
+},
+"donate": {
+"message": "Doner"
+},
+"export_btn": {
+"message": "Eksport"
+},
+"export_close": {
+"message": "Luk"
+},
+"export_format": {
+"message": "format"
+},
+"export_format_tips": {
+"message": "Du kan bruge disse variabler : { NO } betyder sekvens nummer, { LINK } betyder billedlink"
+},
+"export_link": {
+"message": "Export link"
+},
+"filter_link": {
+"message": "Filtrer efter link"
+},
+"height": {
+"message": "Højde"
+},
+"height_short": {
+"message": "Højde"
+},
+"inverse": {
+"message": "Toggle"
+},
+"min_display": {
+"message": "Max Side"
+},
+"more_options": {
+"message": "Flere indstillinger"
+},
+"not_rename": {
+"message": "ikke omdøbe"
+},
+"open_multiple_page": {
+"message": "Åbent multi side ?"
+},
+"open_multiple_page_action": {
+"message": "åbne side"
+},
+"open_multiple_page_tips": {
+"message": "tillade Multirow , wildcard [ 01-10 ] betyder 01-10 side , for eksempel: http://abc.com?page=[1-4,az ]"
+},
+"popup_tips": {
+"message": "Kort Nøgle: Alt + Z"
+},
+"process_end": {
+"message": "billeder"
+},
+"process_show_start": {
+"message": ""
+},
+"process_unknow_image": {
+"message": "billede få opløsning"
+},
+"rename_by_this_format": {
+"message": "Omdøb baseret på"
+},
+"rename_tips": {
+"message": "Du kan bruge disse variabler : { NO } betyder sekvens nummer, { EXT } betyder udvidet navn"
+},
+"right_click_to_open": {
+"message": "( Højreklik for at åbne og kontrollere indstillinger)"
+},
+"sample": {
+"message": ""
+},
+"sample_end": {
+"message": ""
+},
+"save": {
+"message": "Gem"
+},
+"save_image": {
+"message": "Gem billede"
+},
+"save_tips": {
+"message": "\"Spørg hvor du vil gemme hver enkelt fil , før du henter \" i Chrome Downlods Setting.Otherwise , mange mange bekræftelse dialogbokse flok ."
+},
+"save_tips_cancel": {
+"message": "afbestille"
+},
+"save_tips_do_not_check": {
+"message": "Vælg ikke"
+},
+"save_tips_done": {
+"message": "Gem billede"
+},
+"save_tips_open_setting": {
+"message": "Åbn indstillinger Page"
+},
+"settings": {
+"message": "Indstillinger"
+},
+"settings_already_save": {
+"message": "Indstilling gemt ."
+},
+"settings_collect_one_page": {
+"message": "Saml til på side"
+},
+"settings_download": {
+"message": "Chrome Downloads Indstilling"
+},
+"settings_min_display": {
+"message": "Standard min beslutning"
+},
+"settings_rule_last_update_time": {
+"message": "Seneste opdatering:"
+},
+"settings_rule_last_update_time_none": {
+"message": "Ingen"
+},
+"settings_save_folder": {
+"message": "spare mappenavn (for Ctrl + S)"
+},
+"settings_save_use_fixed_name": {
+"message": "bruge fast navn"
+},
+"settings_save_use_title": {
+"message": "brug website titel"
+},
+"settings_show_website": {
+"message": "Vis link"
+},
+"settings_simple": {
+"message": "normale indstillinger"
+},
+"settings_special_support": {
+"message": "særlig støtte"
+},
+"settings_special_support_desc": {
+"message": "fælles regel"
+},
+"settings_use_shortcut_key": {
+"message": "Brug korte Nøgle: Alt + Z"
+},
+"sort": {
+"message": "slags"
+},
+"sort_big_first": {
+"message": "Big billede først"
+},
+"sort_normal": {
+"message": "Sorter efter stedet"
+},
+"sort_small_first": {
+"message": "Lille billede først"
+},
+"switch_view": {
+"message": "Skift View"
+},
+"update_declaration": {
+"message": "Denne udvidelse refereres noget kode af zzllrr s \u003ca href=\"http://chrome.google.com/webstore/detail/gfjhimhkjmipphnaminnnnjpnlneeplk?hl=zh_cn\"\u003e小乐图客\u003c/a\u003e"
+},
+"update_description": {
+"message": "1 engelsk oversættelse \u003cbr /\u003e 2 Chrome download af indstillinger værktøjsvink opdateret"
+},
+"update_title": {
+"message": "Fatkun Batch Hent billede -version 1.8.3"
+},
+"width": {
+"message": "Bredde"
+},
+"width_short": {
+"message": "Bredde"
+}
+}
