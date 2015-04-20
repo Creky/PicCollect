@@ -1,6 +1,6 @@
 // Saves options to localStorage.
 
-var myFixedName = "Fatkun图片批量下载";
+var myFixedName = "图片批量下载";
 var optionOp = {
     bind: function() {
         var me = this;
