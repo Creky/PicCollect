@@ -315,13 +315,16 @@ OutputManger.prototype = {
 
     },
     setImageVisible: function(li, visible) {
-        //var src = li.find('.aimg').attr('src');
+        var img=li.find("img.aimg");
         if (visible && li.hasClass("delimg")) {
             li.removeClass('delimg');
-            //li.find('.aimg').attr('src', li.find('.aimg').attr('data-src'));
+            img.attr("src",img.attr("data-src"));
         } else if (!visible && !li.hasClass("delimg")) {
-            //li.find('.aimg').attr('src', '');
             li.addClass('delimg');
+            var src=img.attr("src");
+            var bgSize=img.width()+"px "+img.height()+"px";
+            img.attr("src","")
+            .css({"background-image":"url("+src+")","background-repeat":"no-repeat","background-size":bgSize});
         }
         this.showNum();
     },
