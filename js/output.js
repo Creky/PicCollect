@@ -194,16 +194,22 @@ OutputManger.prototype = {
         // 鼠标移入移出
         $("#list").find("li").live({
             mouseenter: function() {
-                $(this).find(".simple_tool").css("display", "inline");
-                if (localStorage.showUrl == "1") {
-                    $(this).find(".picurl").css("display", "block");
-                }
+                //$(this).find(".simple_tool").css("display", "inline");
+                //if (localStorage.showUrl == "1") {
+                //    $(this).find(".picurl").css("display", "block");
+                //}
+                $(this).css("overflow","visible");
+                var img=$(this).find("img.aimg");
+                img.css({"zIndex":1000,"border":"2px solid #eee","top":(img.position().top-2)+"px","left":(img.position().left-2)+"px"});
             },
             mouseleave: function() {
-                $(this).find(".simple_tool").css("display", "none");
-                if (localStorage.showUrl == "1") {
-                    $(this).find(".picurl").css("display", "none");
-                }
+                //$(this).find(".simple_tool").css("display", "none");
+                //if (localStorage.showUrl == "1") {
+                //    $(this).find(".picurl").css("display", "none");
+                //}
+                $(this).css("overflow","hidden");
+                var img=$(this).find("img.aimg");
+                img.css({"zIndex":0,"border":"none","top":(img.position().top+2)+"px","left":(img.position().left+2)+"px"});
             }
         });
 
