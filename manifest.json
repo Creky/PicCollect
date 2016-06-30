@@ -12,7 +12,7 @@
       "js": [ "js/jQuery.js", "js/content.js" ],
       "matches": [ "\u003Call_urls>" ]
    } ],
-   "content_security_policy": "script-src 'self' https://cdn.dreamnetworld.com; object-src 'self'",
+   "content_security_policy": "script-src 'self' ; object-src 'self'",
    "default_locale": "en",
    "description": "__MSG_description__",
    "homepage_url": "https://chrome.google.com/webstore/detail/nnjjahlikiabnchcpehcpkdeckfgnohf",
@@ -28,5 +28,5 @@
    "sandbox": {
       "pages": [ "sandbox.html" ]
    },
-   "version": "2.3"
+   "version": "2.9"
 }
