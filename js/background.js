@@ -101,13 +101,13 @@ function getTabImage(config) {
             windowId: chrome.windows.WINDOW_ID_CURRENT
         };
     } else {
-        alert('出错啦！');
+        console.log('出错啦！');
         return;
     }
 
     chrome.tabs.query(tabConf, function(tabs) {
         if (tabs.length == 0) {
-            alert('没有标签啊？！');
+            console.log('没有标签啊？！');
             return;
         }
         localStorage["title"] = tabs[0].title;
@@ -129,7 +129,7 @@ function getTabImage(config) {
                 });
 
                 var outputTabId = outputTab.id;
-                console.log('outputTabId', outputTabId);
+                console.log('outputTabId and tabs:', outputTabId,tabs);
                 for ( var i = 0; i < tabs.length; i++) {
                     var tab = tabs[i];
                     getImage(tab, outputTabId);
@@ -172,9 +172,8 @@ function getImage(tab, outputTabId) {
             
             // 加入webRequestCache的内容
             var thisTabCache = webRequestCache[tabId];
+            console.log("webRequestCache里的内容：",thisTabCache);
             if (typeof thisTabCache == "object") {
-                console.log('thisTabCache.length', thisTabCache.length);
-
                 var tmpImgList = [];
                 $.each(thisTabCache, function(i, item) {
                     tmpImgList.push({'type': 'IMG', 'src': item, 'width': 0, 'height': 0});

@@ -36,6 +36,7 @@ ImageManager.prototype = {
         // this.config = {'rules': []};
         // 普通图片
         var imgs = document.getElementsByTagName("img");
+        console.log("普通图片1",imgs);
         for ( var i = 0; i < imgs.length; i++) {
             var img = imgs[i];
             var newImg = new Image();// 新建立一个图片图象
@@ -51,6 +52,7 @@ ImageManager.prototype = {
 
             this.addImg(ImageType.IMG, img.src, width, height);
         }
+        console.log("普通图片",imgs);
 
         // input type=image 图片
         var inputs = document.getElementsByTagName("input");
@@ -86,12 +88,26 @@ ImageManager.prototype = {
                 // this.addImg(ImageType.TEXT, match[i], 0, 0);
             // }
         // }
+        console.log("Content2取到的图片列表：",this.imgList);
+
+        var countTime=0;
+        var _this=this;
+        var sendImgList=function(){
+            chromeSender({
+                cmd: 'ADD_PIC',
+                outputTabId: _this.config.outputTabId,
+                imgList: _this.imgList
+            },function(obj){
+                if(obj && obj.retCode==1 || countTime>=150){
+                    countTime=0;
+                }else{
+                    setTimeout(sendImgList,200);
+                    countTime++;
+                }
+            });
+        }
+        sendImgList();
         
-        chromeSender({
-            cmd: 'ADD_PIC',
-            outputTabId: this.config.outputTabId,
-            imgList: this.imgList
-        });
         return this.imgList;
     },
     addImg: function(type, src, width, height) {
@@ -112,7 +128,7 @@ ImageManager.prototype = {
     },
     getBigImgUrl: function(src) {
         var rules = this.config.rules;
-        console.log('src:', src );
+        //console.log('src:', src );
         for ( var i = 0; i < rules.length; i++) {
             var rule = rules[i];
             var srcPattern = new RegExp(rule.srcPattern);

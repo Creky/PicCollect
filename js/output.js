@@ -1,4 +1,46 @@
 var DefaultMinWidth = 0, DefaultMinHeight=0;
+
+var countTime=0;
+var outputManger;
+
+var reciver = chrome.extension.onMessage;
+if (!reciver) {
+    reciver = chrome.extension.onRequest;
+}
+
+reciver.addListener(function(request, sender, sendResponse) {
+    console.log("已经收到消息",request,sender);
+    if (request.cmd == 'ADD_PIC') {
+        if(sendResponse){
+            sendResponse({"retCode":1});
+        }
+        addImgList(request);        
+    }
+});
+
+function addImgList(req){
+    if(countTime>=150){
+        countTime=0;
+        return;
+    }
+    if(!outputManger){
+        console.log("outputManger为false，200ms后重试",req.imgList);
+        setTimeout(function(){
+            addImgList(req);
+        },200);
+        countTime++;
+    }else{
+        countTime=0;
+        console.log("已经添加List",req.imgList);
+        outputManger.addImgList(req.imgList);
+    }
+}
+
+$(function() {
+    outputManger = new OutputManger();
+    outputManger.init();
+});
+
 var OutputManger = function() {
 };
 OutputManger.prototype = {
@@ -627,41 +669,3 @@ QueneEnginer.prototype = {
         img.src = item.src;
     }
 };
-
-var countTime=0;
-var outputManger;
-$(function() {
-    outputManger = new OutputManger();
-    outputManger.init();
-});
-
-
-var reciver = chrome.extension.onMessage;
-if (!reciver) {
-    reciver = chrome.extension.onRequest;
-}
-
-reciver.addListener(function(request, sender, sendResponse) {
-    console.log("已经收到消息",request,sender);
-    if (request.cmd == 'ADD_PIC') {
-        addImgList(request);        
-    }
-});
-
-function addImgList(req){
-    if(countTime>=150){
-        countTime=0;
-        return;
-    }
-    if(!outputManger){
-        console.log("outputManger为false，200ms后重试",req.imgList);
-        setTimeout(function(){
-            addImgList(req);
-        },200);
-        countTime++;
-    }else{
-        countTime=0;
-        console.log("已经添加List",req.imgList);
-        outputManger.addImgList(req.imgList);
-    }
-}
