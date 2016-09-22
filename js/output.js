@@ -628,24 +628,40 @@ QueneEnginer.prototype = {
     }
 };
 
+var countTime=0;
+var outputManger;
 $(function() {
-    var outputManger = new OutputManger();
+    outputManger = new OutputManger();
     outputManger.init();
-
-    function myOnMessage(request, sender, sendResponse) {
-        if (request.cmd == 'ADD_PIC') {
-            outputManger.addImgList(request.imgList);
-        }
-    }
-
-
-    var reciver = chrome.extension.onMessage;
-    if (reciver  == undefined) {
-        reciver = chrome.extension.onRequest;
-    }
-
-    reciver.addListener(function(request, sender,
-            sendResponse) {
-        myOnMessage(request, sender, sendResponse);
-    });
 });
+
+
+var reciver = chrome.extension.onMessage;
+if (!reciver) {
+    reciver = chrome.extension.onRequest;
+}
+
+reciver.addListener(function(request, sender, sendResponse) {
+    console.log("已经收到消息",request,sender);
+    if (request.cmd == 'ADD_PIC') {
+        addImgList(request);        
+    }
+});
+
+function addImgList(req){
+    if(countTime>=150){
+        countTime=0;
+        return;
+    }
+    if(!outputManger){
+        console.log("outputManger为false，200ms后重试",req.imgList);
+        setTimeout(function(){
+            addImgList(req);
+        },200);
+        countTime++;
+    }else{
+        countTime=0;
+        console.log("已经添加List",req.imgList);
+        outputManger.addImgList(req.imgList);
+    }
+}
