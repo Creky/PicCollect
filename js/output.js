@@ -192,29 +192,22 @@ OutputManger.prototype = {
         });
 
         // 鼠标移入移出
-        $("#list").find("li").live({
-            mouseenter: function() {
-                //$(this).find(".simple_tool").css("display", "inline");
-                //if (localStorage.showUrl == "1") {
-                //    $(this).find(".picurl").css("display", "block");
-                //}
-                $(this).css("overflow","visible");
-                var img=$(this).find("img.aimg");
-                img.css({"zIndex":1000,"border":"2px solid #eee","top":(img.position().top-2)+"px","left":(img.position().left-2)+"px"});
-            },
-            mouseleave: function() {
-                //$(this).find(".simple_tool").css("display", "none");
-                //if (localStorage.showUrl == "1") {
-                //    $(this).find(".picurl").css("display", "none");
-                //}
-                $(this).css("overflow","hidden");
-                var img=$(this).find("img.aimg");
-                img.css({"zIndex":0,"border":"none","top":(img.position().top+2)+"px","left":(img.position().left+2)+"px"});
-            }
+        $("#list").on("mouseenter","li", function() {
+            $(this).css("overflow","visible");
+            var img=$(this).find("img.aimg");
+            var pos=img.position();
+            img.css({"zIndex":1000,"border":"2px solid #eee","top":(pos.top-2)+"px","left":(pos.left-2)+"px"});
+        });
+
+        $("#list").on("mouseleave","li",function() {
+            $(this).css("overflow","hidden");
+            var img=$(this).find("img.aimg");
+            var pos=img.position();
+            img.css({"zIndex":0,"border":"none","top":(pos.top+2)+"px","left":(pos.left+2)+"px"});
         });
 
         // 点击时
-        $("#list").find("li").live("click", function() {
+        $("#list").on("click","li", function() {
             var li = $(this);
             var visible = li.hasClass("delimg");
             me.setImageVisible(li, visible);
@@ -222,14 +215,14 @@ OutputManger.prototype = {
         });
 
         // 新窗口打开图片
-        $("#list").find(".open_link").live("click", function() {
+        $("#list").on("click",".open_link", function() {
             var src = $(this).parent().parent().find(".aimg").attr("data-src");
             window.open(src);
             return false;
         });
 
         // 新浪微博分享
-        $("#list").find(".share_sina").live("click", function() {
+        $("#list").on("click",".share_sina", function() {
             var src = $(this).parent().parent().find(".aimg").attr("src");
             me.share({
                 url: src,

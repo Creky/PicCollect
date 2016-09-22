@@ -52,7 +52,7 @@ input[type=button]{padding:2px 4px;}
 #filterPanel{padding:0 5px;}
 /*background-image:-webkit-gradient(linear,left top,left bottom, from(#F8F8F8), to(#E4E4E4)); */#linktxt{width:100px;}
 #list{list-style:none;margin:45px 10px 10px;}
-#list li{float:left;width:250px;height:230px;overflow:hidden;margin:5px;  box-shadow: 0 1px 5px #ccc; position:relative;text-align:center;}
+#list li{float:left;width:250px;height:230px;overflow:hidden;margin:5px;  box-shadow: 0 1px 5px #ccc; position:relative;}
 #list li .aimg{position:relative;vertical-align:text-top;cursor:pointer;}
 #list li.selectedimg{}
 #list li.delimg{min-width:200px;min-height:200px;opacity:.3;}
