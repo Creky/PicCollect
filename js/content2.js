@@ -29,14 +29,12 @@ var ImageManager = function() {};
 ImageManager.prototype = {
     imgList: [],
     getImage: function(config) {
-        console.log("ImageManager.getImage");
         this.imgList = [];
         this.config = eval(config);
         //console.log("ImageManager.getImage", this.config );
         // this.config = {'rules': []};
         // 普通图片
         var imgs = document.getElementsByTagName("img");
-        console.log("普通图片1",imgs);
         for ( var i = 0; i < imgs.length; i++) {
             var img = imgs[i];
             var newImg = new Image();// 新建立一个图片图象
@@ -52,7 +50,6 @@ ImageManager.prototype = {
 
             this.addImg(ImageType.IMG, img.src, width, height);
         }
-        console.log("普通图片",imgs);
 
         // input type=image 图片
         var inputs = document.getElementsByTagName("input");
@@ -92,15 +89,21 @@ ImageManager.prototype = {
 
         var countTime=0;
         var _this=this;
+        var processed=false;
         var sendImgList=function(){
+            if(_this.imgList.length<=0){
+                return;
+            }
+            console.log("发送图片列表~~~~");
             chromeSender({
                 cmd: 'ADD_PIC',
                 outputTabId: _this.config.outputTabId,
                 imgList: _this.imgList
             },function(obj){
-                if(obj && obj.retCode==1 || countTime>=150){
+                if((obj && obj.retCode==1) || countTime>=50){
                     countTime=0;
-                }else{
+                    processed=true;
+                }else if(!processed && _this.imgList.length>0){
                     setTimeout(sendImgList,200);
                     countTime++;
                 }

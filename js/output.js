@@ -11,10 +11,10 @@ if (!reciver) {
 reciver.addListener(function(request, sender, sendResponse) {
     console.log("已经收到消息",request,sender);
     if (request.cmd == 'ADD_PIC') {
-        if(sendResponse){
+        if(!!sendResponse){
             sendResponse({"retCode":1});
         }
-        addImgList(request);        
+        addImgList(request);
     }
 });
 
@@ -31,7 +31,6 @@ function addImgList(req){
         countTime++;
     }else{
         countTime=0;
-        console.log("已经添加List",req.imgList);
         outputManger.addImgList(req.imgList);
     }
 }
@@ -140,7 +139,6 @@ OutputManger.prototype = {
     },
     addImgList: function(imgList, reset) {
         var me = this;
-        console.log('imgList', imgList);
         this.showNum();
         var totalCount = me.allImgList.length;
         var count = 0;

@@ -5,62 +5,62 @@ if (typeof chromeTabSender != 'function') {
 }
 
 // webRequest的缓存
-var webRequestCache = {};
+// var webRequestCache = {};
 
-function addToWebRequestCache(tabId, imgArray) {
-    if (typeof webRequestCache[tabId] == 'object') {
-        webRequestCache[tabId] = $.merge(webRequestCache[tabId], imgArray);
-    } else {
-        webRequestCache[tabId] = imgArray;
-    }
+// function addToWebRequestCache(tabId, imgArray) {
+//     if (typeof webRequestCache[tabId] == 'object') {
+//         webRequestCache[tabId] = $.merge(webRequestCache[tabId], imgArray);
+//     } else {
+//         webRequestCache[tabId] = imgArray;
+//     }
     
 
-    //console.log('webRequestCache', webRequestCache); 
-}
+//     //console.log('webRequestCache', webRequestCache); 
+// }
 
 
-chrome.webRequest.onCompleted.addListener(function(details) { 
-    var url = details.url;
-    var tabId = details.tabId;
-    if (tabId == -1) return;
+// chrome.webRequest.onCompleted.addListener(function(details) { 
+//     var url = details.url;
+//     var tabId = details.tabId;
+//     if (tabId == -1) return;
 
-    // 百度相册
-    // if (url.indexOf("xiangce.baidu.com/picture/gallery/data/list/") != -1) {
-    //     //console.log('details', details); 
-    //     $.getJSON(url, function(data) {
-    //         var imgArray = [];
-    //         var imgList = data.data.picture_list;
-    //         console.log('data', data);
-    //         for (var i = 0; i < imgList.length; i++) {
-    //             var img = imgList[i];
-    //             imgArray.push(img.img_src_1600);
-    //         }
-    //         addToWebRequestCache(tabId, imgArray);
-    //     });
-    // }
-},{urls:["<all_urls>"]}, ["responseHeaders"]);
+//     // 百度相册
+//     // if (url.indexOf("xiangce.baidu.com/picture/gallery/data/list/") != -1) {
+//     //     //console.log('details', details); 
+//     //     $.getJSON(url, function(data) {
+//     //         var imgArray = [];
+//     //         var imgList = data.data.picture_list;
+//     //         console.log('data', data);
+//     //         for (var i = 0; i < imgList.length; i++) {
+//     //             var img = imgList[i];
+//     //             imgArray.push(img.img_src_1600);
+//     //         }
+//     //         addToWebRequestCache(tabId, imgArray);
+//     //     });
+//     // }
+// },{urls:["<all_urls>"]}, ["responseHeaders"]);
 
-function clearCache() {
-    chrome.tabs.query({
-    }, function(tabs) {
-        var tabIds = [];
-        for (var i = 0; i < tabs.length; i++) {
-            tabIds.push(tabs[i].id);
-        }
+// function clearCache() {
+//     chrome.tabs.query({
+//     }, function(tabs) {
+//         var tabIds = [];
+//         for (var i = 0; i < tabs.length; i++) {
+//             tabIds.push(tabs[i].id);
+//         }
 
-        for (var tabId in webRequestCache) {
-           // console.log('tabId',tabId);
-            if (webRequestCache.hasOwnProperty(tabId)) {
-                if ($.inArray(parseInt(tabId), tabIds) == -1) {
-                    delete webRequestCache[tabId];
-                }
-            }
-        }
-        //console.log('tabs', tabs);
-    });
-}
+//         for (var tabId in webRequestCache) {
+//            // console.log('tabId',tabId);
+//             if (webRequestCache.hasOwnProperty(tabId)) {
+//                 if ($.inArray(parseInt(tabId), tabIds) == -1) {
+//                     delete webRequestCache[tabId];
+//                 }
+//             }
+//         }
+//         //console.log('tabs', tabs);
+//     });
+// }
 
-setInterval(clearCache, 10 * 60 * 1000); // 10 min
+// setInterval(clearCache, 10 * 60 * 1000); // 10 min
 
 
 var GET_IMAGE_TYPE = {
@@ -171,23 +171,22 @@ function getImage(tab, outputTabId) {
         }, function() {
             
             // 加入webRequestCache的内容
-            var thisTabCache = webRequestCache[tabId];
-            console.log("webRequestCache里的内容：",thisTabCache);
-            if (typeof thisTabCache == "object") {
-                var tmpImgList = [];
-                $.each(thisTabCache, function(i, item) {
-                    tmpImgList.push({'type': 'IMG', 'src': item, 'width': 0, 'height': 0});
-                });
+            // var thisTabCache = webRequestCache[tabId];
+            // if (typeof thisTabCache == "object") {
+            //     var tmpImgList = [];
+            //     $.each(thisTabCache, function(i, item) {
+            //         tmpImgList.push({'type': 'IMG', 'src': item, 'width': 0, 'height': 0});
+            //     });
 
-                chromeTabSender(outputTabId, {
-                    cmd: 'ADD_PIC',
-                    imgList: tmpImgList
-                }, function(response) {
-                });
+            //     chromeTabSender(outputTabId, {
+            //         cmd: 'ADD_PIC',
+            //         imgList: tmpImgList
+            //     }, function(response) {
+            //     });
 
-                // 清除
-                delete webRequestCache[tabId];
-            }
+            //     // 清除
+            //     delete webRequestCache[tabId];
+            // }
 
             chrome.browserAction.setBadgeText({
                 text: ''
@@ -311,15 +310,15 @@ function myOnMessage(request, sender, sendResponse) {
     //console.log('myOnMessage onRequest', request);
     switch (request.cmd) {
     case 'ADD_PIC':
-        //console.log('ADD_PIC');
-        var imgList = request.imgList;
-        var outputTabId = request.outputTabId;
-        chromeTabSender(outputTabId, {
-            cmd: 'ADD_PIC',
-            imgList: imgList
-        }, function(response) {
-        });
-        sendResponse({});
+        // console.log('Background接收到消息');
+        // var imgList = request.imgList;
+        // var outputTabId = request.outputTabId;
+        // chromeTabSender(outputTabId, {
+        //     cmd: 'ADD_PIC',
+        //     imgList: imgList
+        // }, function(response) {
+        // });
+        // sendResponse({});
         break;
     case 'IS_USE_HOTKEY':
         if (localStorage.useHotkey == undefined) {
