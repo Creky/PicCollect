@@ -20,12 +20,12 @@ var optionOp = {
             //导入
         });
 
-        $("#user_rule_wrap .btn_del").live('click', function() {
+        $("#user_rule_wrap").on('click',".btn_del", function() {
             var thiz = $(this).parent().parent();
             thiz.remove();
         });
 
-        $("#user_rule_wrap .btn_test").live('click', function() {
+        $("#user_rule_wrap").on('click',".btn_test", function() {
             var thiz = $(this).parent().parent();
             me.testUserRule(thiz);
         });
