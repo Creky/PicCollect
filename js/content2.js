@@ -87,29 +87,33 @@ ImageManager.prototype = {
         // }
         console.log("Content2取到的图片列表：",this.imgList);
 
-        var countTime=0;
         var _this=this;
-        var processed=false;
+        var countTime=0;
+        var interval=0;
         var sendImgList=function(){
             if(_this.imgList.length<=0){
                 return;
             }
+            countTime++;
             console.log("发送图片列表~~~~");
             chromeSender({
                 cmd: 'ADD_PIC',
                 outputTabId: _this.config.outputTabId,
                 imgList: _this.imgList
             },function(obj){
-                if((obj && obj.retCode==1) || countTime>=50){
+                console.log("收到的返回值：",obj,countTime);
+                if(obj && obj.retCode==1){
                     countTime=0;
-                    processed=true;
-                }else if(!processed && _this.imgList.length>0){
-                    setTimeout(sendImgList,200);
-                    countTime++;
+                    clearInterval(interval);
                 }
             });
+            if(countTime++>=50){
+                countTime=0;
+                clearInterval(interval);
+            }
         }
         sendImgList();
+        interval=setInterval(sendImgList,200);
         
         return this.imgList;
     },
