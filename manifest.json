@@ -10,7 +10,7 @@
    "content_scripts": [ {
       "all_frames": true,
       "js": [ "js/jQuery.js", "js/content.js" ],
-      "matches": [ "\u003Call_urls>" ]
+      "matches": [ "<all_urls>" ]
    } ],
    "content_security_policy": "script-src 'self' ; object-src 'self'",
    "default_locale": "en",
@@ -24,9 +24,9 @@
    "name": "__MSG_default_title__",
    "offline_enabled": true,
    "options_page": "options.html",
-   "permissions": [ "downloads", "webRequest", "webRequestBlocking", "tabs", "\u003Call_urls>" ],
+   "permissions": [ "downloads", "webRequest", "webRequestBlocking", "tabs", "<all_urls>" ],
    "sandbox": {
       "pages": [ "sandbox.html" ]
    },
-   "version": "3.0"
+   "version": "3.1"
 }

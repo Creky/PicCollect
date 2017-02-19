@@ -253,7 +253,7 @@ function translateUrl(urlText) {
 }
 
 
-function openPage(pageUrls) {
+function openPage(pageUrls,targetSelector) {
     if (pageUrls.length < 1) {
         return ;
     }
@@ -270,36 +270,39 @@ function openPage(pageUrls) {
 
     if (pageArray.length < 1) return;
 
-    chrome.tabs.create({url: pageArray[0], selected: true}, function(tab) {
+    chrome.tabs.create({url: pageArray[0], active: true}, function(tab) {
         pageArray.shift();
-        // 打开各个页面
-        var navPage = "<a href='#top'>第1页</a>";
-        $(pageArray).each(function(index, url) {
-            var page = index + 2;
-            var pageName = "_fatkunimage_"+page+"";
-            navPage += "<a href='#"+pageName+"'>第"+ page +"页</a>";
-            var openPageCode = "$(\"<div style='background:#ccc;color:#000;padding:10px;'><a name='"+pageName+"'/>---分隔线---地址："+url+"</div>\").appendTo(\"body\");"
-                + "$(\"<iframe src='"+url+"' style='width:100%;border:0;'"
-                + "onload='this.height = this.contentDocument.body.offsetHeight + 100;'></iframe>\")"
-                + ".appendTo(\"body\");";
+        chrome.tabs.executeScript(tab.id, { file: "js/jQuery.js" }, function(){
+            // 打开各个页面
+            var navPage = "<a href='#top'>第1页</a>";
+            $(pageArray).each(function(index, url) {
+                var page = index + 2;
+                var pageName = "_fatkunimage_"+page+"";
+                navPage += "<a href='#"+pageName+"'>第"+ page +"页</a>";
+                var openPageCode = "$(\"<div style='background:#ccc;color:#000;padding:10px;'><a name='"+pageName+"'/>---分隔线---地址："+url+"</div><div id='"+pageName+"'></div>\").appendTo(\"body\");";
+                if(!targetSelector){
+                    openPageCode += "$(\"<iframe src='"+url+"' style='width:100%;border:0;'onload='this.height = this.contentDocument.body.offsetHeight + 100;'></iframe>\").appendTo(\"body\");";
+                }
+                    
+                chrome.tabs.executeScript(tab.id, {code: openPageCode}, null);
+
+                if(targetSelector){
+                    var resCode='$("#'+pageName+'").load("'+url+' '+targetSelector+'");'
+                    // console.log("resCode",resCode);
+                    chrome.tabs.executeScript(tab.id, {code: resCode}, null);
+                }
+            });
+
+            // 导航
+            var navCode = "$(\"<style>._fatkun_nav {position: fixed;top: 0;right: 0; background: #eee;}"
+                +"._fatkun_nav a{display: block;padding: 10px 20px; text-decoration: none; color: #000;}._fatkun_nav a:hover{background:#999; color:#FFF;}</style>" 
+                +"<div class='_fatkun_nav'>"+navPage+"</div>\").appendTo(\"body\")";
             chrome.tabs.executeScript(tab.id, {
-                code: openPageCode
+                code: navCode
             }, function(){});
         });
-
-        // 导航
-        var navCode = "$(\"<style>._fatkun_nav {position: fixed;top: 0;right: 0; background: #eee;}"
-            +"._fatkun_nav a{display: block;padding: 10px 20px; text-decoration: none; color: #000;}._fatkun_nav a:hover{background:#999; color:#FFF;}</style>" 
-            +"<div class='_fatkun_nav'>"+navPage+"</div>\").appendTo(\"body\")";
-        chrome.tabs.executeScript(tab.id, {
-            code: navCode
-        }, function(){});
     });
-    
-
-
 }
-
 
 // 点击按钮
 chrome.browserAction.onClicked.addListener(function(tab) {
@@ -338,7 +341,8 @@ function myOnMessage(request, sender, sendResponse) {
         break;
     case 'OPEN_PAGE':
         var pageUrls = request.pageUrls;
-        openPage(pageUrls);
+        var targetSelector=request.targetSelector;
+        openPage(pageUrls,targetSelector);
         sendResponse({});
         break;
     }

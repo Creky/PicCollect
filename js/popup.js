@@ -16,9 +16,12 @@ $('#btnGetAllTab').click(function() {
 $('#btnOpenPage').click(function() {
 	var pageUrls = $("#textPage").val().split("\n");
 	localStorage.pageUrls = $("#textPage").val();
-	chromeSender({"cmd": "OPEN_PAGE", pageUrls: pageUrls});
+	var targetSelector = $("#targetSelector").val();
+	localStorage.targetSelector=targetSelector;
+	chromeSender({"cmd": "OPEN_PAGE", pageUrls: pageUrls, targetSelector: targetSelector});
 });
 
 $(function() {
 	$("#textPage").val(localStorage.pageUrls);
+	$("#targetSelector").val(localStorage.targetSelector);
 });
